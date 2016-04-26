@@ -1,0 +1,195 @@
+/* ===
+	0. Imports
+	1. Style reset
+	2. Responsive wrapper
+	3. Hero
+	4. Header
+	5. Personal info
+	6. Features
+=== */
+
+/*
+	Imports
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+/*
+	Style reset
+*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	color: #333;
+}
+
+p {
+	line-height: 1.75rem;
+}
+
+/*
+	Responsive wrapper
+*/
+
+.wrapper {
+	padding: 0 32px;
+	width: 100%;
+	max-width: 100%;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+	.wrapper {
+		margin-left: 12.5%;
+		width: 75%;
+	}
+}
+
+@media screen and (min-width: 1025px) {
+	.wrapper {
+		margin-left: 30%;
+		width: 40%;
+	}
+}
+
+/*
+	Hero
+*/
+
+.hero {
+	width: 100%;
+	padding: 128px 0;
+	text-align: center;
+}
+
+.hero__logo {
+	width: 256px;
+	max-width: 60%;
+}
+
+/*
+	Header
+*/
+
+.header-title {
+	width: 100%;
+	padding: 32px 0;
+	text-align: center;
+	color: #fff;
+	background: #4caf50;
+}
+
+.header-title h1 {
+	font-size: 3rem;
+}
+
+.header-title h3 {
+	opacity: 0.8;
+}
+
+/*
+	Personal info
+*/
+
+.personal-info {
+	width: 100%;
+	padding: 72px 0;
+	text-align: center;
+	background: #eee;
+}
+
+.personal-info__portrait {
+	width: 128px;
+	max-width: 40%;
+	margin-bottom: 32px;
+}
+
+.personal-info h2 {
+	margin-bottom: 16px;
+}
+
+/*
+	Features
+*/
+
+.features {
+	padding: 64px 0;
+}
+
+.features__title {
+	color: #4caf50;
+	margin-bottom: 32px;
+}
+
+.features__development {
+	margin-bottom: 32px;
+}
+
+.features__design {
+	text-align: right;
+}
+
+/*
+	Contact
+*/
+
+.contact {
+	padding: 48px 0;
+	text-align: center;
+	background: #eee;
+	/*background: #4caf50;
+	color: #fff;*/
+}
+
+.contact__title {
+	opacity: 0.8;
+	margin-bottom: 32px;
+	font-weight: lighter;
+}
+
+.contact__subtitle {
+	margin-bottom: 32px;
+}
+
+.contact__button {
+	display: inline-block;
+	padding: 12px;
+	margin-top: 32px;
+	text-decoration: none;
+	cursor: pointer;
+	background: #2e7d32;
+	color: #fff;
+	transition: all 0.1s ease;
+	border-radius: 2px;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.contact__button:hover, .contact__button:focus {
+	background: #1b5e20;
+}
+
+/*
+	Footer
+*/
+
+footer {
+	padding: 32px 0;
+	text-align: center;
+	background: #424242;
+}
+
+.footer__image {
+	width: 48px;
+	max-width: 100%;
+	border-radius: 24px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.38);
+	margin-bottom: 16px;
+}
+
+footer p {
+	color: #fff;
+	opacity: 0.5;
+}
