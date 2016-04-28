@@ -1,4 +1,5 @@
 /* ===
+TABLE OF CONTENTS
 	0. Imports
 	1. Style reset
 	2. Responsive wrapper
@@ -6,16 +7,18 @@
 	4. Header
 	5. Personal info
 	6. Features
+	7. Contact
+	8. Footer
 === */
 
-/*
+/*====================
 	Imports
-*/
+====================*/
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
-/*
+/*====================
 	Style reset
-*/
+====================*/
 * {
 	margin: 0;
 	padding: 0;
@@ -31,9 +34,9 @@ p {
 	line-height: 1.75rem;
 }
 
-/*
+/*====================
 	Responsive wrapper
-*/
+====================*/
 
 .wrapper {
 	padding: 0 32px;
@@ -55,9 +58,9 @@ p {
 	}
 }
 
-/*
+/*====================
 	Hero
-*/
+====================*/
 
 .hero {
 	width: 100%;
@@ -70,9 +73,9 @@ p {
 	max-width: 60%;
 }
 
-/*
+/*====================
 	Header
-*/
+====================*/
 
 .header-title {
 	width: 100%;
@@ -90,9 +93,9 @@ p {
 	opacity: 0.8;
 }
 
-/*
+/*====================
 	Personal info
-*/
+====================*/
 
 .personal-info {
 	width: 100%;
@@ -111,9 +114,9 @@ p {
 	margin-bottom: 16px;
 }
 
-/*
+/*====================
 	Features
-*/
+====================*/
 
 .features {
 	padding: 64px 0;
@@ -132,16 +135,14 @@ p {
 	text-align: right;
 }
 
-/*
+/*====================
 	Contact
-*/
+====================*/
 
 .contact {
 	padding: 48px 0;
 	text-align: center;
 	background: #eee;
-	/*background: #4caf50;
-	color: #fff;*/
 }
 
 .contact__title {
@@ -171,9 +172,9 @@ p {
 	background: #1b5e20;
 }
 
-/*
+/*====================
 	Footer
-*/
+====================*/
 
 footer {
 	padding: 32px 0;
