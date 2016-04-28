@@ -64,13 +64,16 @@ p {
 
 .hero {
 	width: 100%;
-	padding: 128px 0;
+	padding: 64px 0;
 	text-align: center;
+	background: #4caf50;
 }
 
 .hero__logo {
 	width: 256px;
 	max-width: 60%;
+	border-radius: 50%;
+	box-shadow: 20px 4px 10px rgba(0, 0, 0, 0.5);
 }
 
 /*====================
