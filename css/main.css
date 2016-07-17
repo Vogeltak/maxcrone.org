@@ -47,6 +47,11 @@ a:hover {
 	text-decoration: underline;
 }
 
+.gh-logo {
+	width: 32px;
+	height: 32px;
+}
+
 /*====================
 	Responsive wrapper
 ====================*/
