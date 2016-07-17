@@ -35,6 +35,19 @@ p {
 }
 
 /*====================
+	New Default styles
+====================*/
+a {
+	text-decoration: none;
+	color: rgba(0,0,0,0.5);
+}
+
+a:hover {
+	color: rgba(0,0,0,0.65);
+	text-decoration: underline;
+}
+
+/*====================
 	Responsive wrapper
 ====================*/
 
@@ -94,6 +107,18 @@ p {
 
 .header-title h3 {
 	opacity: 0.8;
+}
+
+.github-image-link {
+	opacity: 0.7;
+}
+
+.github-image-link:hover {
+	opacity: 0.9;
+}
+
+.github-image-link img {
+	margin-top: 8px;
 }
 
 /*====================
@@ -173,6 +198,20 @@ p {
 
 .contact__button:hover, .contact__button:focus {
 	background: #2e7d32;
+}
+
+.github-link {
+	-webkit-display: flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	margin-top: 32px;
+}
+
+.github-link img {
+	margin-right: 8px;
 }
 
 /*====================
