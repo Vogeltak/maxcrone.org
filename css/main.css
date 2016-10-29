@@ -237,3 +237,11 @@ footer p {
 	color: #fff;
 	opacity: 0.5;
 }
+
+.footer__terms-conditions {
+	color: rgba(255, 255, 255, 0.3);
+}
+
+.footer__terms-conditions:hover {
+	color: rgba(255, 255, 255, 0.45);
+}
