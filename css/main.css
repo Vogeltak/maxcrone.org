@@ -199,6 +199,8 @@ a:hover {
 
 .contact__button:hover, .contact__button:focus {
 	background: #2e7d32;
+	text-decoration: none;
+	color: #fff;
 }
 
 .github-link {
