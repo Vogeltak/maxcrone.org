@@ -1,51 +1,43 @@
----
-layout: default
----
-
-<div class="hero">
-	<img class="hero__logo" src="/img/logo.svg">
-</div>
-
-<header class="header-title">
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<title>Max Crone</title>
+	
+	<link rel="stylesheet" href="css/main.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+</head>
+<body>
+	<img class="logo" src="img/logo.svg">
 	<h1>Max Crone</h1>
-	<h3>web &amp; software developer</h3>
-	<a class="github-image-link" href="https://github.com/Vogeltak" target="_blank"><img class="gh-logo" src="/img/github-64-light.png"></a>
-</header>
-
-<div class="personal-info">
-	<div class="wrapper">
-		<img class="personal-info__portrait" src="/img/logo.svg">
-		<h2>Hello.</h2>
-		<p>My name is Max Crone and I am a web and software developer based in the Netherlands. I am currently enrolled at the Eindhoven University of Technology and studying Computer Science.</p>
-	</div>
-</div>
-
-<div class="features">
-	<div class="wrapper">
-		<h1 class="features__title">How I add value.</h1>
-		<div class="features__development">
-			<h2>Development</h2>
-			<p>I know my way around the different technologies needed for development and can help you build whatever you want.</p>
-		</div>
-		<div class="features__design">
-			<h2>Design</h2>
-			<p>I have been drawing for as long as I can remember and can help you establish a beautiful and clean brand identity.</p>
-		</div>
-	</div>
-</div>
-
-<div class="contact">
-	<div class="wrapper">
-		<h1 class="contact__title">I can help.</h1>
-		<h2 class="contact__subtitle">I am currently available for hire and freelance work</h2>
-		<p>If you have a project you want to get started, think you need my help or just want to say hi, shoot me an email.</p>
-		<a class="contact__button" href="mailto:hello@maxcrone.org">CONTACT ME</a>
-
-		<a class="github-link" href="https://github.com/Vogeltak" target="_blank">
-			<img class="gh-logo" src="/img/github-64-dark.png">
-			View my work on Github
-		</a>
-	</div>
-</div>
-
-{% include footer.html %}
+	
+	<nav>
+		<a href="#">Academics</a>
+		<a href="#">Projects</a>
+		<a href="#">Writing</a>
+		<a href="#">Photography</a>
+	</nav>
+	
+	<main>
+		<section>
+			<h2>Abstract</h2>
+			<p>
+				I am a Computer Science student at the <a target="_blank" href="https://www.tue.nl">TU/e</a> (Eindhoven University of Technology) with interests in security and privacy of computer networks.
+				Recently I was admitted to the Erasmus Mundus Joint Master's programme <a target="_blank" href="https://secclo.eu/">SECCLO</a> (Security and Cloud Computing), thus I will be furthering my development in Finland soon.
+				I was awarded the HAIC scholarship as partial funding SECCLO.
+			</p>
+			<p>
+				At the TU/e I have been part of the Honors Society, focusing on competitive programming and problem solving.
+				In 2016 I was awarded the Socrates International Honour Society recognition of excellence.
+				I am also a member of the IEEE, Computer Society and Internet Society organizations.
+			</p>
+		</section>
+	</main>
+	<footer>
+		Last updated 2019-05-14
+	</footer>
+</body>
+</html>
