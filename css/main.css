@@ -10,20 +10,19 @@ body {
 	flex-direction: column;
 	align-items: center;
 
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	line-height: 1.45rem;
 	color: #202124;
-	background: #fcfcfc;
+	background: #fff;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Roboto', sans-serif;
+.light {
+	font-weight: 400;
 }
 
 .logo {
-	max-width: 4rem;
-	margin-top: 32px;
-	margin-bottom: 8px;
+	max-width: 2.5rem;
+	margin: 24px 48px 24px 0;
 }
 
 h1 {
@@ -42,15 +41,49 @@ a:hover {
 nav {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	line-height: 1.5rem;
-	margin-bottom: 1rem;
-	text-align: center;
+	justify-content: left;
+	/*width: 748px;*/
+	width: 1228px;
+	max-width: 100%;
+	padding: 16px 8px;
 }
 
 nav a {
-	padding: 0 8px;
+	color: #000;
+	font-size: 1rem;
+	padding: 32px 24px 24px 24px;
+}
+
+nav a:hover, nav a:active {
+	text-decoration: none;
+	border-bottom: 1px solid black;
+}
+
+hero {
+	width: 748px;
+	width: 1228px;
+	max-width: 100%;
+	min-height: 200px;
+	margin-bottom: 48px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.hero-logo {
+		width: 8rem;
+		margin-right: 24px;
+}
+
+.hero-text {
+	font-size: 3rem;
+	text-align: left;
+	line-height: 3rem;
+}
+
+.hero-image {
+	width: 12rem;
 }
 
 main {
@@ -60,6 +93,12 @@ main {
 footer {
 	font-style: italic;
 	margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+	hero {
+		flex-direction: column;
+	}
 }
 
 /*@media only screen and (max-width: 768px) {
