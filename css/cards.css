@@ -1,0 +1,32 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  margin: 0 8px;
+  border-radius: 8px;
+  box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
+  margin-bottom: 32px;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.card-small {
+  flex-direction: column;
+}
+
+.card-text h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.card-text {
+  padding: 0 32px 32px 32px;
+  max-width: 268px;
+  font-family: 'Merriweather', serif;
+}
+
+@media only screen and (max-width: 768px) {
+	.card {
+		flex-direction: column;
+	}
+}
