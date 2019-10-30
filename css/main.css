@@ -57,6 +57,7 @@ nav a {
 
 .selected {
 	color: #000;
+	font-weight: bold;
 }
 
 nav a:hover, nav a:active {
