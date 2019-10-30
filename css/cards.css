@@ -5,6 +5,8 @@
   border-radius: 8px;
   box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
   margin-bottom: 32px;
+  overflow: hidden;
+  border: 1px solid rgba(150,150,150,0.3);
 }
 
 .card img {
