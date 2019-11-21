@@ -9,6 +9,10 @@
   border: 1px solid rgba(150,150,150,0.3);
 }
 
+.card:hover {
+  border-color: rgba(150,150,150,0.7);
+}
+
 .card img {
   max-width: 100%;
 }
@@ -17,14 +21,18 @@
   flex-direction: column;
 }
 
+.card-small img {
+  display: none;
+}
+
 .card-text h3 {
   font-family: 'Roboto', sans-serif;
 }
 
 .card-text {
   padding: 0 32px 32px 32px;
-  max-width: 268px;
-  font-family: 'Merriweather', serif;
+  /*max-width: 268px;*/
+  font-family: 'Dejavu serif', serif;
 }
 
 @media only screen and (max-width: 768px) {

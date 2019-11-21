@@ -14,6 +14,9 @@ body {
 	line-height: 1.45rem;
 	color: #202124;
 	background: #fff;
+  /* DARK MODE
+  background: #000;
+  color: #fafafa;*/
 }
 
 .light {
@@ -26,7 +29,7 @@ body {
 }
 
 h1 {
-	text-align: center;
+	/*text-align: center;*/
 }
 
 a {
@@ -47,6 +50,7 @@ nav {
 	width: 1228px;
 	max-width: 100%;
 	padding: 16px 8px;
+	overflow: hidden;
 }
 
 nav a {
@@ -64,6 +68,11 @@ nav a:hover, nav a:active {
 	text-decoration: none;
 	color: #000;
 	/*border-bottom: 1px solid black;*/
+}
+
+#hamburger {
+  display: none;
+  font-size: 1.8rem;
 }
 
 hero {
@@ -100,6 +109,11 @@ main {
 #story-list {
 	max-width: 1228px;
 	display: flex;
+	flex-wrap: wrap;
+}
+
+.story-body {
+  font-family: "Dejavu serif", "Bitstream vera serif", serif;
 }
 
 footer {
@@ -109,9 +123,26 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
+  nav {
+    padding: 4px 2px;
+    justify-content: space-between;
+  }
+
+  nav > a {
+    display: none;
+  }
+
+  #hamburger {
+    display: block;
+  }
+
 	hero {
 		flex-direction: column;
 	}
+
+  .hero-image {
+    width: 6rem;
+  }
 }
 
 /*@media only screen and (max-width: 768px) {
