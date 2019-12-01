@@ -19,6 +19,13 @@ body {
   color: #fafafa;*/
 }
 
+hr {
+  height: 1px;
+  margin: 32px 0;
+  border: 0;
+  background-color: #ecf0f1;
+}
+
 .light {
 	font-weight: 400;
 }
@@ -80,10 +87,10 @@ hero {
 	width: 1228px;
 	max-width: 100%;
 	min-height: 200px;
-	margin-bottom: 48px;
+	/*margin-bottom: 16px;*/
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: center;
 	align-items: center;
 }
 
@@ -93,13 +100,16 @@ hero {
 }
 
 .hero-text {
+  font-family: "DejaVu serif", serif;
 	font-size: 3rem;
 	text-align: left;
 	line-height: 3rem;
+  text-align: center;
 }
 
 .hero-image {
 	width: 12rem;
+  border-radius: 50%;
 }
 
 main {
@@ -141,7 +151,7 @@ footer {
 	}
 
   .hero-image {
-    width: 6rem;
+    width: 12rem;
   }
 }
 
