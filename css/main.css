@@ -89,27 +89,35 @@ hero {
 	min-height: 200px;
 	/*margin-bottom: 16px;*/
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
 
 .hero-logo {
-		width: 8rem;
-		margin-right: 24px;
+    width: 8rem;
+    margin-right: 24px;
+}
+
+.hero-splash-image {
+    /*width: 500px;*/
+    max-height: 200px;
+    max-width: 90%;
+    margin-top: 16px;
 }
 
 .hero-text {
-  font-family: "DejaVu serif", serif;
+    font-family: "DejaVu serif", serif;
 	font-size: 3rem;
-	text-align: left;
 	line-height: 3rem;
-  text-align: center;
+    text-align: center;
+    margin-top: 8px;
 }
 
 .hero-image {
 	width: 12rem;
-  border-radius: 50%;
+    border-radius: 50%;
+    margin-bottom: 24px;
 }
 
 main {
