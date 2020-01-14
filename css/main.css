@@ -102,16 +102,16 @@ hero {
 .hero-splash-image {
     /*width: 500px;*/
     max-height: 200px;
-    max-width: 90%;
+    max-width: 50%;
     margin-top: 16px;
 }
 
 .hero-text {
     font-family: "DejaVu serif", serif;
-	font-size: 3rem;
-	line-height: 3rem;
+	font-size: 2rem;
+	line-height: 1rem;
     text-align: center;
-    margin-top: 8px;
+    /*margin-top: 8px;*/
 }
 
 .hero-image {
