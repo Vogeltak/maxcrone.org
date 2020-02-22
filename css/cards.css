@@ -1,16 +1,18 @@
 .card {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   margin: 0 8px;
-  border-radius: 8px;
-  box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
+  border-radius: 2px;
+  /*box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);*/
   margin-bottom: 32px;
   overflow: hidden;
-  border: 1px solid rgba(150,150,150,0.3);
+  border: 1px solid rgba(150,150,150,0.5);
 }
 
 .card:hover {
-  border-color: rgba(150,150,150,0.7);
+  /*border-color: rgba(150,150,150,0.7);*/
 }
 
 .card img {
@@ -21,16 +23,16 @@
   flex-direction: column;
 }
 
-.card-small img {
+.card img {
   display: none;
 }
 
-.card-text h3 {
+.card-text h3, .card-text h2 {
   font-family: 'Roboto', sans-serif;
 }
 
 .card-text {
-  padding: 0 32px 32px 32px;
+  padding: 0 24px 24px 24px;
   /*max-width: 268px;*/
   font-family: 'Dejavu serif', serif;
 }

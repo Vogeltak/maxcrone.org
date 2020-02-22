@@ -13,10 +13,15 @@ body {
 	font-family: 'Roboto', sans-serif;
 	line-height: 1.45rem;
 	color: #202124;
+    color: #000;
 	background: #fff;
   /* DARK MODE
   background: #000;
   color: #fafafa;*/
+}
+
+img {
+    max-width: 100%;
 }
 
 hr {
@@ -31,7 +36,7 @@ hr {
 }
 
 .logo {
-	max-width: 2.5rem;
+	max-width: 2rem;
 	margin: 8px 48px 8px 0;
 }
 
@@ -104,6 +109,7 @@ hero {
     max-height: 200px;
     max-width: 50%;
     margin-top: 16px;
+    display: none;
 }
 
 .hero-text {
@@ -122,12 +128,46 @@ hero {
 
 main {
 	max-width: 748px;
+    margin-top: 16px;
 }
 
-#story-list {
+.post-list {
 	max-width: 1228px;
 	display: flex;
-	flex-wrap: wrap;
+}
+
+.post-list article {
+    margin-bottom: 16px;
+}
+
+article a {
+    color: black;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
+
+article h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+article .category {
+    text-transform: lowercase;
+    /*background: rgba(0,0,0, 0.2);
+    color: #fafafa;*/
+    color: #39833c;
+    font-size: 14px;
+}
+
+.date {
+    opacity: 0.7;
+    font-size: 14px;
+}
+
+article p {
+    margin: 0;
 }
 
 .story-body {
@@ -160,6 +200,10 @@ footer {
 
   .hero-image {
     width: 12rem;
+  }
+
+  .post-list {
+      flex-wrap: wrap;
   }
 }
 
