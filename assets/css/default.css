@@ -1,0 +1,92 @@
+/* ==========
+    Global styling
+========== */
+
+body {
+    align-items: center;
+    background: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, serif;
+    line-height: 1.45rem;
+    margin: 0;
+    padding: 0 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: #1a73e8;
+	text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+nav {
+    align-items: center;
+    box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 16px 8px;
+	width: 1228px;
+}
+
+    nav a {
+        color: #6a6a6a;
+        padding: 8px 24px;
+    }
+
+    nav .current {
+        color: black;
+    }
+
+    nav a:active, nav a:hover {
+        color: #000;
+    	text-decoration: none;
+    }
+
+    nav .logo {
+        margin: 8px 48px 8px 0;
+        max-width: 2rem;
+    }
+
+    #hamburger {
+        display: none;
+        font-size: 1.8rem;
+    }
+
+main {
+    margin-top: 16px;
+    max-width: 748px;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 200px;
+    text-align: center;
+}
+
+    header h1 {
+
+    }
+
+/* ==========
+    Home page
+========== */
+
+.portrait {
+    border-radius: 50%;
+    margin-bottom: 24px;
+    width: 12rem;
+}
