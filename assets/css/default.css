@@ -9,9 +9,12 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Georgia, serif;
-    line-height: 1.45rem;
     margin: 0;
     padding: 0 16px;
+}
+
+p {
+    line-height: 1.45rem;
 }
 
 img {
