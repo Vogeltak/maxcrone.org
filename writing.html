@@ -1,0 +1,21 @@
+---
+layout: default
+title: Writing
+permalink: /writing
+description: A personal publishing platform for blog posts and stories written by Max Crone.
+---
+<header>
+	<h1>Writing</h1>
+</header>
+<main>
+    <section>
+        {% for post in site.posts %}
+        <article class="post-list-item">
+            <span class="category">{{ post.category }}</span>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p class="excerpt">{{ post.excerpt }}</p>
+            <span class="date">{{ post.date | date_to_string }}</span>
+        </article>
+        {% endfor %}
+    </section>
+</main>

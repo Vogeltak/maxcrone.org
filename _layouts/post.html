@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<main>
+    <h1>{{ page.title }}</h1>
+    <h4><span class="light">By</span> {{ page.author }} <span class="light">on</span> {{ page.date | date_to_string }}</h4>
+
+    <section>
+        {{ content }}
+    </section>
+</main>

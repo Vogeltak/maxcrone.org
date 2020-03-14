@@ -36,7 +36,7 @@ nav {
     max-width: 100%;
     overflow: hidden;
     padding: 16px 8px;
-	width: 1228px;
+	width: 1280px;
 }
 
     nav a {
@@ -64,8 +64,8 @@ nav {
     }
 
 main {
-    margin-top: 16px;
-    max-width: 748px;
+    margin-top: 32px;
+    max-width: 1280px;
 }
 
 header {
@@ -77,9 +77,42 @@ header {
     text-align: center;
 }
 
-    header h1 {
-
+    header h3 {
+        font-weight: 400;
     }
+
+section {
+    margin: auto;
+    max-width: 700px;
+}
+
+footer {
+    color: #757575;
+    font-size: 14px;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+@media only screen and (max-width: 700px) {
+    nav {
+        justify-content: space-between;
+    }
+
+        nav > a {
+            display: none;
+        }
+
+        #hamburger {
+            display: block;
+        }
+}
+
+/* ==========
+    Text styling
+========== */
+.light {
+    font-weight: normal;
+}
 
 /* ==========
     Home page
@@ -90,3 +123,38 @@ header {
     margin-bottom: 24px;
     width: 12rem;
 }
+
+/* ==========
+    Writing
+========== */
+
+.post-list-item {
+    margin-bottom: 32px;
+}
+
+    .post-list-item .category {
+        color: #39833c;
+        font-size: 14px;
+    }
+
+    .post-list-item > h3 {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .post-list-item > h3 > a {
+        color: black;
+    }
+
+    .post-list-item > h3 > a:hover {
+        text-decoration: underline;
+    }
+
+    .post-list-item .excerpt {
+        margin: 0;
+    }
+
+    .post-list-item .date {
+        font-size: 14px;
+        opacity: 0.7;
+    }
