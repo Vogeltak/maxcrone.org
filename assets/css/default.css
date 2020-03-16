@@ -8,7 +8,7 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
-    font-family: Georgia, serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -160,5 +160,27 @@ footer {
 
     .post-list-item .date {
         font-size: 14px;
+        opacity: 0.7;
+    }
+
+/* ==========
+    Post
+========== */
+
+.post-header {
+    padding: 1rem 0;
+    text-align: center;
+}
+
+    .post-header .category {
+        background: #39833c;
+        color: white;
+        font-size: 14px;
+        opacity: 0.8;
+        padding: 4px 8px;
+    }
+
+    .post-header .post-author-date {
+        font-style: italic;
         opacity: 0.7;
     }
