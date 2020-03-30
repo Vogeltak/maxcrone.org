@@ -2,11 +2,11 @@
 layout: default
 ---
 <section class="post-header">
-    <span class="category">{{ page.category }}</span>
-    <h1>{{ page.title }}</h1>
-    <h4 class="post-author-date"><span class="light">By</span> {{ page.author }} <span class="light">on</span> {{ page.date | date_to_long_string: "ordinal", "US" }}</h4>
+    <p class="category">{{ page.category }}</p>
+    <h1 class="title">{{ page.title }}</h1>
+    <h4 class="post-author-date"><span class="light">By</span> {{ page.author }}<br/><span class="light">{{ page.date | date_to_long_string: "ordinal", "US" }}</span></h4>
 </section>
 
-<section>
+<section class="post-content">
     {{ content }}
 </section>

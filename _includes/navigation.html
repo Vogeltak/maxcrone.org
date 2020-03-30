@@ -1,9 +1,11 @@
 <nav>
     <img class="logo" src="/assets/img/logo.svg">
+    <span>
     {% for item in site.data.navigation %}
         <a {% if page.url == item.link %}class="current"{% else %}href="{{ item.link }}"{% endif %}>
             {{ item.name }}
         </a>
     {% endfor %}
-    <i id="hamburger" class="material-icons">menu</i>
+        <i id="hamburger" class="material-icons">menu</i>
+    </span>
 </nav>
