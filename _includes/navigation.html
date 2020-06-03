@@ -1,5 +1,8 @@
 <nav>
-    <img class="logo" src="/assets/img/logo.svg">
+    <span>
+        <img class="logo" src="/assets/img/logo.svg">
+        Max Crone
+    </span>
     <span>
     {% for item in site.data.navigation %}
         <a {% if page.url == item.link %}class="current"{% else %}href="{{ item.link }}"{% endif %}>

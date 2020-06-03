@@ -2,9 +2,9 @@
 layout: default
 ---
 <section class="post-header">
-    <p class="category">{{ page.category }}</p>
+    <!--p class="category">{{ page.category }}</p-->
     <h1 class="title">{{ page.title }}</h1>
-    <h4 class="post-author-date"><span class="light">By</span> {{ page.author }}<br/><span class="light">{{ page.date | date_to_long_string: "ordinal", "US" }}</span></h4>
+    <p class="post-author-date">{{ page.date | date_to_long_string: "ordinal", "US" }}</p>
 </section>
 
 <section class="post-content">
