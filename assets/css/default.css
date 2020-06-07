@@ -14,10 +14,6 @@ body {
     padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    /*font-family: "Times New Roman", Georgia, serif;*/
-}
-
 p {
     line-height: 1.45rem;
 }
@@ -62,8 +58,8 @@ nav {
     }
 
     nav > span {
-        display: flex;
         align-items: center;
+        display: flex;
     }
 
     nav .logo {
@@ -77,8 +73,9 @@ nav {
     }
 
 main {
-    margin-top: 32px;
-    max-width: 1280px;
+    /*margin-top: 32px;*/
+    width: 1280px;
+    max-width: 100vw;
 }
 
 header {
@@ -86,13 +83,8 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 200px;
     text-align: center;
 }
-
-    header h3 {
-        font-weight: 400;
-    }
 
 section {
     margin: auto;
@@ -104,6 +96,12 @@ footer {
     color: #757575;
     font-size: 14px;
     padding: 2rem 0;
+    text-align: center;
+}
+
+.picture-subscript {
+    font-size: 14px;
+    font-style: italic;
     text-align: center;
 }
 
@@ -129,10 +127,23 @@ footer {
 ========== */
 
 .portrait {
+    border: 1px solid #222;
     border-radius: 50%;
     margin-bottom: 24px;
-    width: 12rem;
+    max-width: 12rem;
 }
+
+/* ==========
+    About
+========== */
+
+.timeline {
+    line-height: 1.5rem;
+}
+
+    .timeline li {
+        margin-bottom: 1rem;
+    }
 
 /* ==========
     Writing
@@ -206,4 +217,20 @@ footer {
         .post-header .title {
             font-size: 28px;
         }
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    padding: 16px;
+}
+
+    .photo-grid a {
+        padding: 5px;
+    }
+
+@media only screen and (min-width: 1232px) {
+    .photo-grid {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
 }
