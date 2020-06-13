@@ -69,8 +69,14 @@ nav {
 
     #hamburger {
         display: none;
-        font-size: 1.8rem;
+        /*font-size: 1.8rem;*/
+        user-select: none;
     }
+
+nav.dropdown {
+    background: #eeeee9;
+    display: none;
+}
 
 main {
     /*margin-top: 32px;*/
@@ -112,6 +118,7 @@ footer {
 
     #hamburger {
         display: block;
+        cursor: pointer;
     }
 }
 
