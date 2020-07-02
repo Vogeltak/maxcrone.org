@@ -1,0 +1,38 @@
+---
+layout: default
+title: Writing
+permalink: /writing
+description: A personal publishing platform for blog posts and stories written by Max Crone.
+---
+<header>
+	<h1>Writing</h1>
+</header>
+<section>
+    <p>
+        On this page I provide an overview of my writing.
+        What I like to write varies from essays on technology, philosophy and media,
+         to pieces of fiction in genres such as sci-fi and fantasy.
+    </p>
+    <h3>Essays</h3>
+    <ul>
+        {% for post in site.categories["essay"] %}
+        <li class="post-list-item">
+            <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> <br/>
+            {{ post.excerpt }} <br/>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+        {% else %}
+        <em>Writings might be coming soon</em>
+        {% endfor %}
+    </ul>
+    <h3>Fiction</h3>
+    <ul>
+        {% for post in site.categories["fiction"] %}
+        <li class="post-list-item">
+            <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> <br/>
+            {{ post.excerpt }} <br/>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

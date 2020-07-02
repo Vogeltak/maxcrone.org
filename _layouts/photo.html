@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<picture>
+    <source srcset="/assets/img/{{ page.img }}_2880.webp" type="img/webp">
+    <img src="/assets/img/{{ page.img }}_2880.jpg" alt="{{ page.title }}">
+</picture>
+<section>
+    <p>
+        <strong>{{ page.title }}</strong><br/>
+        {{ page.date | date_to_long_string: "ordinal", "US" }}<br/>
+    </p>
+    <p>{{ page.desc }}</p>
+    <ul class="exif-data">
+        <li>f/{{ page.aperture }}</li>
+        <li>{{ page.exposure }}</li>
+        <li>{{ page.focal }}mm</li>
+        <li>ISO{{ page.iso }}</li>
+    </ul>
+    <p>{{ page.author }}, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></p>
+</section>

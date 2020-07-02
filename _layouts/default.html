@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    	<title>{{ page.title }} | {{ site.title }}</title>
+
+    	<link rel="stylesheet" href="/assets/css/default.css">
+    	<!--link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Literata&display=swap" rel="stylesheet">
+    	<!link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"-->
+        <!--link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"-->
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+    </head>
+    <body>
+        {% include navigation.html %}
+
+        <main>
+        {{ content }}
+        </main>
+
+        <footer>
+            <p>{{ site.description }}</p>
+            <a href="https://github.com/Vogeltak">GitHub</a> •
+            <a href="https://www.linkedin.com/in/maxcrone">LinkedIn</a>
+        </footer>
+    </body>
+</html>
