@@ -2,7 +2,8 @@
 layout: default
 ---
 <picture>
-    <source srcset="/assets/img/{{ page.img }}_1280.webp" type="img/webp">
+    <source srcset="/assets/img/{{ page.img }}_1280.webp 1280w" type="image/webp">
+    <source srcset="/assets/img/{{ page.img }}_1280.jpg 1280w">
     <img src="/assets/img/{{ page.img }}_1280.jpg" alt="{{ page.title }}">
 </picture>
 <section>
