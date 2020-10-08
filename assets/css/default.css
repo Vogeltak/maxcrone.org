@@ -68,6 +68,13 @@ nav {
         display: flex;
     }
 
+    nav .logo-name a {
+        align-items: center;
+        color: black;
+        display: flex;
+        padding: 0;
+    }
+
     nav .logo {
         margin: 0 24px 4px 0;
         max-width: 1.5rem;
