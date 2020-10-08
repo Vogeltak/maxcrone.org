@@ -3,7 +3,8 @@
         <img class="logo" src="/assets/img/logo.svg">
         Max Crone
     </span>
-    <span>
+    <a class="menu-button" href="/menu">Menu</a>
+    <span class="menu">
     {% for item in site.data.navigation %}
         <a {% if page.url == item.link %}class="current"{% else %}href="{{ item.link }}"{% endif %}>
             {{ item.name }}

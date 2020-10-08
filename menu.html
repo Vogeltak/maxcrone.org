@@ -1,0 +1,13 @@
+---
+layout: default
+title: Menu
+permalink: /menu
+---
+<section class="menu-page">
+{% for item in site.data.navigation %}
+    <a href="{{ item.link }}">
+        {{ item.name }}
+    </a>
+{% endfor %}
+    <img class="design" src="/assets/img/design-hero.svg">
+</section>

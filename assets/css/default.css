@@ -4,7 +4,7 @@
 
 body {
     align-items: center;
-    background: #fffffa;
+    background: #ffffff;
     color: black;
     display: flex;
     flex-direction: column;
@@ -43,9 +43,15 @@ nav {
 	width: 1280px;
 }
 
+    nav .menu-button {
+        cursor: pointer;
+        display: none;
+        padding: 0;
+    }
+
     nav a {
         color: #6a6a6a;
-        padding: 16px 16px 0 16px;
+        padding: 0 16px 0 16px;
     }
 
     nav .current {
@@ -102,9 +108,17 @@ footer {
 
 @media only screen and (max-width: 700px) {
     nav {
-        align-items: center;
+        justify-content: space-between;
         border-bottom: 1px solid rgba(0,0,0,0.25);
-        flex-direction: column;
+        flex-direction: row;
+    }
+
+    nav .menu-button {
+        display: block;
+    }
+
+    nav .menu {
+        display: none;
     }
 }
 
@@ -114,6 +128,28 @@ footer {
 .light {
     font-weight: normal;
 }
+
+/* ==========
+    Menu page
+========== */
+.menu-page {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+}
+
+    .menu-page a {
+        color: black;
+        font-size: 1.5rem;
+        padding: 16px;
+        text-decoration: underline;
+    }
+
+    .menu-page .design {
+        margin-top: 32px;
+        width: 100px;
+    }
 
 /* ==========
     Home page
@@ -181,7 +217,7 @@ footer {
     }
 
 .post-footer {
-    background: #eeeee9;
+    background: #f0f0f0;
     border-radius: 4px;
     color: #333;
     padding: 1rem;
