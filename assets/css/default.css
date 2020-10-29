@@ -76,7 +76,7 @@ nav {
     }
 
     nav .logo {
-        margin: 0 24px 4px 0;
+        margin: 0 24px 0 0;
         max-width: 1.5rem;
     }
 
@@ -200,7 +200,8 @@ footer {
 ========== */
 
 .post-header {
-    margin-top: 8px;
+    margin-bottom: 32px;
+    margin-top: 32px;
     padding: 0 1rem;
     text-align: center;
 }
@@ -220,7 +221,8 @@ footer {
     }
 
     .post-header .post-author-date {
-        opacity: 0.5;
+        font-size: 15px;
+        opacity: 0.7;
     }
 
 .post-footer {
@@ -236,7 +238,7 @@ footer {
 
 @media only screen and (max-width: 700px) {
     .post-header {
-        text-align: left;
+        text-align: center;
     }
 
         .post-header .title {
