@@ -14,10 +14,10 @@ This dish is often prepared with mutton or horse meat, although I have seen diff
 
 My friend suggested that I use lasagna sheets instead of making the noodles from scratch. This came in particularly handy, because I had little time this night, and now I felt justified in going the easy route per recommendation of a native.
 
-I cooked lamb together with onion, carrot, black pepper, and some cumin to form the broth. Apparently, in western Kazakhstan the broth is discarded after cooking the meat, because it is then considered "waste water". I found this particularly peculiar, because it is precisely the *meat* that gives much of its flavor to the broth. In essence, the soul of the meat has escaped and nestled itself in the broth. Alas, let me not poke cultural traditions too much here. Luckily in the south of Kazakhstan, people consider broth to be the part with most of the taste. Let's say I prepared it the southern way.
+I cooked pieces of lamb together with onion, carrot, salt, black pepper, and some cumin to form the broth. Apparently, in western Kazakhstan the broth is discarded after cooking the meat, because it is then considered "waste water". I found this particularly peculiar, because it is precisely the *meat* that gives much of its flavor to the broth. In essence, the soul of the meat has escaped and nestled itself in the broth. Alas, let me not poke cultural traditions too much here. Luckily in the south of Kazakhstan, people consider broth to be the part with most of the taste. Let's say I prepared it the southern way.
 
 Before boiling the pasta in the broth, I took out a few spoonfuls of liquid and poured it over a bowl with onion. After adding some black pepper, I covered the bowl and let it sit. This is the *chyk*, or onion sauce that I will pour over the dish upon serving.
 
-The boiled sheets of pasta are draped on a serving platter. On top, I layer bite-sized pieces of lamb. I finish the dish with the *chyk*. In a separate serving bowl, I ladle some of the broth.
+The boiled sheets of pasta are draped on a serving platter. On top, I layered bite-sized pieces of lamb. I finished the dish with the *chyk*. In a separate serving bowl, I ladled some of the broth.
 
 Beshbarmak is also known as "five fingers", which implies that we can enjoy the food with our hands, as per tradition.
