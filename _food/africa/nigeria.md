@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: food
 date: 2020-10-12
 title: Nigeria
 author: Max Crone
