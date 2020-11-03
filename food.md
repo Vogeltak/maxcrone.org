@@ -16,6 +16,9 @@ As an effort to gain a greater understanding of the sheer diversity of our world
 
 ## Asia
 
+- [Kazakhstan](/food/asia/kazakhstan)
+  - Beshbarmak
+
 ## Europe
 
 ## Oceania
