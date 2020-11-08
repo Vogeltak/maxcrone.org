@@ -87,12 +87,19 @@ main {
 }
 
 header {
-    align-items: center;
+    align-items: left;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+    margin: auto;
+    max-width: 700px;
+    padding: 32px 16px;
+    text-align: left;
 }
+
+    header .intro {
+        font-size: 18px;
+    }
 
 section {
     margin: auto;
@@ -111,6 +118,10 @@ footer {
     font-size: 14px;
     font-style: italic;
     text-align: center;
+}
+
+.brand-color {
+    color: #4caf50;
 }
 
 @media only screen and (max-width: 700px) {
@@ -168,6 +179,7 @@ footer {
     margin-bottom: 24px;
     margin-top: 1rem;
     max-width: 12rem;
+    align-self: center;
 }
 
 /* ==========
