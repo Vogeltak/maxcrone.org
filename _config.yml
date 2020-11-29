@@ -9,4 +9,4 @@ permalink: /:categories/:title
 collections:
   food:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:title
