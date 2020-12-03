@@ -14,6 +14,11 @@ This website is built on the well known static site generator [Jekyll](https://j
 
 Most of my writing is done in Markdown files that I either edit with Vim, [Typora](https://typora.io/), or [Obsidian](https://obsidian.md/).
 
+## Future work
+
+- It would be cool to include a dark mode, based on the `prefers-color-scheme` CSS media feature. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
+- Separate page for books I have read and reviews I have written
+
 ## License
 
 All content is licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). The website's source code is licensed under the MIT license.
