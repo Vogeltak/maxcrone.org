@@ -1,0 +1,21 @@
+---
+layout: post
+title: On Coomaraswamy and art
+author: Max Crone
+category: essay
+excerpt: (Dutch) Overpeinzingen over kunst, kunstenaars, en historische samenlevingen
+---
+
+*Als antwoord op een vriendin, nadat ze een conversatie stuurde van een jongen die twee citaten van Coomaraswamy aanhaalde, gerelateerd aan "art that's universal".*
+
+Ik kan me wel vinden in het sentiment dat de huidige Westerse maatschappij nou bepaald niet stimulerend of motiverend is voor kunstenaars.
+
+Maar ik moet tegelijkertijd ook wel denken aan een nuance op het geromantiseerde beeld van de pre-koloniale en pre-renaissance samenlevingen.
+
+Want wie was die "artist who is robbed of his art" in dit verhaal? Waren dit niet vaak gewone mensen die beelden bijtelden, potten maakten en versierden, weefpatronen ontwikkelden, persoonlijke ornamenten creëerden en droegen, of in bepaalde architecturele stijlen bouwden? Ik heb eigenlijk het idee dat het concept "kunstenaar" pas echt concrete vorm kreeg in relatief moderne tijden. In middeleeuws en jonger Europa was kunst meer een communal aangelegenheid; minder focus op de individuele kunstenaar, en meer focus op het werk of de thematiek. En daarnaast, wie hadden er nou echt de vrijheid om hun leven toe te wijden aan het ontwikkelen van kunst? In klassiek Griekenland bestond een groot deel van de bevolking uit slaven. Nagenoeg geen enkele vrouw komt voor in de lijsten met kunstenaars uit die tijd. In de middeleeuwen was nagenoeg de hele Europese bevolking meer bezig met in leven trachten te blijven, voor zover dat ging, dan met iets anders. In vergelijking met toen, heeft in onze samenleving nu toch relatief wel een groter deel van de bevolking de piramide van Mavlov bestegen. Is dat niet juist een mooiere en vruchtbaardere grond voor diverser werk? Een verschil is dat kunst nu een minder grote rol speelt in de samenleving, omdat het niet langer de enige effectieve vorm van massacommunicatie is. Maar er wordt nog steeds ontzettend veel kunst gemaakt. De jaren tachtig werden geroemd vanwege de kunstenaarscommunities in Amsterdam en Berlijn, en nu zeggen we ook weer dat dat allemaal verloren is gegaan. Feit lijkt te zijn dat de vorm waarin kunst geschapen wordt constant aan verandering onderhevig is. De doelstellingen van kunst verschuiven.
+
+Coomaraswamy was fan van traditionele symboliek, en hij had een fantastisch overzicht van hoe mensen dit gebruikten in vroegere tijden om ideeën over te brengen en te preserveren toen het schrift nog onderontwikkeld was. We zijn nu verder. Misschien heeft juist de overvloed aan manieren om te communiceren wel geleid tot minder doordachte en kunstwaardige boodschappen. Maar temidden van alle noise, zijn er nog steeds mensen die nadenken over wat ze maken, en hoe ze op nieuwe en unieke manieren de wereld kunnen duiden. In mijn ogen is het speelveld voor kunstenaars juist egaler geworden, nog niet perfect obviously, maar een verbetering ten opzichte van duizenden jaren geleden. Er zijn meer mogeiljkheden, meer vormen van expressie, meer toegang tot kunst, meer inspiratie, een groter bereik.
+
+Ik ben het wel sterk eens met de zorgen over de vervanging van vocation door profession. Maar opnieuw is dit eigenlijk niet anders dan vroeger. Een hele kleine minderheid van de bevolking was verbonden aan guilds of andere craftmanshipverbanden [^1].  Wat betekent dat een meerderheid van de bevolking waarschijnlijk veelal werk deed als "profession".  Farmers, gardeners, wine-growers, shepherds, miners, or fishermen. Desondanks denk ik dat onze samenleving wel echt een stuk mooier zou worden als we ons meer gingen richten op vocation. Misschien dat een toenemende arbeidsproductiviteit in de toekomst deze keer wel zorgt voor meer vrije tijd voor de mens om na te streven wat ons echt een betekenisvol gevoel geeft. En op dat punt zal onze kunst er ook weer heel anders uit zien.
+
+[^1]: Ogilvie, Sheilagh. "The economics of guilds." Journal of Economic Perspectives 28.4 (2014): 169-92.
