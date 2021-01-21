@@ -15,7 +15,7 @@ body {
 }
 
 p {
-    line-height: 1.45rem;
+    line-height: 1.5rem;
 }
 
 img {
@@ -206,16 +206,43 @@ footer {
 /* ==========
     Writing
 ========== */
-
-.post-list-item {
-    list-style: circle;
-    margin-bottom: 12px;
+.post-grid {
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 2em;
 }
 
-    .post-list-item .date {
-        font-size: 14px;
-        opacity: 0.7;
+    .post-grid a {
+        font-size: 1.1rem;
+        font-weight: bold;
+        text-decoration: underline;
     }
+
+    .post-grid .excerpt {
+        margin-top: 4px;
+        margin-bottom: 0;
+    }
+
+    .post-grid .writer, .post-grid .date {
+        font-size: 0.9rem;
+        margin: 0;
+        opacity: 0.5;
+    }
+
+@media only screen and (min-width: 560px) {
+    .post-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+        .post-grid a {
+            text-decoration: none;
+        }
+
+        .post-grid a:hover {
+            text-decoration: underline;
+        }
+}
 
 /* ==========
     Post

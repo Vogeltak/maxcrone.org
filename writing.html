@@ -14,35 +14,37 @@ description: A personal publishing platform for blog posts and stories written b
 </header>
 <section>
     <h3>Essays</h3>
-    <ul>
-        {% for post in site.categories["essay"] %}
-        <li class="post-list-item">
-            <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> <br/>
-            {{ post.excerpt }} <br/>
-            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        </li>
-        {% else %}
-        <em>Writings might be coming soon</em>
-        {% endfor %}
-    </ul>
+</section>
+<section class="post-grid">
+    {% for post in site.categories["essay"] %}
+    <div class="post-item">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+        <p class="excerpt">{{ post.excerpt }}</p> 
+        <p class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</p>
+    </div>
+    {% endfor %}
+</section>
+<section>
     <h3>Fiction</h3>
-    <ul>
-        {% for post in site.categories["fiction"] %}
-        <li class="post-list-item">
-            <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> <br/>
-            {{ post.excerpt }} <br/>
-            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        </li>
-        {% endfor %}
-    </ul>
+</section>
+<section class="post-grid">
+    {% for post in site.categories["fiction"] %}
+    <div class="post-item">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+        <p class="excerpt">{{ post.excerpt }}</p>
+        <span class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</span>
+    </div>
+    {% endfor %}
+</section>
+<section>
     <h3>Thoughts</h3>
-    <ul>
-        {% for post in site.categories["thoughts"] %}
-        <li class="post-list-item">
-            <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> <br/>
-            {{ post.excerpt }} <br/>
-            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        </li>
-        {% endfor %}
-    </ul>
+</section>
+<section class="post-grid">
+    {% for post in site.categories["thoughts"] %}
+    <div class="post-item">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+        <p class="excerpt">{{ post.excerpt }}</p> 
+        <span class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</span>
+    </div>
+    {% endfor %}
 </section>
