@@ -316,13 +316,14 @@ footer {
     }
 
     .book-grid a {
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         font-weight: bold;
         text-decoration: underline;
     }
 
     .book-grid .excerpt p {
         margin-bottom: 0;
+        margin-top: 4px;
     }
 
     .book-grid .writer, .book-grid .finished {
