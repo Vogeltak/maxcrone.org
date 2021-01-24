@@ -33,6 +33,12 @@ a {
         text-decoration: underline;
     }
 
+blockquote {
+    border-left: 4px solid #4caf50;
+    margin: 0;
+    padding-left: 1em;
+}
+
 nav {
     align-items: center;
     box-sizing: border-box;
@@ -293,6 +299,49 @@ footer {
 
         .post-header .title {
             font-size: 32px;
+        }
+}
+
+.book-grid {
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1.5em;
+}
+
+    .book-grid .rating {
+        font-size: 0.8em;
+        font-weight: bold;
+        text-transform: lowercase;
+    }
+
+    .book-grid a {
+        font-size: 1.3rem;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    .book-grid .excerpt p {
+        margin-bottom: 0;
+    }
+
+    .book-grid .writer, .book-grid .finished {
+        font-size: 0.9rem;
+        margin: 0;
+        opacity: 0.5;
+    }
+
+@media only screen and (min-width: 560px) {
+    .book-grid { 
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+        .book-grid a {
+            text-decoration: none;
+        }
+
+        .book-grid a:hover {
+            text-decoration: underline;
         }
 }
 
