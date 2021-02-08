@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: book
 category: books
-date: 2021-01-21
+date: 2021-02-08
 title: Notes of a native son
 writer: James Baldwin
-rating: Waking up
+rating: 3
 author: Max Crone
 ---
 James Baldwin's collection of essays has been powerful, in both message and prose.
@@ -65,3 +65,37 @@ James speaks of the sheer weight that presses on him, and all other Negroes in A
 The colonial French Africans that James Brown meets in Paris, lead him to think about their differences from Negroes, or African Americans. I think this is best captured in the following quote.
 
 > The African before him has endured privation, injustice, medieval cruelty; but the African has not yet endured the utter alienation of himself from his people and his past. His mother did not sing “Sometimes I Feel Like a Motherless Child,” and he has not, all his life long, ached for acceptance in a culture which pronounced straight hair and white skin the only acceptable beauty.
+
+## A question of identity
+
+James ponders on the American student identity in Paris. A most striking quote I found to be the following.
+
+> [...] the American wishes to be liked *as a person*, an implied distinction which makes perfect sense to him, and none whatever to the European. What the American means is that he does not want to be confused with the Marshall Plan, Hollywood, the Yankee dollar, television, or Senator McCarthy. What the European, in a thoroughly exasperating innocence, assumes is that the American cannot, of course, be divorced from the so diverse phenomena which make up his country, and that he is willing, and able, to clarify the American conundrum.
+
+While reading this, I thought that James was setting up a nice argument of hypocrisy. Namely, that Americans, once they go abroad and are strangers themselves, personally do not enjoy being stereotyped and identified based on certain characteristics of their group. However, back home, this is precisely what they have been inflicting on the Negro population; not appreciating Negroes as individual human beings, but rather judging them based on the abstract societal narrative woven around the Afro-American population. Ultimately, the feelings James thus observed with the American students abroad, would be a great showing of hypocrisy.
+
+Except, that is not where James guided his essay to.
+
+## Equal in Paris
+
+James tells about the time he is arrested and spends more than a week in jail while in Paris, only because a friend of him stole some bedsheets from a hotel.
+
+> I was chilled by their merriment, even though it was meant to warm me. It could only remind me of the laughter I had often heard at home, laughter which I had sometimes deliberately elicited. This laughter is the laughter of those who consider themselves to be at a safe remove from all the wretched, for whom the pain of the living is not real.
+
+This essay evoked a feeling of hopelessness in me. The life James was living in Paris seems so empty, which was partly caused by his introspective tendencies which prevented him from doing much.
+
+## Stranger in the village
+
+James talks about the times he visited a tiny Swiss village. He argues that these Europeans rightly have no experience with living with Black people. However, Americans are significantly different from Europeans in that they have been living with Afro-Americans for hundreds of years in some way or the other. This makes them all into a different people.
+
+> Yet, if the American Negro has arrived at his identity by virtue of the absoluteness of his estrangement from his past, American white men still nourish the illusion that there is some means of recovering the European innocence, of returning to a state in which black men do not exist. This is one of the greatest errors Americans can make. The identity they fought so hard to protect has, by virtue of that battle, undergone a change: Americans are as unlike any other white people in the world as it is possible to be. I do not think, for example, that it is too much to suggest that the American vision of the world—which allows so little reality, generally speaking, for any of the darker forces in human life, which tends until today to paint moral issues in glaring black and white—owes a great deal to the battle waged by Americans to maintain between themselves and black men a human separation which could not be bridged. It is only now beginning to be borne in on us—very faintly, it must be admitted, very slowly, and very much against our will—that this vision of the world is dangerously inaccurate, and perfectly useless. For it protects our moral high-mindedness at the terrible expense of weakening our grasp of reality. People who shut their eyes to reality simply invite their own destruction, and anyone who insists on remaining in a state of innocence long after that innocence is dead turns himself into a monster.
+
+He continues.
+
+> The time has come to realize that the interracial drama acted out on the American continent has not only created a new black man, it has created a new white man, too. No road whatever will lead Americans back to the simplicity of this European village where white men still have the luxury of looking on me as a stranger. I am not, really, a stranger any longer for any American alive. One of the things that distinguishes Americans from other people is that no other people has ever been so deeply involved in the lives of black men, and vice versa. This fact faced, with all its implications, it can be seen that the history of the American Negro problem is not merely shameful, it is also something of an achievement. For even when the worst has been said, it must also be added that the perpetual challenge posed by this problem was always, somehow, perpetually met. It is precisely this black-white experience which may prove of indispensable value to us in the world we face today. This world is white no longer, and it will never be white again.
+
+Hereby ending this essay and the book.
+
+A short quote that I found fascinating, also from this essay.
+
+> Most people are not naturally reflective any more than they are naturally malicious.

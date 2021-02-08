@@ -35,6 +35,7 @@ a {
 
 blockquote {
     border-left: 4px solid #4caf50;
+    color: #666;
     margin: 0;
     padding-left: 1em;
 }

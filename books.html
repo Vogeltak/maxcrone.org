@@ -17,7 +17,8 @@ permalink: /reading
     <div>
         <a href="{{ book.url }}">{{ book.title }}</a>
         <div class="excerpt">{{ book.excerpt }}</div>
-        <p class="rating">{{ book.rating }}</p>
+        {% assign rating = book.rating %}
+        <p class="rating">{% for i in (1..rating) %}&starf;{% endfor %}</p>
         <p class="writer">By <strong>{{ book.writer }}</strong></p>
         <p class="finished">Finished on {{ book.date | date: "%Y-%m-%d" }}</p>
     </div>
