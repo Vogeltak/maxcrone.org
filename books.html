@@ -1,0 +1,28 @@
+---
+layout: default
+title: Reading
+author: Max Crone
+permalink: /reading
+---
+<header>
+    <h1>{{ page.title }}</h1>
+    <p class="intro">
+        What have I been reading? Sometimes I forget. Goodreads can only get me so far. I want to meditate on books, essays, and stories.
+        Starting from 2021, I will make an effort to consciously reflect on every book I read.
+        There will be summaries, ideas, thoughts, and side-stories.
+    </p>
+</header>
+<section class="book-grid">
+    {% for book in site.categories["books"] %}
+    <div>
+        <a href="{{ book.url }}">{{ book.title }}</a>
+        <div class="excerpt">{{ book.excerpt }}</div>
+        {% assign rating = book.rating %}
+        <p class="rating">{% for i in (1..rating) %}&starf;{% endfor %}</p>
+        <p class="writer">By <strong>{{ book.writer }}</strong></p>
+        <p class="finished">Finished on {{ book.date | date: "%Y-%m-%d" }}</p>
+    </div>
+    {% else %}
+    <p><em>Nothing here yet</em></p>
+    {% endfor %}
+</section>
