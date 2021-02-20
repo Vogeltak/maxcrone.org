@@ -1,6 +1,6 @@
 <picture>
     <source srcset="/assets/img/{{ include.name }}_{{ include.size }}.webp" type="image/webp">
-    <img src="/assets/img/{{ include.name }}_{{ include.size}}.jpg">
+    <img src="/assets/img/{{ include.name }}_{{ include.size}}.jpg" alt="{{ include.caption }}">
 </picture>
 {% if include.caption %}
 <p class="picture-subscript">{{ include.caption }}</p>
