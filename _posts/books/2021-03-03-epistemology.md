@@ -24,4 +24,14 @@ Then there is the problem of outsourcing your Babble too much.
 
 > Prune goes into overdrive when you outsource Babble. A bug I mentioned earlier is having way too strict of a Prune filter, compared to the quality of your Babble. This occurs particularly to people who read and listen much more than they write or speak. When they finally trudge into the attic and turn on that dusty old Babble generator, it doesn't produce thoughts nearly as coherent, witty, or wise as their hyper-developed Pruned filter is used to processing.
 
-When reading this, I immediately felt like it applied to me. Only recently did I start making a conscious effort to "dust off" my Babble generator.
+When reading this, I immediately felt like it applied to me. Only recently did I start making a conscious effort to "dust off" my Babble generator. And on top of that, I am never really convinced that what I am writing is of much added interesting value. How to push myself out of this? Personally it helps me tremendously to experience the inner satisfaction I derive from writing down my thoughts. It actually makes me draw out what I am thinking in a much more conscious manner than I would otherwise ever do.
+
+Secondly, I found the [classification of disagreements](https://www.lesswrong.com/posts/NLBbCQeNLFvBJJkrt/varieties-of-argumentative-experience) from Scott Alexander very interesting. 
+
+![Argument hierarchy](http://slatestarcodex.com/blog_images/argument_hierarchy.png)
+
+Especially his thoughts on the *meta-debate* came across as very recognizable. In this type of argument, the discussion is about the debate itself rather than any of the concepts or arguments being debated. So much of what news media portray of national and international politics seems to never rise above the meta-debate. I also noticed that I myself am sometimes guilty of presenting not more than a handful of studies, which clearly favor a specific side of a discussion. This reminds me to put in more effort to strive towards seeking out or conducting proper surveys more.
+
+The [final essay](https://www.lesswrong.com/posts/tKwJQbo6SfWF2ifKh/toward-a-new-technical-explanation-of-technical-explanation) of this book was a bit too difficult to fully grasp for me, partly because it built upon concepts described in other essays which also are pretty complex in their own right (and which I hadn't read beforehand!) I am inspired to read more about the [gears-level understanding](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding) though.
+
+In conclusion, I would wholeheartedly recommend this book (and probably the rest of the bundle too, but I will come back to that later) to anyone who is interested in a rigorous and rational approach to thinking about life. Reading the essays of these people lifts my thinking and inspiration to a more conscious level.
