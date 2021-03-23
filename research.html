@@ -1,0 +1,25 @@
+---
+layout: default
+title: Research
+author: Max Crone
+permalink: /research
+---
+<header>
+    <h1>{{ page.title }}</h1>
+    <p class="intro">
+        A quick collection of research I have been working on either during courses at university or while being employed by other organizations.
+    </p>
+</header>
+<section>
+    <h2>Multi-core flow classification methods for load balancing</h2>
+    <p>[<a href="/assets/docs/2021-01-07-multi-core-flow-classification.pdf">PDF</a>] 63-page report</p>
+    <p>
+        This document is the product of a semester-long group project during my time at KTH, Stockholm.
+        We implemented flow tables that scale to multiple cores, and thoroughly evaluated their performance.
+        The report provides the results as a detailed comparison.
+    </p>
+    <p>
+        I worked with the <a href="https://github.com/tbarbette/fastclick">FastClick</a> framework for composing network functions, and used the Data Plane Development Kit (DPDK) underneath for packet processing in user space.
+        Traffic generation was built using <a href="https://trex-tgn.cisco.com/">TRex</a>.
+    </p>
+</section>
