@@ -1,7 +1,7 @@
 ---
 layout: post
 category: food
-date: 2020-11-9
+date: 2021-04-10
 title: India
 author: Max Crone
 excerpt: Spinach dal
