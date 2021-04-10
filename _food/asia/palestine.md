@@ -6,7 +6,7 @@ title: Palestine
 author: Max Crone
 ---
 
-### Ful mudammas
+## Ful mudammas
 {% include image.html name="2021-02-11-ful-mudammas" size="1280" caption="Ful mudammas with quick pickled vegetables and fresh flatbread in my kitchen in Helsinki." %}
 
 I have come to the conclusion that it is virtually impossible to ascribe a dish to a single country.

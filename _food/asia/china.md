@@ -6,7 +6,7 @@ title: China
 author: Max Crone
 ---
 
-### Mapo tofu
+## Mapo tofu
 <picture>
     <source srcset="/assets/img/2020-11-25-mapo-tofu_1280.webp" type="image/webp">
     <img src="/assets/img/2020-11-25-mapo-tofu_1280.jpg">

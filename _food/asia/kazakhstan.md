@@ -7,7 +7,7 @@ author: Max Crone
 excerpt: Beshbarmak
 ---
 
-### Beshbarmak
+## Beshbarmak
 
 One of my university friends is from Kazakhstan. I talked with her about their food culture. Much of it stems from the traditional nomadic life style of native people. Meat from sheep and horses was most readily available, although horse meat and camel meat seemed to be mostly reserved for special occasions.
 

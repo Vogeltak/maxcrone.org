@@ -7,7 +7,7 @@ author: Max Crone
 excerpt: Kabsa
 ---
 
-### Kabsa
+## Kabsa
 <picture>
     <source srcset="/assets/img/2020-11-08-kabsa_1280.webp" type="image/webp">
     <img src="/assets/img/2020-11-08-kabsa_1280.jpg">

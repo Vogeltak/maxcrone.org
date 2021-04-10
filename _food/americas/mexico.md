@@ -7,7 +7,7 @@ author: Max Crone
 excerpt: Taco and tamale
 ---
 
-### Black bean tacos with pico de gallo
+## Black bean tacos with pico de gallo
 <picture>
     <source srcset="/assets/img/2020-11-17-taco_1280.webp" type="image/webp">
     <img src="/assets/img/2020-11-17-taco_1280.jpg">
@@ -46,7 +46,7 @@ I find it nice to warm up the tortilla, so it becomes a bit more moist.
 Spread a spoon of cream on the tortilla (I had some cream cheese lying around, which also worked fine), drape a blob of the black bean and tomato filling on there, and sprinkle with cheese, plenty of salsa, and fresh cilantro.
 The only thing left for me, is to make a mess while eating this!
 
-### Tamale
+## Tamale
 *I should make this some time*
 
 Ancient Mexican dish, with evidence of it dating back to 5000 BC - 7000 BC, as army food for the warring tribes of the Aztec, Maya, and Incan cultures.
