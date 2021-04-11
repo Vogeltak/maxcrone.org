@@ -1,7 +1,7 @@
 ---
 layout: post
 category: food
-date: 2020-11-24
+date: 2021-04-11
 title: China
 author: Max Crone
 ---
@@ -40,3 +40,9 @@ After our sauce has simmered for a while, stir in half of our starch mixture, wa
 Oftentimes, mapo tofu is served in a visually pleasing bowl, with a bowl of steamed rice on the side.
 I had my bowl of rice ready and instead ladled the sauce on top directly from the pan.
 Keep in mind that this dish is supposed to have a numbing sensation of heat and cook accordingly.
+
+## Cumin lamb noodles
+
+{% include image.html name="2021-04-11-cumin-lamb" size="1280" caption="Cumin lamb noodles with homemade chili oil in my room in Helsinki, 2021." %}
+
+See [Omnivore's cookbook](https://omnivorescookbook.com/cumin-lamb-noodles/).
