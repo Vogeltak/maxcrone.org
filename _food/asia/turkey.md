@@ -13,7 +13,7 @@ Lots of vegetables dishes, rice, pasta, meats, mezes, salads.
 Specific dishes I still want to make some time.
 
 - [Köfte](https://en.wikipedia.org/wiki/K%C3%B6fte)
-- [Sarma](https://en.wikipedia.org/wiki/Sarma_(food))
+- [Sarma](https://en.wikipedia.org/wiki/Sarma_(food)) *stuffed grape leaves* (a form of [dolma](https://en.wikipedia.org/wiki/Dolma) or *mahshi* in Arabic)
 - [Adana kebabı](https://en.wikipedia.org/wiki/Adana_kebab%C4%B1)
 
 Desserts!
