@@ -28,7 +28,7 @@ Pronouncing this dish already feels delicious.
 
 What I made today is definitely not a traditional recipe though.
 See the [video](https://www.youtube.com/watch?v=uFxXw0eSSC0) by J. Kenji López-Alt for a much better idea of traditional menemen (and nice vibes in general).
-Didn't have proper green peppers, so I had to make to with the much too sweet red bellpepper.
+Didn't have proper green peppers, so I had to make do with the much too sweet red bellpepper.
 Worst of all, I added mixed beans in there too, because it was still in my fridge and had to be used before I went out to a cottage in mid-Finland for the weekend.
 
 Okay, backing up a bit.
