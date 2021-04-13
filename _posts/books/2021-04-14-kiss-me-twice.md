@@ -10,6 +10,8 @@ author: Max Crone
 
 A great novella that pulls you in for an engaging ride where you won't even notice that you are just reading a novella.
 
+Read it [online](https://maryrobinettekowal.com/journal/i-am-43-today-have-a-novella-as-a-party-favor/).
+
 Mary Robinette crafts a nice little buddy detective tale, with a Chinese-American detective and a police AI system.
 Character interactions are exquisite and the story is well paced.
 The way our protagonist Scott Huang thinks about and interacts with the AI Metta (of which his personal interface is modeled after Mae West) poses interesting questions about the extent to which AI can be legal persons on themselves.
