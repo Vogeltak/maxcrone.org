@@ -30,6 +30,6 @@ effectiveness of some side-channels attacks. However, further work is desperatel
 
 *Keywords:* planet, cloud, side-channel, attack, planetary-digital security, ecosystems, disaster
 
-[[PDF](/assets/docs/2021-03-16-abstract-planetary-digital-engineering.pdf)]
+<p class="document"><a href="/assets/docs/2021-03-16-abstract-planetary-digital-engineering.pdf">PDF</a></p>
 
 ---
