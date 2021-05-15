@@ -45,6 +45,8 @@ Keep in mind that this dish is supposed to have a numbing sensation of heat and 
 
 {% include image.html name="2021-04-11-cumin-lamb" size="1280" caption="Cumin lamb noodles with homemade chili oil in my room in Helsinki, 2021." %}
 
+See [Omnivore's cookbook](https://omnivorescookbook.com/cumin-lamb-noodles/).
+
 ## Sichuan Yu Xiang eggplant
 
 {% include image.html name="2021-05-15-yu-xiang-eggplant" size="1280" caption="Yu Xiang eggplant served on basmati rice in my room in Helsinki, 2021." %}
