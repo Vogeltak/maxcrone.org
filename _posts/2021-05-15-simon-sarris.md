@@ -22,10 +22,10 @@ Door bewust memories te maken en deze vast te leggen in fotografie en schrijven,
 
 > Most of my life felt like waiting. Much of it unnecessarily.
 
-Simon benadrukt dat je je moet focussen op **making things**.
+Simon benadrukt dat wat hij nastreeft, is to be **making things**.
 
-Deze hele sfeer doet me ook denken aan de Earthsea cycle van Ursula K. Le Guin; bewuste en minimalistische aandacht voor de schoonheid van het leven en een omarming van de traagheid ervan.
-Een romantisering van het leven in goede zin, of tenminsten, op een wijze die met mij resoneert.
+Deze hele sfeer doet me ook denken aan de Earthsea cycle van Ursula K. Le Guin; bewuste en minimalistische aandacht voor de schoonheid van het leven en een omarming van haar traagheid.
+Een romantisering van het leven in goede zin, of tenminste, op een wijze die met mij resoneert.
 
 Zie ook enkele threads van Simons twitteraccount:
 
