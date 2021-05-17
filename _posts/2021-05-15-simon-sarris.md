@@ -3,6 +3,7 @@ layout: post
 title: Exploring the life vibes of Simon Sarris
 author: Max Crone
 category: essay
+excerpt: (Dutch, English) A short essay trying to capture Simon Sarris's aesthetic life.
 ---
 
 Simon woont samen met zijn vrouw Simi (Simplicity) in zuid New Hampshire tussen pine woods in een huis dat hij zelf ontworpen en gebouwd heeft.
