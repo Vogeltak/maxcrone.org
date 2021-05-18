@@ -30,7 +30,7 @@ Same goes for drinks, which they only consumed after they finished eating.
 
 Quinoa was the sacred "mother grain" (rich in high-quality protein).
 
-> Alexander von Humboldt went to the Andex and said that in South America, quinoa was what "wine was to the greeks, wheat to the romans, cotton to the Arabs."
+> Alexander von Humboldt went to the Andes and said that in South America, quinoa was what "wine was to the greeks, wheat to the romans, cotton to the Arabs."
 
 Another source of protein is *cuy* (guinea pig), which the Inca had domesticated by 2000 B.C.
 Taste has been described as fishy pork.
@@ -59,6 +59,7 @@ When cooking at higher altitudes, water boils at lower temperatures, so food wil
 Thus at higher altitudes, people tended to cook more by frying.
 
 Other staple foods include:
+
 - corn (bigger kernels, different taste and texture)
 - squash (of which the seeds are highly nutritious, but most everything of the plant was eaten)
 - fruits
