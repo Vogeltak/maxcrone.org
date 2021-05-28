@@ -21,6 +21,10 @@ I can only imagine how fascinating this must have been back in nineteen ninety-t
 What I enjoyed most about this book, were its chapters where Hiro was discussing with his Librarian daemon about ancient civilizations.
 This included creation myths of Sumerian culture, their influence on later civilizations, possible conspiracies surrounding the bible.
 These chapters (27, 28, 30, 33) precisely hook into what I was already interested in recently, after my investigations into historical cultures and their food.
+Then, in chapter 56 and 57, Hiro gives a nice summary of his interpretation of what is going on in the world.
+He traces the full history of informational viruses with biological components, and how they kickstarted human civilization.
+To ultimately survive throughout time, despite monotheistic and pluralistic counter-tendencies, as the cult of Asherah.
+Neal manages to mention just enough historically plausible things onto which he can extrapolate his fictional theories and interpretations.
 
 Neal was also the one to coin the term *Metaverse*, in Snow Crash.
 In the novel, it refers to the collective virtual space accessed through terminals that project a high-quality virtual reality on your goggles.
