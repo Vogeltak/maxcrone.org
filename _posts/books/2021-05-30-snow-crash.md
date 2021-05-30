@@ -1,7 +1,7 @@
 ---
 layout: book
 category: books
-date: 2021-04-19
+date: 2021-05-30
 title: Snow Crash
 writer: Neal Stephenson
 rating: 3 
@@ -11,7 +11,7 @@ author: Max Crone
 Snow Crash is a fascinating cyberpunk classic with great world building but a plot that does not live up to the same enthusiasticism.
 
 We're mostly following Hiro and Y.T. in their lives as they get entangled in a few threads.
-The story takes its sweet time to kick off the plot, which basically doesn't boil down to anything more than stopping a bad guy who wants to destroy the world.
+The story takes its sweet time to kick off the plot, which basically doesn't boil down to anything more than stopping a bad guy who wants to take over the world.
 The unique strengths of Snow Crash lie somewhere else.
 
 Most importantly, Neal presents an amazingly intricate and fleshed out world of semi-dystopian cyberpunk.
@@ -28,6 +28,7 @@ Neal manages to mention just enough historically plausible things onto which he 
 
 Neal was also the one to coin the term *Metaverse*, in Snow Crash.
 In the novel, it refers to the collective virtual space accessed through terminals that project a high-quality virtual reality on your goggles.
+He is also the one who popularised the term *avatar* to mean online virtual body.
 The Metaverse contains many references to real world computing culture, but adding plenty of fictional elements to it, which makes it a very rich illusion while reading.
 
 In conclusion, I would definitely recommend to read this nine-hundred+ page novel, to experience the fantasy of cyberpunk from one of its most influential sources.
