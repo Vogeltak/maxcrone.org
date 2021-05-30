@@ -8,7 +8,7 @@ rating: 3
 author: Max Crone
 ---
 
-Snow Crash is a fascinating cyberpunk classic with great world building but a rather lacking plot.
+Snow Crash is a fascinating cyberpunk classic with great world building but a plot that does not live up to the same enthusiasticism.
 
 We're mostly following Hiro and Y.T. in their lives as they get entangled in a few threads.
 The story takes its sweet time to kick off the plot, which basically doesn't boil down to anything more than stopping a bad guy who wants to destroy the world.
