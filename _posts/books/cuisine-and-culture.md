@@ -8,6 +8,8 @@ rating: 5
 author: Max Crone
 ---
 
+An article in [Jacobin](https://jacobinmag.com/2015/05/slow-food-artisanal-natural-preservatives) related to the history of food.
+
 ## Old world
 
 ## Ancient world
