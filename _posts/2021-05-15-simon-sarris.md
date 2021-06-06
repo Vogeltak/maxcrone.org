@@ -44,7 +44,7 @@ Enkele foto's gemaakt door Simon:
 
 ![Garlic and aubergine.](https://pbs.twimg.com/media/EFpwhRpXoAAFfNI?format=jpg&name=large)
 
-Een passage over het doel van het leven dat ik recentelijk las:
+Een passage over het doel van het leven die ik recentelijk las:
 
 > To laugh often and much; to win the respect of the intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty; to find the best in others; to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know that one life has breathed easier because you lived here. This is to have succeeded.
 
