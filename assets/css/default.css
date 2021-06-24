@@ -203,12 +203,15 @@ footer {
 
 .portrait {
     /*border: 1px solid #222;*/
-    border-radius: 50%;
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
     margin-bottom: 24px;
     margin-top: 1rem;
     max-width: 12rem;
     align-self: center;
+}
+
+.portrait img {
+    border-radius: 50%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
 }
 
 /* ==========
