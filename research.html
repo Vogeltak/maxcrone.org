@@ -11,8 +11,34 @@ permalink: /research
     </p>
 </header>
 <section>
+    <h2>Attack-tolerant trusted execution environments</h2>
+    <p class="document"><a href="/assets/docs/2021-07-12-attack-tolerant-trusted-execution-environments.pdf">PDF</a></p>
+    <p>
+		This is my Master's thesis, completed at Aalto University and KTH Royal Institute of Technology in the Spring semester of 2021.
+		I worked in the <a href="https://ssg.aalto.fi" target="_blank">Secure Systems Group</a> at Aalto University, together with an amazing group of other researchers.
+		My thesis explores the effects of confidentiality compromise of trusted execution environments (think about Intel SGX and Arm TrustZone) and how to still perform remote attestation while guaranteeing integrity protection.
+		Start by reading the abstract below.
+    </p>
+    <p>
+  		In recent years, trusted execution environments (TEEs) have seen increasing deployment in computing devices
+  		to protect security-critical software from run-time attacks and provide isolation from an untrustworthy operating system (OS).
+  		A trusted party verifies the software that runs in a TEE using remote attestation procedures.
+  		However, the publication of transient execution attacks such as Spectre and Meltdown
+  		revealed fundamental weaknesses in many TEE architectures, including Intel SGX and Arm TrustZone.
+  		These attacks can extract cryptographic secrets, thereby compromising the integrity of the remote attestation procedure.
+
+  		In this work, we design and develop a TEE architecture that provides remote attestation integrity protection
+  		even when confidentiality of the TEE is compromised.
+  		We use the formally verified seL4 microkernel to build the TEE, which ensures strong isolation and integrity.
+  		We offload cryptographic operations to a secure co-processor that does not share any vulnerable microarchitectural
+  		hardware units with the main processor, to protect against transient execution attacks.
+  		Our design guarantees integrity of the remote attestation procedure.
+  		It can be extended to leverage co-processors from Google and Apple, for wide-scale deployment on mobile devices.
+    </p>
+</section>
+<section>
     <h2>Multi-core flow classification methods for load balancing</h2>
-    <p class="document"><a href="/assets/docs/2021-01-07-multi-core-flow-classification.pdf">Final 63-page report</a></p>
+    <p class="document"><a href="/assets/docs/2021-01-07-multi-core-flow-classification.pdf">PDF</a></p>
     <p>
         This document is the product of a semester-long group project with the Network Systems lab at KTH, Stockholm.
         We implemented flow tables that scale to multiple cores, and thoroughly evaluated their performance.
