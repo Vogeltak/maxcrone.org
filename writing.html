@@ -13,38 +13,35 @@ description: A personal publishing platform for blog posts and stories written b
     </p>
 </header>
 <section>
-    <h3>Essays</h3>
+    <h2>Essays</h2>
 </section>
 <section class="post-grid">
     {% for post in site.categories["essay"] %}
     <div class="post-item">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-        <p class="excerpt">{{ post.excerpt }}</p> 
-        <p class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</p>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
     </div>
     {% endfor %}
 </section>
 <section>
-    <h3>Fiction</h3>
+    <h2>Fiction</h2>
 </section>
 <section class="post-grid">
     {% for post in site.categories["fiction"] %}
     <div class="post-item">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-        <p class="excerpt">{{ post.excerpt }}</p>
-        <span class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
     </div>
     {% endfor %}
 </section>
 <section>
-    <h3>Thoughts</h3>
+    <h2>Thoughts</h2>
 </section>
 <section class="post-grid">
     {% for post in site.categories["thoughts"] %}
     <div class="post-item">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-        <p class="excerpt">{{ post.excerpt }}</p> 
-        <span class="date">Published on {{ post.date | date: "%Y-%m-%d" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
     </div>
     {% endfor %}
 </section>

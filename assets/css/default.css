@@ -233,12 +233,11 @@ footer {
     column-gap: 5px;
     display: grid;
     grid-template-columns: 1fr;
-    row-gap: 2em;
+    row-gap: 0.5em;
 }
 
     .post-grid a {
         font-size: 1.1rem;
-        font-weight: bold;
         text-decoration: underline;
     }
 
@@ -255,7 +254,7 @@ footer {
 
 @media only screen and (min-width: 560px) {
     .post-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
 
         .post-grid a {
