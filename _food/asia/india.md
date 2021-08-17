@@ -151,3 +151,24 @@ I tempered some chili flakes, cumin seeds, and cardemom.
 - Lentils
 - Spinach
 - Serve with basmati rice
+
+## Punjabi lobia
+
+{% include image.html name="2021-08-17-punjabi-lobia" size="1280" caption="Punjabi style black-eyed peas curry in spicy onion and tomato gravy, in my room in Amsterdam, 2021." %}
+
+A hearty black-eyed peas curry from the [Punjab region](https://en.wikipedia.org/wiki/Punjab) on the Indian subcontinent.
+I first stumbled on [a recipe by Sam Jones from The Guardian](https://www.theguardian.com/food/2021/jan/25/20-best-curry-recipes-sam-jones-lobia-black-eyed-bean-curry) that piqued my interest for a quick weeknight meal.
+Then I naturally looked for an [authentic source](https://www.youtube.com/watch?v=ir1mWTJEQXY).
+It's satisfying to recognize the different types of Indian breads that get recommended to eat alongside this curry (chapati, paratha, roti), after I recently did some research into them using Julie Sahni's *Classic Indian Cooking*.
+
+Anyway, I fried garlic, ginger, and a few hot chilies in butter on medium-high heat until it took the raw edge off.
+Sprinkled in a healthy dose of powders: turmeric, coriander, cumin.
+Stir for a minute.
+Add in onion, layer over some salt to draw out moisture more quickly, and simmer for five minutes.
+I then poured in some tomato passata, sliced up cherry tomatoes, and a spoon of mango chutney.
+Simmer for a while (maybe until you see some fat separated from the tomato sauce).
+I threw in a tin of black-eyed peas, including their liquid (be mindful of whether yours is salted or not; if it is, I suggest rinsing the beans first and throwing in fresh water with them instead, got to be in control of your salts).
+Continue simmering, lightly mashing some beans according to personal preference.
+
+I served it in my new wooden bowl with basmati rice and fresh cilantro, and a quickly pickled cucumber-onion salad on the side.
+
