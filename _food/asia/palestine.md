@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2021-02-11
+date: 2021-08-24
 title: Palestine
 author: Max Crone
 ---
@@ -39,3 +39,33 @@ I served it with some quickly pickled vegetables and fresh flatbread.
 Now apparently Palestinian traditional grandma's scoop up the ful with onions that have been soaking in some good olive oil.
 Naturally, I tried my hand at that too.
 It is a bit intense, but good to have tried.
+
+## Rummaniyya
+
+{% include image.html name="2021-08-24-rummaniyya" size="1280" caption="Lentil-aubergine-pomegranate stew served with rice in wooden bowl, in my kitchen in Amsterdam, 2021." %}
+
+A lentil, aubergine and pomegranate stew from the Gaza strip.
+Inspired by a recipe from Yasmin Khan's book *Zaitoun: Recipes from the Palestinian Kitchen*, which I casually browsed in the Waterstone's in Amsterdam recently.
+Also see [Wikipedia](https://en.wikipedia.org/wiki/Palestinian_cuisine#Gaza), [The Guardian](https://www.theguardian.com/lifeandstyle/2017/feb/02/rummaniyeh-pomegranate-lentil-stew-recipe-palestinian-food-joudie-kalla-cook-residency) and the [Taste Atlas](https://www.tasteatlas.com/rummaneyye).
+
+Place lentils in a saucepan and add enough water.
+Put on middle-high heat, add ground cumin and coriander, and simmer for about fifteen minutes until the lentils begin to soften.
+A quick note on the lentils to use: I had red lentils lying around, but these actually are too soft and lose their shape after cooking them down.
+In the recipes I read, everyone suggests brown lentils instead.
+
+In the meanwhile, cut a few aubergines (peel the skin if you want) into cubes with two centimeter dimensionality.
+Add them to the pan, along with eighty milliliters of pomegranate molasses, sumac, salt, pepper, and some olive oil.
+Shimmer for a while.
+
+Fry some finely minced onions and garlic until soft, golden, and fragrant.
+Set aside when finished.
+
+I used some of that oil and aromatics to prepare my rice.
+Quickly fried it in the pan, then added water and let it come up to a boil.
+Add salt, turn heat down, and cover with a lid.
+
+After the rice is cooked and you took it off the heat to rest for five minutes, swirl the onion-garlic mixture through the rummaniyya.
+
+Traditionally this would be served with a flatbread like [taboon](https://www.youtube.com/watch?v=IhHphbIetBg) instead of rice.
+
+Garnish with pomegranate seeds and some fresh herbs (mint, parsley), drizzle over some extra olive oil.
