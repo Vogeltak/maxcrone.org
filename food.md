@@ -13,16 +13,16 @@ I wrote some [more detailed thoughts](/thoughts/how-to-categorize-cuisines) on t
 
 Let's start from ten top-level regions.
 
-- Africa <span class="fraction">5/55</span>
-- Central Asia <span class="fraction">1/5</span>
-- East Asia <span class="fraction">1/6</span>
-- Europe <span class="fraction">0/44</span>
-- Middle East <span class="fraction">4/19</span>
-- North America <span class="fraction">2/23</span>
-- Pacific <span class="fraction">0/14</span>
-- South America <span class="fraction">0/12</span>
-- South Asia <span class="fraction">1/8</span>
-- Southeast Asia <span class="fraction">0/11</span>
+- [Africa](#africa) <span class="fraction">5/55</span>
+- [Central Asia](#central-asia) <span class="fraction">1/5</span>
+- [East Asia](#east-asia) <span class="fraction">1/6</span>
+- [Europe](#europe) <span class="fraction">0/44</span>
+- [Middle East](#middle-east) <span class="fraction">4/19</span>
+- [North America](#north-america) <span class="fraction">2/23</span>
+- [Pacific](#pacific) <span class="fraction">0/14</span>
+- [South America](#south-america) <span class="fraction">0/12</span>
+- [South Asia](#south-asia) <span class="fraction">1/8</span>
+- [Southeast Asia](#southeast-asia) <span class="fraction">0/11</span>
 
 
 ## Africa
