@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: food
 category: food
-date: 2021-08-07
+date: 2021-08-17
 title: India
 author: Max Crone
 ---

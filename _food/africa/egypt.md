@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: food
 category: food
 date: 2021-02-15
 title: Egypt

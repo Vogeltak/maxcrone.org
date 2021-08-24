@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: food
 category: food
 date: 2021-03-27
 title: Kenya

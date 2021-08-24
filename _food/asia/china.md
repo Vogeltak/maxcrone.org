@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: food
 category: food
 date: 2021-04-11
 title: China

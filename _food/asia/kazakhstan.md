@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: food
 category: food
 date: 2020-11-2
 title: Kazakhstan
