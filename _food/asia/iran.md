@@ -1,7 +1,7 @@
 ---
 layout: post
 category: food
-date: 2021-07-26
+date: 2021-08-22
 title: Iran
 author: Max Crone
 ---
@@ -110,3 +110,35 @@ Pour in some water and simmer the khoresh until celery has softened to your pers
 یک پیاز خرد کرده و با روغن تفت دهید. سپس ادویه (نمک، فلفل و زردچوبه) اضافه‌کنید. میتوانید مقداری آب اضافه کنید تا پیاز ها نسوزند. سپس تکه های پنیر را اضافه کنید.
 تکه های کرفس را اضافه کرده و کمی تفت دهید. سپس سبزیهای خرد شده را اضافه کنید و کمی تفت دهید.
 سپس کمی آب اضافه کنید و بگذارید تا مواد بپزندتا وقتی کرفسها به انذازه ی مطلوب نرم شده باشند.
+
+## Kuku sabzi
+
+{% include image.html name="2021-08-22-kuku-sabzi" size="1280" caption="Kuku sabzi, a Persian herb frittata, in my mother's kitchen, Tilburg, 2021." %}
+
+The Persian herb frittata known as *kuku sabzi* seems to be a widely-celebrated piece of Persian cuisine.
+It uses a large bunch of fresh herbs and some eggs to make a delicious center piece for a vegetarian meal.
+I was recently listening to episodes of the [Modern Persian Food](https://modernpersianfood.com/episodes/) podcast in which this dish is also mentioned ([episode 28](https://modernpersianfood.com/episode-28/)).
+But more importantly, I ran across some articles written by my favorite Samin Nosrat for the New York Times.
+She writes about [kuku sabzi](https://cooking.nytimes.com/recipes/1020203-kuku-sabzi-persian-herb-frittata) as part of her series on essential Persian recipes.
+
+My version of this dish is practically the same as Samin's.
+I served it with freshly baked pita bread, mast-o khiar (see below), radishes, and feta cheese with olive oil.
+
+Though Samin mentions that the crust should be almost black, I found that most pictures online seem to go a little bit easier on the darkness compared to what my kuku sabzi resulted in.
+Nonetheless, the midnight-black crust tasted rather sweet and not at all pungently burnt.
+
+## Mast-o khiar
+
+{% include image.html name="2021-08-22-mast-o-khiar" size="1280" caption="A bowl of mast-o khiar in my mother's kitchen, Tilburg, 2021." %}
+
+Mast-o khiar is a beautiful, yogurt-based side dish in Persian cuisine.
+When making it, the thicker the yogurt the better.
+Preferably use *labneh*, which is strained yogurt, thus with most of its whey removed, resulting in a thicker consistency.
+
+Because Dutch supermarkets haven't heard of labneh yet, I quickly made my own approximation by straining fatty Greek yogurt in a mesh lined with coffee filters.
+Place it over a bowl in the fridge for some hours before it is ready to use.
+
+I drew mostly from Samin Nosrat's [recipe for the New York Times](https://cooking.nytimes.com/recipes/1020213-mast-o-khiar-persian-cucumber-and-herb-yogurt).
+Add diced cucumber (less watery than grated), raisins (plumped up by soaking in water beforehand), yogurt, fresh herbs (parsley, cilantro, dill), garlic, salt, and black pepper to a nice bowl.
+Stir in some walnuts, roughly chopped, right before serving.
+Works amazingly with many dishes, or just with some good flatbread on its own already.
