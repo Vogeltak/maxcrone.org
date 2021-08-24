@@ -7,6 +7,9 @@ author: Max Crone
 excerpt: Taco and tamale
 ---
 
+In Mexico people make a dessert called *pavlova*, which is a combination of meringues with acidic tropical fruits; garnishes with lime zest and chocolate "rasp", mint leafs, and floral/acidic honey.
+See Samin Nosrat's Netflix episode on Acid.
+
 ## Black bean tacos with pico de gallo
 <picture>
     <source srcset="/assets/img/2020-11-17-taco_1280.webp" type="image/webp">

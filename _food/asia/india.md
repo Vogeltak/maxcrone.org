@@ -6,6 +6,22 @@ title: India
 author: Max Crone
 ---
 
+An amazing book on Indian cuisine, as recommended by Mark Bittman, is *Classic Indian Cooking* by Julie Sahni, from 1980.
+Another nice source of inspiration is [this](https://www.youtube.com/watch?v=29ZP8ADQJ1Y) restaurant owner.
+
+Some breads (there are way more though):
+
+- [Chapati](https://en.wikipedia.org/wiki/Chapati) *unleavened flatbread baked on a griddle*
+- [Naan](https://en.wikipedia.org/wiki/Naan) *leavened, tandoor- or oven-baked flatbread*
+    - Is apparently more "restaurant" like, in contrast to
+- [Paratha](https://en.wikipedia.org/wiki/Paratha) *unleavened flatbread, really popular every-day bread*
+
+Other dishes I want to make:
+
+- [Vada pav](https://en.wikipedia.org/wiki/Vada_pav) *deep fried potato dumpling in a bun*
+- [Chenna poda](https://www.youtube.com/watch?v=cOoC0accGxE) *sweet dessert from fresh cheese*
+- Kali dal *buttered black beans; rich and special dish*
+
 ## Safaid channe and palak raita
 
 {% include image.html name="2021-08-05-safaid-channe-palak-raita" size="1280" caption="Simple legumes with yogurt salad and rice in my mother's kitchen, Tilburg, 2021." %}

@@ -6,6 +6,25 @@ title: China
 author: Max Crone
 ---
 
+Traditional Chinese cuisine has developed itself according to **Eight Great Traditions** (八大菜系, Bā Dà Cài Xì) , related to different regional cultures.
+
+1. Anhui
+2. Cantonese
+3. Fujian
+4. Hunan
+5. Jiangsu
+6. Shandong
+7. Sichuan
+8. Zhejiang
+
+I plan to do deep dives into all of these.
+
+Some other dishes I want to make include the following.
+
+- [Scallion pancakes](https://omnivorescookbook.com/chinese-scallion-pancakes/)
+- [Chive pockets](https://omnivorescookbook.com/chinese-chive-pockets/)
+- [Congee](https://omnivorescookbook.com/how-to-make-congee/) *Chinese comfort rice porridge*
+
 ## Mapo tofu
 <picture>
     <source srcset="/assets/img/2020-11-25-mapo-tofu_1280.webp" type="image/webp">
