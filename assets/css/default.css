@@ -401,3 +401,18 @@ footer {
         columns: 2;
     }
 }
+
+/* ==========
+    Cuisines
+========== */
+
+.fraction {
+    background-color: lightgray;
+    border-radius: 16px;
+    font-size: 14px;
+    padding: 4px 8px;
+}
+
+.fraction.accent {
+    font-weight: bold;
+}

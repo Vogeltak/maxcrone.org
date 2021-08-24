@@ -2,6 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
+done: 14
 permalink: /food
 ---
 
@@ -12,23 +13,23 @@ I wrote some [more detailed thoughts](/thoughts/how-to-categorize-cuisines) on t
 
 Let's start from ten top-level regions.
 
-- Africa
-- Central Asia
-- East Asia
-- Europe
-- Middle East
-- North America
-- Pacific
-- South America
-- South Asia
-- Southeast Asia
+- Africa <span class="fraction">5/55</span>
+- Central Asia <span class="fraction">1/5</span>
+- East Asia <span class="fraction">1/6</span>
+- Europe <span class="fraction">0/44</span>
+- Middle East <span class="fraction">4/19</span>
+- North America <span class="fraction">2/23</span>
+- Pacific <span class="fraction">0/14</span>
+- South America <span class="fraction">0/12</span>
+- South Asia <span class="fraction">1/8</span>
+- Southeast Asia <span class="fraction">0/11</span>
 
 
 ## Africa
 
 African cuisines are further categorized by cardinal directions.
 
-### Northern Africa
+### Northern Africa <span class="fraction">2/6</span>
 
 Influences from Phoenicians (sausages), Carthaginians (wheat, semolina), Berbers (couscous), Arabs (spices: saffron, nutmeg, cinnamon, ginger, cloves), Ottoman Turks (pastries), and New World (potatoes, tomatoes, zucchini, chili peppers).
 
@@ -37,14 +38,14 @@ Influences from Phoenicians (sausages), Carthaginians (wheat, semolina), Berbers
 - [Tunisia](/food/tunisia)
 	- Lablabi *chickpeas in garlic-cumin broth*
 
-### Eastern Africa
+### Eastern Africa <span class="fraction">1/19</span>
 
 - [Kenya](/food/kenya)
 	- Mandazi *fried bread*
 
-### Southern Africa
+### Southern Africa <span class="fraction">0/5</span>
 
-### Western Africa
+### Western Africa <span class="fraction">2/16</span>
 
 Many of the dishes I list under specific countries are mostly eaten throughout the whole region.
 There might be small debates over where dishes originate from, but ultimately it remains hard to tell, as most of these countries are rather arbitrary and actually consist of hundreds of different tribes.
@@ -56,7 +57,7 @@ There might be small debates over where dishes originate from, but ultimately it
 	- Jollof and obe ata *rice and spicy red pepper sauce*
 	- Ewa riso *stewed beans*
 
-### Central Africa
+### Central Africa <span class="fraction">0/9</span>
 
 Influenced by Swahilis and Portuguese (see [Wikipedia](https://en.wikipedia.org/wiki/African_cuisine#Central_Africa)).
 
@@ -77,6 +78,18 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
 	- Mapo tofu *soft tofu in a spicy, Sichuan broth*
 	- Cumin lamb noodles
 	- Sichuan Yu Xiang eggplant
+
+
+## Europe
+
+### Northern Europe <span class="fraction">0/10</span>
+
+### Eastern Europe <span class="fraction">0/10</span>
+
+### Southern Europe <span class="fraction">0/15</span>
+
+### Western Europe <span class="fraction">0/9</span>
+
 
 ## Middle East
 
@@ -119,10 +132,11 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 
 ## North America
 
+### Central America <span class="fraction">1/7</span>
 - [Mexico](/food/mexico)
 	- Black bean tacos with pico de gallo
 
-### Carribean
+### Carribean <span class="fraction">1/14</span>
 
 - [Cuba](/food/cuba)
 	- Moros y Cristianos *rice and beans*
