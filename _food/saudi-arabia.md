@@ -42,7 +42,7 @@ I also added some finely julienned carrots.
 In the meanwhile, it was time to lightly fry my garnish of raisins and almonds.
 With a little bit of oil in the pan, I toasted the almond halves until they had an appealing brown color to them.
 Let rest on some kitchen paper.
-Do the same with the rainins and beware that they might burn quickly.
+Do the same with the raisins and beware that they might burn quickly.
 These two will smell amazing.
 Be sure to sneak some of them to your mouth already, while waiting for the rice to finish.
 
