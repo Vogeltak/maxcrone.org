@@ -126,6 +126,20 @@ footer {
     text-align: center;
 }
 
+hr {
+    border: 0;
+    display: block;
+    margin: 25px auto;
+    text-align: center;
+    width: 100%;
+}
+
+    hr:after {
+	color: black;
+	content: "\2042";
+	font-size: 1em;
+    }
+
 .picture-subscript {
     font-size: 14px;
     font-style: italic;
