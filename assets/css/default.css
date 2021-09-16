@@ -183,6 +183,23 @@ hr {
 }
 
 /* ==========
+    Quick dark-mode
+========== */
+@media (prefers-color-scheme: dark) {
+    html {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+
+    body {
+	background-color: #000;
+    }
+
+    img {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+}
+
+/* ==========
     Text styling
 ========== */
 .light {
