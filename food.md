@@ -6,8 +6,6 @@ done: 15
 permalink: /food
 ---
 
-A delightful resource on cuisines from around the world is this 2001 website called [Food in Every Country](http://www.foodbycountry.com/).
-
 I organize my notes on different cuisines by splitting them into rough geographical areas with the intention of grouping together similar cuisines.
 A country's cuisine has rarely developed on its own.
 Cuisines are as dynamic, flexible, and arbitrary as the concept of nation states and their borders.
@@ -25,6 +23,7 @@ Let's start from ten top-level regions.
 - [South America](#south-america) <span class="fraction">0/12</span>
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
 - [Southeast Asia](#southeast-asia) <span class="fraction">0/11</span>
+
 
 ## Africa
 
