@@ -2,7 +2,7 @@ plugins:
     - jekyll-feed
 
 title: Max Crone
-description: Max Crone is a computer security and cloud engineer currently in his Master's at Aalto University in Finland.
+description: Max Crone is a computer engineer exploring life in The Netherlands.
 
 permalink: /:categories/:title
 
