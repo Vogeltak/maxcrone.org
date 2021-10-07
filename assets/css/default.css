@@ -15,7 +15,7 @@ body {
 }
 
 p, ol, ul {
-    line-height: 1.6rem;
+    line-height: 1.7;
 }
 
 img {
@@ -34,11 +34,11 @@ a {
     }
 
 blockquote {
-    border-left: 4px solid #f2f2f2;
+    border: 1px dashed;
+    border-left: 2px solid;
     color: #515151;
-    font-style: italic;
-    margin: 1.2em 0 1.2em 2em;
-    padding-left: 1em;
+    margin: 1rem 0;
+    padding: 0 1em;
 }
 
 nav {
