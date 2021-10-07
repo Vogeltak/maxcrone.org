@@ -21,7 +21,7 @@ I plan to do deep dives into all of these.
 
 Some other dishes I want to make include the following.
 
-- [Scallion pancakes](https://omnivorescookbook.com/chinese-scallion-pancakes/)
+- [Scallion pancakes](https://omnivorescookbook.com/chinese-scallion-pancakes/) (alternatively, a recipe from [Magic Ingredients](https://www.youtube.com/watch?v=55X8M68rCiQ) on YouTube)
 - [Chive pockets](https://omnivorescookbook.com/chinese-chive-pockets/)
 - [Congee](https://omnivorescookbook.com/how-to-make-congee/) *Chinese comfort rice porridge*
 
