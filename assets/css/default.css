@@ -185,6 +185,13 @@ hr {
 /* ==========
     Quick dark-mode
 ========== */
+/* 
+
+DISABLE because it doesn't work properly across Firefox and Chrome.
+Firefox doesn't properly invert background-color so I had to set it
+explicitly, but then Chrome _does_ properly invert it and we end up
+with white on white for dark mode. Not good.
+
 @media (prefers-color-scheme: dark) {
     html {
 	filter: invert(100%) hue-rotate(180deg);
@@ -198,6 +205,7 @@ hr {
 	filter: invert(100%) hue-rotate(180deg);
     }
 }
+*/
 
 /* ==========
     Text styling
