@@ -356,6 +356,40 @@ with white on white for dark mode. Not good.
         }
 }
 
+.recent-dishes {
+    /*
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow: 0 4px 4px rgba(0,0,0,0.2);
+    margin: 0 6px;
+    */
+}
+
+    .recent-dishes .title {
+        margin-bottom: 0;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+.food-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+    padding: 16px;
+}
+
+    .food-grid a {
+        padding: 3px;
+    }
+
+@media only screen and (min-width: 1232px) {
+    .food-grid {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
+
+        .food-grid a {
+            padding: 8px;
+        }
+}
+
 .book-grid {
     column-gap: 5px;
     display: grid;
