@@ -20,6 +20,7 @@ Most of my writing is done in Markdown files that I either edit with Vim, [Typor
 - [x] Separate page for books I have read and reviews I have written
 - [ ] Maybe look into the use of Adobe's open-source font family [Source](https://en.wikipedia.org/wiki/Source_Serif), including *Source Sans Pro* and *Source Serif Pro* (also used at [Gwern.net](https://gwern.net))
 - [ ] Implement extra tags for posts: `date-started`, `date-updated`, `status`
+- [ ] Host binary content (i.e., images, documents) on a separate CDN
 
 ## License
 
