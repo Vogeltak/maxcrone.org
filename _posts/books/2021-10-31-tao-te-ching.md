@@ -65,6 +65,6 @@ Chapter 80 is titled *Freedom*. It is a touching little gem of worldbuilding, wi
 > Doing without outdoing\
 > is the Way of the wise.
 
-Chapter 81 is titled *Telling it true*. It closes the book really well. With elements that have been repeated throughout it; the paradoxically sounding distinctions that are made over two lines. There is the *doing without doing*, but with a little twist, keeping it fresh all the way until the end. The last two lines of the first stanza actually remind me of a sentence from Ursula's short story *Mountain ways* (bundled in [The birthday of the world and other stories](https://www.worldcat.org/isbn/9780060509064)).
+Chapter 81 is titled *Telling it true*. It closes the book really well. With elements that have been repeated throughout it; the paradoxically sounding distinctions that are made over two lines. There is the *doing without doing*, but with a little twist, keeping it fresh all the way until the end. The last two lines of the first stanza actually remind me of a sentence from Ursula's short story *Mountain ways* (bundled in [The birthday of the world and other stories](https://www.worldcat.org/isbn/9780060509064), but also published online in [Clarkesworld](https://clarkesworldmagazine.com/le_guin_03_14_reprint/)).
 
 > "As a scholar of the Discussions, Enno knew more questions than most people, but fewer answers."
