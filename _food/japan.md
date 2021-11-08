@@ -8,7 +8,7 @@ author: Max Crone
 
 ## Miso soup
 
-{% include image.html name="2021-11-02-miso-soup" size="1280" caption="Miso soup with udon noodles, napa cabbage, and tofu, in my apartment in Amsterdam, 2021." %}
+{% include image.html name="2021-11-05-miso-soup" size="1280" caption="Miso soup with tofu and spring onions for lunch, in my apartment in Amsterdam, 2021." %}
 
 Starting off this wonderfully delicate and interesting cuisine with a very simple dish.
 A light miso soup, together with rice, serves as a staple food for the mornings in Japan.
@@ -50,7 +50,7 @@ I served my miso soup in a large wooden bowl while longing for the spring onion 
 
 ## Furikake
 
-{% include image.html name="2021-11-02-furikake" size="1280" caption="Dried and seasoned kombu and katsuobushi flakes meant for seasoning rice and other dishes, Amsterdam, 2021." %}
+{% include image.html name="2021-11-05-rice-furikake" size="1280" caption="Dried and seasoned kombu and katsuobushi flakes meant for seasoning rice and other dishes, Amsterdam, 2021." %}
 
 From the leftover kombu and katsuobushi I made this "rice seasoning" inspired by [Just One Cookbook](https://www.justonecookbook.com/homemade-furikake-rice-seasoning/).
 Cut the kombu into small pieces and put them into a small saucepan along with the katsuobushi, still moist.
