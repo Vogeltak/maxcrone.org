@@ -91,7 +91,7 @@ There is just too much beautiful brilliance in here.
 > Now, this all takes differing periods of time.
 > For some people, it only takes ten years.
 
-# Part V: The world as self
+## Part V: The world as self
 
 > [...] moksha — liberation.
 > Liberation from the hallucination that you are just some poor little me.
