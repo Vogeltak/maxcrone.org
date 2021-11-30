@@ -2,7 +2,7 @@
 layout: food
 category: food
 date: 2021-11-30
-title: Columbia
+title: Colombia
 author: Max Crone
 ---
 
