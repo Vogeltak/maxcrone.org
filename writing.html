@@ -51,7 +51,7 @@ description: A personal publishing platform for blog posts and stories written b
 	For very short thoughts I wanted to publish somewhere.
 	Most recent snippet:
     </p>
-    {% for snip in site.categories["micro"] %}
+    {% for snip in site.categories["micro"] limit:1 %}
     <blockquote>{{ snip.content }}</blockquote>
     {% endfor %}
     <p>Read <a href="/micro">all snippets</a></p>
