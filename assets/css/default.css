@@ -29,7 +29,9 @@ img {
 }
 
 a {
-    color: #1a73e8;
+    background: rgba(76, 175, 80, 0.2);
+    color: black;
+    padding: 0 3px;
 	text-decoration: none;
 }
 
@@ -63,12 +65,13 @@ nav {
         padding: 0;
     }
 
-    nav a {
+    nav .menu a, nav .menu-button {
         color: #6a6a6a;
-        padding: 0 16px 0 16px;
+        margin: 0 12px 0 12px;
     }
 
-    nav .current {
+    nav .menu .current {
+        background: rgba(76, 175, 80, 0.6);
         color: black;
     }
 
@@ -84,6 +87,7 @@ nav {
 
     nav .logo-name a {
         align-items: center;
+        background: none;
         color: black;
         display: flex;
         padding: 0;
