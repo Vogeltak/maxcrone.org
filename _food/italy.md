@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2021-10-09
+date: 2021-12-26
 title: Italy
 author: Max Crone
 ---
@@ -40,3 +40,9 @@ Might be something personal.
 Don't bother with pulling a faux-onion-soupy move by putting slices of bread in your serving bowls, covering it with cheese, and grilling it in an oven for a few minutes.
 Grate good chase over your servings instead, and serve with the bread on the side.
 Might sprinkle with fresh herbs to your liking as garnish.
+
+## Bagna càuda
+
+We made this Piedmontese fondue-like dish from garlic and anchovies for Christmas with my family, as one of the appetizers. Served it with plenty of fresh vegetables. I am ashamed to say that we used heavy cream in our preparation of the dish. To refrain from offending any Italians, just use butter and olive oil as your sources of fat.
+
+Also see [Wikipedia](https://en.wikipedia.org/wiki/Bagna_c%C3%A0uda) and the [Chez Panisse Cafe Cookbook](https://books.google.co.il/books?id=Gk7OAgAAQBAJ&pg=PA16&redir_esc=y#v=onepage&q&f=false).
