@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 19
+done: 20
 permalink: /food
 ---
 
@@ -13,7 +13,7 @@ I wrote some [more detailed thoughts](/thoughts/how-to-categorize-cuisines) on t
 
 Let's start from ten top-level regions.
 
-- [Africa](#africa) <span class="fraction">5/55</span>
+- [Africa](#africa) <span class="fraction">6/55</span>
 - [Central Asia](#central-asia) <span class="fraction">1/5</span>
 - [East Asia](#east-asia) <span class="fraction">2/6</span>
 - [Europe](#europe) <span class="fraction">2/44</span>
@@ -39,10 +39,12 @@ Influences from Phoenicians (sausages), Carthaginians (wheat, semolina), Berbers
 - [Tunisia](/food/tunisia)
 	- Lablabi *chickpeas in garlic-cumin broth*
 
-### Eastern Africa <span class="fraction">1/19</span>
+### Eastern Africa <span class="fraction">2/19</span>
 
 - [Kenya](/food/kenya)
 	- Mandazi *fried bread*
+- [Somalia](/food/somalia)
+    - Sambuusa *fried pastry with lentil filling*
 
 ### Southern Africa <span class="fraction">0/5</span>
 
