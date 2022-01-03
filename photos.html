@@ -14,7 +14,7 @@ description: A collage of featured photos made by Max Crone.
 </header>
 <div class="photo-grid">
     {% for photo in site.categories["photo"] %}
-    <a href="{{ photo.url }}">
+    <a class="image" href="{{ photo.url }}">
         <picture>
             <source srcset="/assets/img/{{ photo.img }}_640.webp 640w" type="image/webp">
             <source srcset="/assets/img/{{ photo.img }}_640.jpg 640w">

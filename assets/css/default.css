@@ -39,6 +39,10 @@ a {
         text-decoration: underline;
     }
 
+    a.image {
+        background: none;
+    }
+
 blockquote {
     border: 1px dashed;
     border-left: 2px solid;
