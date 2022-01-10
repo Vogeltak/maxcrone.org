@@ -94,4 +94,33 @@ permalink: /research
 </section>
 <section>
     <h2>Investigations into adaptive streaming and live streaming performance</h2>
+    <p>
+        This work was again written together with <a href="https://blog.cubieserver.de/" target="_blank">Jack Henschel</a>,
+        and consists of two separate papers.
+    </p>
+    <h3>Adaptive streaming</h3>
+    <p class="document"><a href="/assets/docs/2019-adaptive-streaming-analysis.pdf">PDF</a></p>
+    <p>
+        In this report we investigate the behaviour of Adaptive
+        Bitrate Streaming with the DASH protocol under different
+        network conditions with regard to video quality and fairness
+        between clients. We found that the adaption to static and
+        changing network conditions works quite well to always provide
+        clients with the highest possible video quality while minimizing
+        buffering delays.
+    </p>
+    <h3>Live streaming latency</h3>
+    <p class="document"><a href="/assets/docs/2019-livestreaming-latency-analysis.pdf">PDF</a></p>
+    <p>
+        In this report we set up a live streaming server using
+        a combination of stateless and stateful protocols, based on which
+        we evaluate the performance of these different protocols with
+        regards to latency. As expected, we find that a stateful protocol
+        like RTMP has the lowest latency while suffering from scalability
+        limitations. Stateless protocols, such as HLS and DASH, exhibit
+        a higher latency but are easier to scale, e.g. by using a CDN
+        which we also analyzed. Specific fine-tuning of the streaming
+        parameters for the stateless protocols is found to bring down
+        their end-to-end-latency.
+    </p>
 </section>
