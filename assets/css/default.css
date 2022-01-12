@@ -237,6 +237,7 @@ with white on white for dark mode. Not good.
 }
 
     .menu-page a {
+        background: none;
         color: black;
         font-size: 1.5rem;
         padding: 16px;
