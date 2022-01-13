@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 20
+done: 21
 permalink: /food
 ---
 
@@ -17,7 +17,7 @@ Let's start from ten top-level regions.
 - [Central Asia](#central-asia) <span class="fraction">1/5</span>
 - [East Asia](#east-asia) <span class="fraction">2/6</span>
 - [Europe](#europe) <span class="fraction">2/44</span>
-- [Middle East](#middle-east) <span class="fraction">4/19</span>
+- [Middle East](#middle-east) <span class="fraction">5/19</span>
 - [North America](#north-america) <span class="fraction">2/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
 - [South America](#south-america) <span class="fraction">2/12</span>
@@ -134,6 +134,10 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 	- Khoresh karafs *celery stew*
 	- Kuku sabzi *herb frittata*
 	- Mast-o khiar *strained yogurt with cucumber*
+- [Lebanon](/food/lebanon)
+    - Foul mdamas *fava beans*
+    - Msabaha *mashed chickpeas with tahini-lemon dressing*
+    - Labneh za'atar *strained yogurt with spice mix*
 - [Palestine](/food/palestine)
 	- Ful mudammas *stew of fava beans*
 	- Rummaniyya *lentil-aubergine-pomegranate stew*
