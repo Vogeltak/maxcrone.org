@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-Adate: 2022-01-13
+date: 2022-01-13
 title: Lebanon
 author: Max Crone
 ---
@@ -9,7 +9,7 @@ author: Max Crone
 I hosted some friends for lunch and I made them some Lebanese food; foul, msabaha, labneh, flatbread, a simple salad, and tea. The menu was inspired by a [video from Middle Eats](https://www.youtube.com/watch?v=OYQCJxoOlwU).
 
 On the topic of videos, I saw [a really satisfying one](https://www.youtube.com/watch?v=V7vofXwkY0E) some time ago of a Lebanese man preparing food in his breakfast restaurant for its patrons; a great watch.
-A
+
 Lebanon is actually a relatively small country, and its cuisine carries many similarities to [Palestinian cuisine](/food/palestine). I adore the dishes and produce they use to make their meals; my definition of true comfort food is a good Middle-Eastern meze.
 
 ## Foul mdamas
