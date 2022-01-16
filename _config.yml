@@ -13,3 +13,6 @@ collections:
   books:
     output: true
     permalink: /:collection/:title
+  flash:
+    output: true
+    permalink: /:collection/:year/:month/:day
