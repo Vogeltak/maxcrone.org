@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 22
+done: 23
 permalink: /food
 ---
 
@@ -22,7 +22,7 @@ Let's start from ten top-level regions.
 - [Pacific](#pacific) <span class="fraction">0/14</span>
 - [South America](#south-america) <span class="fraction">2/12</span>
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
-- [Southeast Asia](#southeast-asia) <span class="fraction">0/11</span>
+- [Southeast Asia](#southeast-asia) <span class="fraction">1/11</span>
 
 A very interesting source of consistent investigations into cuisines around the world is the [Food in Every Country](http://www.foodbycountry.com/) website.
 
@@ -179,3 +179,8 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 	- Khichdi *rice and lentils*
 	- Spinach dal
 	- Punjabi lobia *black-eyed bean curry*
+
+## Southeast Asia
+
+- [Indonesia](/food/indonesia)
+	- Tempeh orek
