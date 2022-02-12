@@ -14,3 +14,11 @@ Borges conveys the same imagination and creativity that other writers manage to 
 Borges stories are unique, with regards to pieces of fiction, insofar as their ability to conjure major life ponderings within me. At times it felt akin to the philosophical out-of-the box engagement with my own mind that psychedelics may give me. This makes the choice to use M.C. Escher's *Other World* as cover illustration for my 2000 Penguin edition even more apt.
 
 <img src="https://uploads2.wikiart.org/images/m-c-escher/other-world.jpg!Large.jpg" alt="Other World by M.C. Escher" >
+
+Many of Borges's stories play with perspective. He places us into individuals or beasts without our knowledge, and over the course of the story he slowly unravels the thoughts and feelings until we start realizing that we are in a place we know all too well. Either from mythology, religion, or simply life itself. Borges is masterful at rationing knowledge and information to build maximal tension and interest.
+
+The introduction written by translator Andrew Hurley makes me want to start my own literary magazines.
+
+From Borges afterword:
+
+> A man sets out to draw the world. As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals. A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face.
