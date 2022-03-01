@@ -195,31 +195,6 @@ hr {
 }
 
 /* ==========
-    Quick dark-mode
-========== */
-/* 
-
-DISABLE because it doesn't work properly across Firefox and Chrome.
-Firefox doesn't properly invert background-color so I had to set it
-explicitly, but then Chrome _does_ properly invert it and we end up
-with white on white for dark mode. Not good.
-
-@media (prefers-color-scheme: dark) {
-    html {
-	filter: invert(100%) hue-rotate(180deg);
-    }
-
-    body {
-	background-color: #000;
-    }
-
-    img {
-	filter: invert(100%) hue-rotate(180deg);
-    }
-}
-*/
-
-/* ==========
     Text styling
 ========== */
 .light {
@@ -528,4 +503,80 @@ with white on white for dark mode. Not good.
     font-size: 0.9rem;
     margin-bottom: 0;
     opacity: 0.6;
+}
+
+/* ==========
+    Quick dark-mode
+========== */
+/* 
+
+DISABLE because it doesn't work properly across Firefox and Chrome.
+Firefox doesn't properly invert background-color so I had to set it
+explicitly, but then Chrome _does_ properly invert it and we end up
+with white on white for dark mode. Not good.
+
+@media (prefers-color-scheme: dark) {
+    html {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+
+    body {
+	background-color: #000;
+    }
+
+    img {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+}
+*/
+@media (prefers-color-scheme: dark) {
+    body {
+        background: black;
+        color: white;
+    }
+
+    a {
+        background: rgba(76, 175, 80, 0.7);
+        color: white;
+    }
+
+    nav .logo-name a {
+        color: white;
+    }
+
+    nav .menu a, nav .menu-button {
+        color: #a5a5a5;
+    }
+
+    nav .menu .current {
+        color: white;
+    }
+
+    nav a:active, nav a:hover {
+        color: white;
+    }
+
+    .menu-page a {
+        color: white;
+    }
+
+    footer {
+        color: #909090;
+    }
+
+    blockquote {
+        color: #b0b0b0;
+    }
+
+    .post-header .category {
+        color: #4caf50;
+    }
+
+    .fraction {
+        background-color: dimgray;
+    }
+
+    .exif-data {
+        background: #2e2e2e;
+    }
 }
