@@ -22,3 +22,7 @@ The introduction written by translator Andrew Hurley makes me want to start my o
 From Borges afterword:
 
 > A man sets out to draw the world. As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals. A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face.
+
+From *The Other Death*:
+
+> He talked about Illescas, Tupambae, Masoller, and did so with such perfectly formed periods, and so vividly, that I realized that he'd told these same stories many times before -- it all made me fear that behind his words hardly any memories remained.
