@@ -16,7 +16,7 @@ I've made Italian lasagna's, ragù's, fish-, and vegetable-dishes before, but no
 So I don't want to include them in my notes (mostly because I don't have pleasing photos yet; no, but *really* because I just prefer writing my thoughts one-at-a-time in recent-relevant contexts).
 
 Good sources of course include [Wikipedia](https://en.wikipedia.org/wiki/Ribollita), [NYT Cooking](https://cooking.nytimes.com/recipes/1016052-ribollita), but also *The Essentials of Classic Italian Cooking* by Marcella Hazan (p.113 has a "Tuscan peasant soup with cabbage and beans" called *acquacotta*; it is a bit richer, including eggs, Parmesan cheese, and lemon).
-Also read through this nice article on [Trattoria Mario's ribollita](https://divinacucina.com/2015/01/trattoria-marios-ribollita/) on the cute [Divina Cucina](https://divinacucina.com/).
+Also read through this nice article on [Trattoria Mario's ribollita](https://divinacucina.com/2015/01/trattoria-marios-ribollita/) on the cute [Divina Cucina](https://divinacucina.com/). Now there is also a recipe from [NonnaBox](https://www.nonnabox.com/ribollita/).
 
 By making this from scratch, I slightly nullified the meaning of this dish (it being reheated leftovers), but I made sure to prepare plenty of soup so that my father would be able to eat it on days dotted throughout the week, thereby redeeming the meaning a little.
 
