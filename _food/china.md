@@ -26,11 +26,8 @@ Some other dishes I want to make include the following.
 - [Congee](https://omnivorescookbook.com/how-to-make-congee/) *Chinese comfort rice porridge*
 
 ## Mapo tofu
-<picture>
-    <source srcset="/assets/img/2020-11-25-mapo-tofu_1280.webp" type="image/webp">
-    <img src="/assets/img/2020-11-25-mapo-tofu_1280.jpg">
-</picture>
-<p class="picture-subscript">Mapo tofu in my kitchen in Stockholm, 2020</p>
+
+{% include image.html name="2020-11-25-mapo-tofu" size="1280" caption="Mapo tofu in my kitchen in Stockholm, 2020." %}
 
 Making satisfying photos of food is so much harder when it is already dark outside since three in the afternoon. 
 And when the dish I am making isn't particularly photogenic, I end up with a picture like the one above.

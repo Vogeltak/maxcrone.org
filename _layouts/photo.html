@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<picture>
-    <source srcset="/assets/img/{{ page.img }}_1280.webp 1280w" type="image/webp">
-    <source srcset="/assets/img/{{ page.img }}_1280.jpg 1280w">
-    <img src="/assets/img/{{ page.img }}_1280.jpg" alt="{{ page.title }}">
-</picture>
+
+{% include image.html name=page.img size="1280" %}
+
 <section>
     <p>
         <strong>{{ page.title }}</strong><br/>

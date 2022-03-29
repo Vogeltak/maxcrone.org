@@ -11,11 +11,8 @@ In Mexico people make a dessert called *pavlova*, which is a combination of meri
 See Samin Nosrat's Netflix episode on Acid.
 
 ## Black bean tacos with pico de gallo
-<picture>
-    <source srcset="/assets/img/2020-11-17-taco_1280.webp" type="image/webp">
-    <img src="/assets/img/2020-11-17-taco_1280.jpg">
-</picture>
-<p class="picture-subscript">Taco with pico de gallo, cream, cheese, and cilantro in my kitchen in Stockholm, 2020</p>
+
+{% include image.html name="2020-11-17-taco" size="1280" caption="Taco with pico de gallo, cream, cheese, and cilantro in my kitchen in Stockholm, 2020." %}
 
 Mexican dishes are so popular around the world, that it was difficult to find any authentic recipes.
 As always, luckily, the [Wikipedia article](https://en.wikipedia.org/wiki/Taco) provides a good introduction.

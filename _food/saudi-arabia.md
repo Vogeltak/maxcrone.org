@@ -8,11 +8,9 @@ excerpt: Kabsa
 ---
 
 ## Kabsa
-<picture>
-    <source srcset="/assets/img/2020-11-08-kabsa_1280.webp" type="image/webp">
-    <img src="/assets/img/2020-11-08-kabsa_1280.jpg">
-</picture>
-<p class="picture-subscript">Chicken kabsa in my kitchen in Stockholm, 2020</p>
+
+{% include image.html name="2020-11-08-kabsa" size="1280" caption="Chicken kabsa in my kitchen in Stockholm, 2020." %}
+
 This dish actually carries popularity throughout many Arab states of the Persian Gulf. It combines rice, meat, vegetables, and a blend of spices.
 All of these naturally vary depending on where you go.
 
