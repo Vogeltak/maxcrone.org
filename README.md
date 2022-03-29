@@ -16,7 +16,7 @@ Most of my writing is done in Markdown files that I either edit with Vim, [Typor
 
 ## Future work
 
-- [ ] It would be cool to include a dark mode, based on the `prefers-color-scheme` CSS media feature. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
+- [x] It would be cool to include a dark mode, based on the `prefers-color-scheme` CSS media feature. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 - [x] Separate page for books I have read and reviews I have written
 - [ ] Maybe look into the use of Adobe's open-source font family [Source](https://en.wikipedia.org/wiki/Source_Serif), including *Source Sans Pro* and *Source Serif Pro* (also used at [Gwern.net](https://gwern.net))
 - [ ] Implement extra tags for posts: `date-started`, `date-updated`, `status`
