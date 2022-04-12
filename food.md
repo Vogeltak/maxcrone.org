@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 24
+done: 25
 permalink: /food
 ---
 
@@ -15,7 +15,7 @@ Let's start from ten top-level regions.
 
 - [Africa](#africa) <span class="fraction">6/55</span>
 - [Central Asia](#central-asia) <span class="fraction">1/5</span>
-- [East Asia](#east-asia) <span class="fraction">2/6</span>
+- [East Asia](#east-asia) <span class="fraction">3/6</span>
 - [Europe](#europe) <span class="fraction">2/44</span>
 - [Middle East](#middle-east) <span class="fraction">5/19</span>
 - [North America](#north-america) <span class="fraction">4/23</span>
@@ -84,6 +84,8 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
 - [Japan](/food/japan)
     - Miso soup
     - Furikake *seasoning from kombu and katsuobushi*
+- [South-Korea](/food/south-korea)
+    - Tteokbokki *simmered rice cakes*
 
 
 ## Europe
