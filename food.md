@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 25
+done: 26
 permalink: /food
 ---
 
@@ -157,10 +157,12 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 - [Mexico](/food/mexico)
 	- Black bean tacos with pico de gallo
 
-### Carribean <span class="fraction">2/14</span>
+### Carribean <span class="fraction">3/14</span>
 
 - [Cuba](/food/cuba)
 	- Moros y Cristianos *rice and beans*
+- [Suriname](/food/suriname)
+    - Roti aloopuri with sweet tempeh
 - [Trinidad and Tobago](/food/trinidad-and-tobago)
 	- Sada roti with three vegan curries
 
