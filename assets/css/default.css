@@ -132,11 +132,18 @@ section {
 }
 
 footer {
-    color: #757575;
     font-size: 14px;
     padding: 2rem 1rem;;
     text-align: center;
 }
+
+    footer a {
+        background: none;
+    }
+
+    footer .post-copyright {
+        font-weight: bold;
+    }
 
 hr {
     border: 0;
