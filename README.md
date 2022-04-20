@@ -22,6 +22,8 @@ Most of my writing is done in Markdown files that I either edit with Vim, [Typor
 - [ ] Implement extra tags for posts: `date-started`, `date-updated`, `status`
 - [x] Host binary content (i.e., images, documents) on a separate CDN (Backblaze B2)
 - [ ] Add social meta tags (twitter, schema, opengraph)
+- [ ] Add archive overviews
+- [ ] Find a way to incorporate link dumps (I like the idea of small screenshot thumbnails of websites, e.g., see [this](https://www.endriarichardson.com/essays))
 
 ## License
 
