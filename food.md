@@ -87,6 +87,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
     - Gyoza *pan-fried dumplings*
 - [South-Korea](/food/south-korea)
     - Tteokbokki *simmered rice cakes*
+    - Yachaejeon *vegetable pancakes*
 
 
 ## Europe
