@@ -84,6 +84,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
 - [Japan](/food/japan)
     - Miso soup
     - Furikake *seasoning from kombu and katsuobushi*
+    - Gyoza *pan-fried dumplings*
 - [South-Korea](/food/south-korea)
     - Tteokbokki *simmered rice cakes*
 
