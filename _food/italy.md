@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2021-12-26
+date: 2022-03-13
 title: Italy
 author: Max Crone
 ---
@@ -46,3 +46,32 @@ Might sprinkle with fresh herbs to your liking as garnish.
 We made this Piedmontese fondue-like dish from garlic and anchovies for Christmas with my family, as one of the appetizers. Served it with plenty of fresh vegetables. I am ashamed to say that we used heavy cream in our preparation of the dish. To refrain from offending any Italians, just use butter and olive oil as your sources of fat.
 
 Also see [Wikipedia](https://en.wikipedia.org/wiki/Bagna_c%C3%A0uda) and the [Chez Panisse Cafe Cookbook](https://books.google.co.il/books?id=Gk7OAgAAQBAJ&pg=PA16&redir_esc=y#v=onepage&q&f=false).
+
+## Risotto
+
+{% include image.html name="2022-03-13-risotto" size="1280" caption="Risotto with mushrooms, in my apartment in Amsterdam, 2022." %}
+
+Ah, the classic comfort dish. I used to have a period of time in which Max and I would regularly prepare different risottos, and [watch Gennaro](https://youtu.be/VOBihHeZuXE) be his extravagant Italian self. Amazing.
+
+Perform a quick mise en place:
+
+- Fetch some arborio rice
+- Dice some onion
+- Set a nice broth to simmer next to your risotto pan on the stove
+- Get enough butter (really, you can never have enough butter for risotto)
+- Buy some good white wine (shaoxing does actually also work to a satisfying degree)
+- Parmesan cheese (I either use grana padano or parmigiano reggiano, or both)
+- Prepare some ingredients to pimp your risotto
+
+The pimping of a risotto must be a conscious act. Conscious in the sense that you do not want to over-pimp. Just like with much of the Italian cuisine, less is more. Some good pimps are:
+
+- a mix of mushrooms
+- pumpkin
+- asparagus (green, naturally, the only type Italians consider worthy, according to Marcella Hazan in her small book on ingredients)
+- or, a natural bianco
+
+To start, sweat onions in butter and olive oil. Then throw in your arborio rice naked. Stir a few minutes until the starch layer has fried off. Pour in your cooking wine and let the alcohol evaporate. Now the fun starts. We are going to be continuously stirring our risotto on low heat, ladling in hot broth from time to time (only a couple of spoonfuls). Continue until the rice is just done; nice and soft, no hard starchy kernel when you bite into it. We have added our pimps somewhere along this journey, depending on their specific cooking time.
+
+To finish the risotto, grate in an unhealthy dose of parmesan, and add in another block of butter. Put a lid on the pan, take it off the heat, and let sit for ten minutes.
+
+To serve, ladle on a plate and shake it to all sides, spreading it out. Garnish with some fresh parsley.
