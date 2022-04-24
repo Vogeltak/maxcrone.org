@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2021-04-01
+date: 2022-03-20
 title: Turkey
 author: Max Crone
 ---
@@ -46,10 +46,22 @@ See the [baker's percentage](https://en.wikipedia.org/wiki/Baker_percentage) bre
 
 - Flour
 - Water (50%)
-- Dairy(15%) (although I used oat milk)
+- Dairy (15%) (although I used oat milk)
 - Sugar (3%)
 - Salt (2%)
 - Yeast (2%)
 - Olive oil (1%)
 
 Upon serving, top menemen with crumbled feta.
+
+## Lahmacun
+
+{% include image.html name="2022-03-20-lahmacun" size="1280" caption="Turkish pizza with falafel and vegetables, as decadent brunch, in my apartment in Amsterdam, 2022." %}
+
+Widely known in the Netherlands as "Turkish pizza" instead. Normally, one would prepare this with ground meat, but alternatives based on plant proteins work enviably well too. Lahmacun is relatively simple, so it is perfect for a relaxed Sunday brunch. See [Wikipedia](https://en.m.wikipedia.org/wiki/Lahmacun) for rough directions.
+
+I think it is nice to prepare a lighter, fluffy dough. Thus, leavened. See the pita recipe above. However, we want to roll these ones out rather thinly, so that when we bake them (in the spirit of tandoor, ideally) they become slightly crispy.
+
+For the spread, fry a chopped onion with garlic and our plant protein crumbles (for lack of a better word). Whisk in tomato puree, thinning it out with a few drops of water. Add spices such as (spicy) paprika. Stir and simmer for some ten minutes, until it is nicely done and spreadable.
+
+Get everything together. Spread the spread, and wrap in vegetables of your choice. We used some lettuce, cucumber, tomato. For a more decadent lunch, add some spicy falafel, and drizzle on a yogurt-based cucumber-onion pickle.

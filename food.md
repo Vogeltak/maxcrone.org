@@ -149,6 +149,7 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 	- Chicken kabsa *mixed rice dish with spices*
 - [Turkey](/food/turkey)
 	- Menemen *eggs, tomato, green pepper*
+	- Lahmacun *Turkish pizza*
 
 
 ## North America
