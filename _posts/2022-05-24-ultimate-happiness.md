@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From ultimate frisbee happiness to un-experiencable memories
+title: From frisbee happiness to future memories
 author: Max Crone
 category: thoughts
 ---
@@ -16,6 +16,10 @@ On my journey back to Amsterdam I was still riding a happiness high that put me 
 Now that I am reflecting on these again, I find it interesting to notice which moments actually bubble up from memory. Those are the moments when we were going grocery shopping on Kyra's only bike together, cycling up the hill again, walking around the Arboretum with the setting sun, hearing the subtle peace and natural interwovenness of Wageningen, gathering for board game nights in Kyra's room, swimming in the Rhine on lazy summer days. My memories are mostly from outside experiences; moments actively taking in engaging environments and dynamic signals. I think therein lies a good lesson for how I want to live my life meaningfully.
 
 And though reflecting on those memories might make me feel nostalgic, I have also come to realize that new memories and experiences will happen. Nevermind how uncertain the future might be, I am learning to trust that I will find myself in many more meaningful moments.
+
+It is not only chance that brings us into those moments, naturally. This weekend also made me realize that there are so many possible futures that I could pursue. If I just talked with this person a bit longer, or if I approached this other person instead of lingering around somewhere. So many life experiences originate from small interactions with humans. And there is no need to feel pressure, it often just flows organically. But it does pay off to actively think and act on the interactions you enjoy. And then, these interactions can lead to amazing journeys, travels, hobbies, passions, friendships, and love. This is visualized nicely by Tim Urban's illustration:
+
+![Life paths](/assets/img/tim-urban-life-paths.jpg)
 
 Also see Derek Sivers's book on [how to live](https://sive.rs/h). I've read and listened to small fragments, and its words are very inspiring. A small taste:
 
