@@ -103,6 +103,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
     - Bagna càuda *Piedmont garlic & anchovies fondue*
     - Risotto with mushrooms
     - Fresh pasta
+    - Focaccia
 
 ### Western Europe <span class="fraction">1/9</span>
 

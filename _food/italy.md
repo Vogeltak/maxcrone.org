@@ -95,3 +95,17 @@ Now comes the time to stretch the pasta dough. The rolling pin is narrower and l
 We cut tagliatelle by hand. First repeatedly fold the thin pasta dough onto itself until you have a flat roll of about seven-and-a-half centimeters in width, dusting the layers inbetween with flour. Cut the roll into ribbons of about six millimeters wide. Roll them into nests and dust with more flour if necessary.
 
 Cook al dente in a few minutes in heavily salted water.
+
+## Focaccia
+
+{% include image.html name="2022-04-25-focaccia" size="1280" caption="Focaccia with rosemary and olives, fresh out of the oven at my mother's kitchen in Tilburg, 2022." %}
+
+I wholeheartedly recommend to watch Samin Nosrat's mini-documentary *Salt Fat Acid Heat* on Netflix. She makes focaccia in the first episode; *Fat*.
+
+This luxuriously tasting bread is actually quite easy. For a 7g packet of dry yeast, use 500g flour and 67% water. First dissolve the yeast in 100ml lukewarm water for ten minutes. Combine all ingredients and add two tablespoons of olive oil and 3-5% salt. Mix until the dough is manageable and soft, but not too sticky.
+
+Slap and stretch the dough, fold back and press with the palm of your hand. Work it for ten minutes, before you pat it into a round shape. Leave it to rest for fifteen minutes. Then spread out the dough in an oiled baking sheet and push it to the edges with your fingers. Drizzle over more olive oil and spread it out.
+
+Now press your fingers into the dough to form the focaccia's characteristic holes. Pour over a *brine* of olive oil, water and salt. Spread out rosemary sprigs. Leave it to rest for another thirty minutes. This helps the holes to stay in the focaccia after baking.
+
+Bake at 230 degrees celsius until it is done. Serve with more olive oil.
