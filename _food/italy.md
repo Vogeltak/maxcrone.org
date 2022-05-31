@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2022-03-13
+date: 2022-04-25
 title: Italy
 author: Max Crone
 ---
@@ -75,3 +75,23 @@ To start, sweat onions in butter and olive oil. Then throw in your arborio rice 
 To finish the risotto, grate in an unhealthy dose of parmesan, and add in another block of butter. Put a lid on the pan, take it off the heat, and let sit for ten minutes.
 
 To serve, ladle on a plate and shake it to all sides, spreading it out. Garnish with some fresh parsley.
+
+## Fresh pasta
+
+{% include image.html name="2022-04-10-pasta" size="1280" caption="Fresh pasta with a simple tomato-basil sauce, in my apartment in Amsterdam, 2022." %}
+
+There are basically two methods of making fresh pasta: by hand, or by machine. I've done both before, but as I do not actually own a pasta machine myself, my most recent pastas were stretched by hand using a rolling pin.
+
+I mostly base the recipe and procedure on Marcella Hazan's *The Essentials of Classic Italian Cooking*. But because the stretching procedure is quite complicated, I looked up an Italian nonna that demonstrates it on [YouTube](https://www.youtube.com/watch?v=uuY3yZkaLWI).
+
+Either go for egged pasta dough (115g flour to 2 eggs, for roughly 3 portions), or vegan pasta dough (1:1 flour water + some oil). You can use either wheat flour or durum wheat. Apparently those are used predominantly in Northern Italy and Southern Italy respectively. I finally learned that semolina is actually "griesmeel" in Dutch. For some reason I had never connected griesmeel to pasta.
+
+Mix and knead. Kneading is done by pushing the dough away with the palm of your hand and then folding the mass back over itself, turning it, and repeating the whole operation. Continue until the dough is as smooth as baby skin.
+
+Now comes the time to stretch the pasta dough. The rolling pin is narrower and longer than pastry pins. Make sure that your dough is properly rested (i.e., its gluten are relaxed) such that stretching it becomes easier; fifteen minutes to two hours. Here I refer to the video I linked above. When I made this together with Noemi, she was spinning the dough around and stretching it over the edge of the table; kind of like you would with a pizza dough, that is, if you're either a pro or self-confident enough.
+
+{% include image.html name="2022-04-25-pasta" size="1280" caption="Noemi spinning pasta dough like it is a pizza. At least it got its proper stretching. My mother's kitchen in Tilburg, 2022." %}
+
+We cut tagliatelle by hand. First repeatedly fold the thin pasta dough onto itself until you have a flat roll of about seven-and-a-half centimeters in width, dusting the layers inbetween with flour. Cut the roll into ribbons of about six millimeters wide. Roll them into nests and dust with more flour if necessary.
+
+Cook al dente in a few minutes in heavily salted water.
