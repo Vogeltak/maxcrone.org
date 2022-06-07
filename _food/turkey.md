@@ -18,7 +18,7 @@ Specific dishes I still want to make some time.
 
 Desserts!
 
-- [Baklava](https://en.wikipedia.org/wiki/Baklava)
+- [Baklava](https://en.wikipedia.org/wiki/Baklava) (done)
 - [Muhallebi](https://en.wikipedia.org/wiki/Muhallebi)
 
 ## Menemen
@@ -65,3 +65,19 @@ I think it is nice to prepare a lighter, fluffy dough. Thus, leavened. See the p
 For the spread, fry a chopped onion with garlic and our plant protein crumbles (for lack of a better word). Whisk in tomato puree, thinning it out with a few drops of water. Add spices such as (spicy) paprika. Stir and simmer for some ten minutes, until it is nicely done and spreadable.
 
 Get everything together. Spread the spread, and wrap in vegetables of your choice. We used some lettuce, cucumber, tomato. For a more decadent lunch, add some spicy falafel, and drizzle on a yogurt-based cucumber-onion pickle.
+
+## Baklava
+
+{% include image.html name="2022-06-04-baklava" size="1280" caption="A sheet of baklava in my mother's kitchen in Tilburg, 2022." %}
+
+This immensely popular dessert can actually be made really easily. There isn't much of a recipe to speak of. I just referenced the *preparation* lemma on [Wikipedia](https://en.wikipedia.org/wiki/Baklava#Preparation).
+
+Baklava basically consists of three parts:
+
+- Chopped nuts (in this case, pistachio)
+- Filo pastry (thin, unleavened dough; individual layers brushed with fat)
+- Syrup or honey (simple syrup is equal parts sugar and water, heated up and stirred until the sugar dissolves)
+
+Of course, the filo pastry is quite challenging to prepare if you fancy doing this from scratch. Luckily, there are pretty good ones for sale.
+
+Grind up the pistachio. Place some layers of filo in an oven sheet pan or tray. Spread pistachio. Place more filo on top. Brush over some fat and cut the whole slab into geometric forms that tickle your fancy. Bake for twenty to thirty minutes, depending on your desired level of crispiness. Once out of the oven, pour over your syrup or honey.
