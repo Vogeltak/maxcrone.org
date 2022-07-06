@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 26
+done: 27
 permalink: /food
 ---
 
@@ -16,7 +16,7 @@ Let's start from ten top-level regions.
 - [Africa](#africa) <span class="fraction">6/55</span>
 - [Central Asia](#central-asia) <span class="fraction">1/5</span>
 - [East Asia](#east-asia) <span class="fraction">3/6</span>
-- [Europe](#europe) <span class="fraction">2/44</span>
+- [Europe](#europe) <span class="fraction">3/44</span>
 - [Middle East](#middle-east) <span class="fraction">5/19</span>
 - [North America](#north-america) <span class="fraction">4/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
@@ -96,12 +96,16 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
 
 ### Eastern Europe <span class="fraction">0/10</span>
 
-### Southern Europe <span class="fraction">1/15</span>
+### Southern Europe <span class="fraction">2/15</span>
 
 - [Italy](/food/italy)
     - Ribollita *Tuscan bread soup*
     - Bagna càuda *Piedmont garlic & anchovies fondue*
     - Risotto with mushrooms
+    - Fresh pasta
+    - Focaccia
+- [Spain](/food/spain)
+    - Gazpacho *cold tomato soup*
 
 ### Western Europe <span class="fraction">1/9</span>
 
@@ -151,6 +155,7 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 - [Turkey](/food/turkey)
 	- Menemen *eggs, tomato, green pepper*
 	- Lahmacun *Turkish pizza*
+    - Baklava
 
 
 ## North America
