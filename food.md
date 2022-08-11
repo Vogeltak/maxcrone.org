@@ -69,6 +69,8 @@ Influenced by Swahilis and Portuguese (see [Wikipedia](https://en.wikipedia.org/
 
 - [Kazakhstan](/food/kazakhstan)
 	- Beshbarmak *chopped boiled meat with noodles and onion sauce*
+- Tajikistan
+    - [Qurutob](https://en.wikipedia.org/wiki/Qurutob) (TODO)
 
 
 ## East Asia
