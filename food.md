@@ -201,3 +201,5 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 
 - [Indonesia](/food/indonesia)
 	- Tempeh orek
+- Philippines
+    - [Tortang talong](https://www.youtube.com/watch?v=O1LAm3GsMxc) (TODO)
