@@ -106,6 +106,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/List_of_Asian_cuisines#East_Asian_
     - Risotto with mushrooms
     - Fresh pasta
     - Focaccia
+    - Pesto
 - [Spain](/food/spain)
     - Gazpacho *cold tomato soup*
 

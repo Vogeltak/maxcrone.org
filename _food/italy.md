@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2022-04-25
+date: 2022-07-21
 title: Italy
 author: Max Crone
 ---
@@ -109,3 +109,16 @@ Slap and stretch the dough, fold back and press with the palm of your hand. Work
 Now press your fingers into the dough to form the focaccia's characteristic holes. Pour over a *brine* of olive oil, water and salt. Spread out rosemary sprigs. Leave it to rest for another thirty minutes. This helps the holes to stay in the focaccia after baking.
 
 Bake at 230 degrees celsius until it is done. Serve with more olive oil.
+
+## Pesto
+
+{% include image.html name="2022-07-21-pesto" size="1280" caption="Fresh green pesto, in my apartment in Amsterdam, 2022." %}
+
+Straight back from Sardinia and I brought enough fresh produce to make pesto.
+Start with garlic and pine nuts (mortar-and-pestling garlic is extremely satisfying by the way).
+Slowly introduce basil leaves and some coarse salt.
+Add your Italian hard cheese (traditionally a mix of Reggiano and Pecorino, but I only had a Grana Padano on hand).
+Drizzle in some olive oil to help everything incorporate.
+When transfering to a jar, cover with more olive oil.
+
+I cooked up some pasta that we brought from Italy and whipped everything up into a simple but deliciously creamy totality.
