@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 27
+done: 28
 permalink: /food
 ---
 
@@ -18,7 +18,7 @@ Let's start from ten top-level regions.
 - [East Asia](#east-asia) <span class="fraction">3/6</span>
 - [Europe](#europe) <span class="fraction">3/44</span>
 - [Middle East](#middle-east) <span class="fraction">5/19</span>
-- [North America](#north-america) <span class="fraction">4/23</span>
+- [North America](#north-america) <span class="fraction">5/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
 - [South America](#south-america) <span class="fraction">2/12</span>
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
@@ -161,6 +161,9 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 
 
 ## North America
+
+- [United States](/food/united-states)
+    - Pancakes
 
 ### Central America <span class="fraction">2/7</span>
 - [Costa Rica](/food/costa-rica)
