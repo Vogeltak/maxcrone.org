@@ -60,7 +60,7 @@ There is just too much beautiful brilliance in here.
 
 ## Part III: Inevitable ecstasy
 
-> The reason we die is to give us the opportunity to unerstand what life is all about,
+> The reason we die is to give us the opportunity to understand what life is all about,
 > and we can only experience that when we let go, because it is only then that we come to a situation that the ego can't deal with.
 
 > In meditative consciousness, you will see that nothing is more important than anything else.
@@ -109,7 +109,7 @@ There is just too much beautiful brilliance in here.
 > And the self — atman, Brahman — exists for fun.
 
 > You have to work to survive, because you think you have to survive.
-> But you don't have to. And this whole thing doesn't have to gon on, which is why  it does.
+> But you don't have to. And this whole thing doesn't have to go on, which is why it does.
 > I know that seems paradoxical, but think about it — life is full of examples of this.
 > If I try to impress someone, I usually don't.
 > If you try to too hard with anything, you usually make a mess of it.
@@ -122,9 +122,9 @@ There is just too much beautiful brilliance in here.
 > We forget that trough implies crest, and crest implies trough.
 > There is no such thing as pure sound — sound is sound/silence.
 > Light is light/darkness.
-> Light is pulsation — between everyr light pulse there is the dark pulse.
+> Light is pulsation — between every light pulse there is the dark pulse.
 
-> There are Egyptiani inscriptions from 6000 BCE or so that describe the world as going hopelessly to the dogs.
+> There are Egyptian inscriptions from 6000 BCE or so that describe the world as going hopelessly to the dogs.
 > It seems this has always been the complaint.
 
 > [...] things get worse and worse as time goes on until the end of the kali yuga when Shiva puts on a black appearance
@@ -161,12 +161,12 @@ There is just too much beautiful brilliance in here.
 > It's described poetically — you feel yugen when you see, out in the distance, some ships hidden behind a far-off island.
 > You feel yugen when you watch wild geese fly, then suddenly disappear in the clouds.
 > You feel yugen when you look across at a mountain you've never been to before, and you see the sky on the other side.
-> You don't gove over there to look and see what's on the other side — that wouldn't be yugen.
+> You don't go over there to look and see what's on the other side — that wouldn't be yugen.
 > You let the other side be the other side, and it invokes something in your imagination, but you don't attempt to define it or pin it down.
 
 > Things vanish into the mystery. And if you try to pursue them, you destroy yugen.
 
-> They are liberated by the very fact on not being able to stop changing.
+> They are liberated by the very fact of not being able to stop changing.
 
 > Death isn't terrible — it's just going to be the end of you as a system of memories.
 > So you've got a great chance right before it happens to let go of everything,
