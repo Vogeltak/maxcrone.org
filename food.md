@@ -146,6 +146,7 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 	- Khoresh karafs *celery stew*
 	- Kuku sabzi *herb frittata*
 	- Mast-o khiar *strained yogurt with cucumber*
+    - Kashk-e bademjan *aubergine and dairy dip*
 - [Lebanon](/food/lebanon)
     - Foul mdamas *fava beans*
     - Msabaha *mashed chickpeas with tahini-lemon dressing*

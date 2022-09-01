@@ -1,7 +1,7 @@
 ---
 layout: food
 category: food
-date: 2021-08-22
+date: 2022-09-01
 title: Iran
 author: Max Crone
 ---
@@ -142,3 +142,29 @@ I drew mostly from Samin Nosrat's [recipe for the New York Times](https://cookin
 Add diced cucumber (less watery than grated), raisins (plumped up by soaking in water beforehand), yogurt, fresh herbs (parsley, cilantro, dill), garlic, salt, and black pepper to a nice bowl.
 Stir in some walnuts, roughly chopped, right before serving.
 Works amazingly with many dishes, or just with some good flatbread on its own already.
+
+## Kashk-e bademjan
+
+{% include image.html name="2022-09-01-kashk-bademjan" size="1280" caption="Khask-e bademjan topped with walnuts and caramelized onions, served with lavash, in my apartment in Amsterdam, 2022." %}
+
+I remember hearing about kashk-e bademjan from some Iranian/American podcasts, in addition to Feri and Navid telling me about this dish.
+Naturally, because it is a good recommendation for people who prefer to eat no meat.
+
+This dish basically consists of aubergine and *kashk*.
+Kashk is a by-product of making cheese, not the whey but rather [the curds after cooking](https://www.youtube.com/watch?v=Ns3mb2fXzbQ).
+(There is also [this amazing little video](https://www.youtube.com/watch?v=ZroOJLlCWHA) on making dried kashk balls.)
+It is actually not that difficult to make this myself, so I want to do that soon-ish too.
+
+I referenced [Wikipedia](https://en.wikipedia.org/wiki/Kashk_bademjan), a recipe by [Persian Mama](https://web.archive.org/web/20160324183212/http://persianmama.com/eggplant-and-walnut-dip-kashke-bedemjan/), and an [Iranian woman on YouTube](https://www.youtube.com/watch?v=b9atZeRCESE).
+
+Prepare the aubergines by salting them and letting them sit for a while (fifteen to thirty minutes).
+Pat them dry and then sauté them in a sizable gluck of sufficiently hot fat.
+In a separate pan, slowly sauté and caramelize grated onion.
+Once the aubergines are fried and soft, start mashing them.
+Add in the most of the onion, stir in crushed walnuts, turmeric powder, dried mint, and black pepper.
+Pour in the kashk (if the kashk was dried, first have it rehydrated and brought up to a boil).
+Loosen it up with some more water if necessary.
+Let this whole mixture simmer for a few minutes.
+
+Serve on a nice platter, with the remaining onions on top, garnished with roughly crushed walnuts.
+Eat with some good bread; I had a fresh lavash from a Turkish supermarket.
