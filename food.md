@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 28
+done: 29
 permalink: /food
 ---
 
@@ -20,7 +20,7 @@ Let's start from ten top-level regions.
 - [Middle East](#middle-east) <span class="fraction">5/19</span>
 - [North America](#north-america) <span class="fraction">5/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
-- [South America](#south-america) <span class="fraction">2/12</span>
+- [South America](#south-america) <span class="fraction">3/12</span>
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
 - [Southeast Asia](#southeast-asia) <span class="fraction">1/11</span>
 
@@ -185,6 +185,8 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 
 ## South America
 
+- [Argentina](/food/argentina)
+    - Asado *barbecue; various dishes*
 - [Brazil](/food/brazil)
     - Feijoada *bean and pork stew with rice*
 - [Colombia](/food/colombia)
