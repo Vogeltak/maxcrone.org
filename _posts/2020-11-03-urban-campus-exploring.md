@@ -2,7 +2,7 @@
 layout: post
 title: Urban exploration on campus
 author: Max Crone
-category: thoughts
+category: essay
 img: 2020-10-30-kth
 excerpt: I felt empty after a day of studying and procrastinating, so I left everything at home and went out to climb on stuff around campus.
 ---

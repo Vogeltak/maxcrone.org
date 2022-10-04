@@ -2,7 +2,7 @@
 layout: post
 title: From frisbee happiness to future memories
 author: Max Crone
-category: thoughts
+category: essay
 ---
 
 After returning from a friendly ultimate frisbee tournament this weekend, I realized how happy it made me feel.

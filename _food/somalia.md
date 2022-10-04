@@ -6,7 +6,7 @@ title: Somalia
 author: Max Crone
 ---
 
-Somali cuisine is very similar to others in the Horn of Africa (e.g., Ethiopia, Eritrea). Consequently, many dishes tend to appear in most of these cuisines. My [categorization per country](/thoughts/how-to-categorize-cuisines) is thus purely to satisfy the rules of my own game and might not represent our world most accurately.
+Somali cuisine is very similar to others in the Horn of Africa (e.g., Ethiopia, Eritrea). Consequently, many dishes tend to appear in most of these cuisines. My [categorization per country](/essay/how-to-categorize-cuisines) is thus purely to satisfy the rules of my own game and might not represent our world most accurately.
 
 ## Sambuusa
 

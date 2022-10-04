@@ -9,7 +9,7 @@ permalink: /food
 I organize my notes on different cuisines by splitting them into rough geographical areas with the intention of grouping together similar cuisines.
 A country's cuisine has rarely developed on its own.
 Cuisines are as dynamic, flexible, and arbitrary as the concept of nation states and their borders.
-I wrote some [more detailed thoughts](/thoughts/how-to-categorize-cuisines) on this in the past.
+I wrote some [more detailed thoughts](/essay/how-to-categorize-cuisines) on this in the past.
 
 Let's start from ten top-level regions.
 

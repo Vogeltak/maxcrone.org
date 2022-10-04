@@ -35,17 +35,6 @@ description: A personal publishing platform for blog posts and stories written b
     {% endfor %}
 </section>
 <section>
-    <h2>Thoughts</h2>
-</section>
-<section class="post-grid">
-    {% for post in site.categories["thoughts"] %}
-    <div class="post-item">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    </div>
-    {% endfor %}
-</section>
-<section>
     <h2>Flash fiction</h2>
 </section>
 <section class="post-grid">

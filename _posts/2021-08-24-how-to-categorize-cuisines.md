@@ -2,7 +2,7 @@
 layout: post
 title: The difficulty of categorizing cuisines by country
 author: Max Crone
-category: thoughts
+category: essay
 ---
 
 After starting my personal challenge of cooking meals from every country in the world, I started realizing that splitting up cuisines by country sometimes misses out on some larger and more meaningful patterns.

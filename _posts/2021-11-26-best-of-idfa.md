@@ -2,7 +2,7 @@
 layout: post
 title: The four films I saw at IDFA today
 author: Max Crone
-category: thoughts
+category: essay
 ---
 
 The International Documentary Film Festival Amsterdam is coming to an end and I bought a ticket to see four of the awarded films in a single afternoon. When I biked to the city center cinema it was still sunny  outside, but later in the day it became rainy and dreary. I walked across the flower market with some food in between two films, and my fingers noticed that the winds through town had also become icily cold.
