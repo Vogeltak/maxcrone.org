@@ -23,3 +23,4 @@ TODO: map
 ## References
 
 - [Python Graph Gallery on choropleths](https://www.python-graph-gallery.com/choropleth-map-plotly-python)
+- [simplemaps resources](https://simplemaps.com/resources/svg-europe)
