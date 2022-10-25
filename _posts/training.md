@@ -58,7 +58,7 @@ Third group is also pretty tough, targeting upper-body again.
 - Row progression
 
 This whole routine worked pretty well for me.
-I started out by doing these in my father's house, where I could do pull ups at the stairs (by putting a hockey stick through them) and dips using chairs and hockeysticks.
+I started out by doing these in my father's house, where I could do pull ups at the stairs (by putting a field hockey stick through them) and dips using chairs and hockey sticks.
 Every time I return to Tilburg, that is where I'll do my workout again.
 
 While living in Finland, I did my workouts in UniSport Kluuvi during winter.
