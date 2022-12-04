@@ -168,6 +168,7 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 
 - [United States](/food/united-states)
     - Pancakes
+    - Gumbo
 
 ### Central America <span class="fraction">2/7</span>
 - [Costa Rica](/food/costa-rica)
