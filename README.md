@@ -24,6 +24,7 @@ Most of my writing is done in Markdown files that I either edit with Vim, [Typor
 - [ ] Add social meta tags (twitter, schema, opengraph)
 - [ ] Add archive overviews
 - [ ] Find a way to incorporate link dumps (I like the idea of small screenshot thumbnails of websites, e.g., see [this](https://www.endriarichardson.com/essays))
+- [ ] Refactor Photos to use three-column gallery (see [LogRocket blog](https://blog.logrocket.com/responsive-image-gallery-css-flexbox/) and [Sydney Hough's website](https://shough.me/photos/))
 
 ## License
 
