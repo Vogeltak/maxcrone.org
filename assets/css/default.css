@@ -44,11 +44,12 @@ a {
     }
 
 blockquote {
-    border: 1px dashed;
-    border-left: 2px solid;
-    color: #515151;
+    background-color: #FBFFF5;
+    border: none;
+    border-left: 5px solid #4caf50;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
     margin: 1rem 0;
-    padding: 0 1em;
+    padding: 0.1em 1em;
 }
 
 nav {
@@ -571,7 +572,7 @@ with white on white for dark mode. Not good.
     }
 
     blockquote {
-        color: #b0b0b0;
+        background-color: #323331;
     }
 
     .post-header .category {
