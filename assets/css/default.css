@@ -439,18 +439,18 @@ hr {
 }
 
 .photo-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    padding: 16px;
+    display: flex;
 }
 
-    .photo-grid a {
-        padding: 5px;
-    }
+.photo-grid-column {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
 
 @media only screen and (min-width: 1232px) {
     .photo-grid {
-        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        /*grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));*/
     }
 }
 
