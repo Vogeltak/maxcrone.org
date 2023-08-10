@@ -36,10 +36,11 @@ a {
 }
 
     a:hover {
+        background: #bbddbc;
         text-decoration: underline;
     }
 
-    a.image {
+    a.image, a.image:hover {
         background: none;
     }
 
@@ -307,6 +308,7 @@ hr {
 .post-header {
     margin-bottom: 32px;
     margin-top: 32px;
+    max-width: 100%;
     padding: 0 1rem;
     text-align: center;
 }
@@ -545,6 +547,10 @@ with white on white for dark mode. Not good.
     a {
         background: rgba(76, 175, 80, 0.7);
         color: white;
+    }
+
+    a:hover {
+        background: #68ac6b;
     }
 
     nav .logo-name a {
