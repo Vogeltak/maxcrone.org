@@ -26,6 +26,7 @@ img {
     max-width: 100%;
     /*border-radius: 4px;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);*/
+    border: 1px solid #333;
 }
 
 a {
@@ -551,6 +552,10 @@ with white on white for dark mode. Not good.
 
     a:hover {
         background: #68ac6b;
+    }
+
+    img {
+        border: 1px solid #ddd;
     }
 
     nav .logo-name a {
