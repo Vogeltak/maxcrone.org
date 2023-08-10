@@ -3,6 +3,7 @@ plugins:
 
 title: Max Crone
 description: Max Crone is a computer engineer exploring life in The Netherlands.
+url: https://maxcrone.org
 
 permalink: /:categories/:title
 
