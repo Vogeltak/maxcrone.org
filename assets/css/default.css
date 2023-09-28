@@ -355,11 +355,11 @@ hr {
 }
 
 .recent-dishes {
-    /*
+    background: var(--light-grad-pink-blue, radial-gradient(ellipse at 40% 0%, #bf398910 0, transparent 75%), radial-gradient(ellipse at 60% 0%, #096bde10 0, transparent 75%));
     border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 4px;
     box-shadow: 0 4px 4px rgba(0,0,0,0.2);
     margin: 0 6px;
-    */
 }
 
     .recent-dishes .title {
