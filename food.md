@@ -2,7 +2,7 @@
 layout: food-overview
 title: Earth's cuisines
 author: Max Crone
-done: 35
+done: 36
 permalink: /food
 ---
 
@@ -18,7 +18,7 @@ Let's start from ten top-level regions.
 - [East Asia](#east-asia) <span class="fraction">3/6</span>
 - [Europe](#europe) <span class="fraction">8/44</span>
 - [Middle East](#middle-east) <span class="fraction">6/19</span>
-- [North America](#north-america) <span class="fraction">5/23</span>
+- [North America](#north-america) <span class="fraction">7/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
 - [South America](#south-america) <span class="fraction">3/12</span>
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
@@ -182,9 +182,11 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
     - Pancakes
     - Gumbo
 
-### Central America <span class="fraction">2/7</span>
+### Central America <span class="fraction">3/7</span>
 - [Costa Rica](/food/costa-rica)
     - Gallo pinto *rice and beans*
+- [El Salvador](/food/el-salvador)
+    - Casamiento *rice and beans*
 - [Mexico](/food/mexico)
 	- Black bean tacos with pico de gallo
 
