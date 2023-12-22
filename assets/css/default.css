@@ -24,7 +24,7 @@ p, ol, ul {
 
 img {
     max-width: 100%;
-    border-radius: 4px;
+    border-radius: 12px;
 }
 
 a {
@@ -155,9 +155,9 @@ hr {
 }
 
     hr:after {
-	color: black;
-	content: "\2042";
-	font-size: 1em;
+        color: black;
+        content: "\2042";
+        font-size: 1em;
     }
 
 .picture-subscript {
@@ -212,7 +212,7 @@ hr {
     Menu page
 ========== */
 .menu-page {
-    align-items: center;
+    align-items: flex-end;
     display: flex;
     flex-direction: column;
     margin-top: 32px;
@@ -221,8 +221,8 @@ hr {
     .menu-page a {
         background: none;
         color: black;
-        font-size: 1.5rem;
-        padding: 16px;
+        font-size: 1.25rem;
+        margin: 8px 0;
         text-decoration: underline;
     }
 
@@ -552,10 +552,6 @@ with white on white for dark mode. Not good.
         background: #68ac6b;
     }
 
-    img {
-        border: 1px solid #ddd;
-    }
-
     nav .logo-name a {
         color: white;
     }
@@ -578,6 +574,10 @@ with white on white for dark mode. Not good.
 
     footer {
         color: #909090;
+    }
+
+    hr:after {
+        color: white;
     }
 
     blockquote {
