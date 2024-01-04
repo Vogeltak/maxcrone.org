@@ -174,6 +174,10 @@ hr {
     font-weight: bold;
 }
 
+.footnotes {
+    font-size: 14px;
+}
+
 .document {
     background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjE5cHgiIGhlaWdodD0iMTlweCIgdmlld0JveD0iMCAwIDE5IDE5IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOSAxOTsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzMzMzMzMzt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMzMzMzMzM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05LDN2NHYxaDFoNHY4SDVWM0g5IE0xMCwySDR2MTVoMTFWN2gtNVYyTDEwLDJ6Ii8+DQo8bGluZSBjbGFzcz0ic3QxIiB4MT0iMTAiIHkxPSIzIiB4Mj0iMTQiIHkyPSI3Ii8+DQo8L3N2Zz4NCg==");
     background-repeat: no-repeat;
