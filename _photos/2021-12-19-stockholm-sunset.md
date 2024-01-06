@@ -2,7 +2,7 @@
 layout: photo
 title: Stockholm sunset
 author: Max Crone
-category: photo
+category: street
 desc: Sunset over the amusement park in central Stockholm, with the ferry paraboling in.
 img: 2021-12-19-stockholm-sunset
 aperture: 11

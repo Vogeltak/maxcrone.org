@@ -2,7 +2,7 @@
 layout: photo
 title: IJ bikes
 author: Max Crone
-category: photo
+category: street
 desc: At the IJ-hallen, the biggest (tri-weekly) flea market in Europe (I think); saw these three bikes parked alongside the IJ.
 img: 2022-04-30-ij-fietsen
 aperture: 4

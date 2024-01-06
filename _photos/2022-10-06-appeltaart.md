@@ -2,7 +2,7 @@
 layout: photo
 title: Apple pie
 author: Max Crone
-category: photo
+category: food
 desc: Noemi's amazing and fancy apple pie, in our apartment in Amsterdam South.
 img: 2022-10-06-appeltaart
 aperture: 5.7

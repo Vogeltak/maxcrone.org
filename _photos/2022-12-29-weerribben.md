@@ -2,7 +2,7 @@
 layout: photo
 title: Weerribben
 author: Max Crone
-category: photo
+category: nature
 desc: Sailing a small boat through the bogs of the Weerribben national park.
 img: 2022-12-29-weerribben
 aperture: 5.7

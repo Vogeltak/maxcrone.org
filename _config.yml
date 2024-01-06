@@ -17,3 +17,16 @@ collections:
   flash:
     output: true
     permalink: /:collection/:year/:month/:day
+  albums:
+    output: true
+    permalink: /a/:title
+    order:
+      - portraits.md
+      - street.md
+      - events.md
+      - nature.md
+      - food.md
+  photos:
+    output: true
+    permalink: /photo/:title
+    sort_by: date

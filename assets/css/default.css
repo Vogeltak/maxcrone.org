@@ -443,6 +443,89 @@ hr {
         }
 }
 
+.album-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: auto;
+    max-width: 640px;
+    padding: 0 8px;
+}
+
+.album-item {
+    display: flex;
+}
+
+.album-stack {
+    flex: 1;
+    max-width: 480px;
+    position: relative;
+}
+
+    .album-stack:hover {
+        opacity: 0.9;
+    }
+
+    .album-stack img {
+        border-top: 1px solid white;
+        width: 100%;
+        /*
+         * Caps album cover aspect ratio to 1:1.
+         * 301px is the maximum width the album cover image will ever attain,
+         * because we place it in a container with max-size 640px.
+         * This means that vertical images will become relatively more vertical
+         * on smaller devices, which is fine, I guess. That is the preferred
+         * orientation on those anyway.
+         */
+        max-height: 301px;
+        object-fit: cover;
+    }
+
+    .album-stack-item-1 {
+        position: absolute;
+        top: -4px;
+        width: calc(100% - 24px);
+        height: calc(100% - 4px);
+        left: 12px;
+        right: 12px;
+        border-radius: 12px;
+        border-top: 1px solid white;
+        z-index: -1;
+    }
+
+    .album-stack-item-2 {
+        position: absolute;
+        top: -8px;
+        width: calc(100% - 48px);
+        height: calc(100% - 8px);
+        left: 24px;
+        right: 24px;
+        border-radius: 12px;
+        opacity: 0.5;
+        z-index: -1;
+    }
+
+.album-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    padding: 0 16px;
+}
+
+    .album-text h3 {
+        margin: 0;
+    }
+
+    .album-text a {
+        font-size: 14px;
+    }
+@media only screen and (max-width: 760px) {
+    .album-description {
+        display: none;
+    }
+}
+
 .photo-grid {
     display: flex;
 }
@@ -543,8 +626,8 @@ with white on white for dark mode. Not good.
 */
 @media (prefers-color-scheme: dark) {
     body {
-        background: black;
-        color: white;
+        background: #111;
+        color: #f0f0f0;
     }
 
     a {
@@ -598,5 +681,13 @@ with white on white for dark mode. Not good.
 
     .exif-data {
         background: #2e2e2e;
+    }
+
+    .album-stack img {
+        border-color: black;
+    }
+
+    .album-stack-item-1 {
+        border-color: black;
     }
 }

@@ -2,7 +2,7 @@
 layout: photo
 title: Stockholm Markvardsgatan
 author: Max Crone
-category: photo
+category: street
 desc: Stockholms Markvardsgatan as seen from the old observatory.
 img: 2020-10-04-stockholm
 aperture: 4

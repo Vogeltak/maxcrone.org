@@ -7,32 +7,26 @@ description: A collage of featured photos made by Max Crone.
 <header>
 	<h1>Photos</h1>
 	<p class="intro">
-			A small sample from my photography work.
-			It at least goes from my earliest work in two-thousand-fourteen to relatively recent photos.
-			But this is by no means a worthy portfolio.
-	    For a different perspective on my photographic collection, see my <a href="https://instagram.com/18min30">Instagram page</a> and <a href="https://unsplash.com/@maxcrone">Unsplash profile</a>.
+		A small sample from my photography work.
+		I'm collecting them in editorialized albums.
+		It at least goes from my earliest work in two-thousand-fourteen to relatively recent photos.
+		But this is by no means a comprehensive portfolio; I'm just having fun.
+		For a different perspective on my photography, see my <a href="https://instagram.com/18min30">Instagram page</a> and <a href="https://unsplash.com/@maxcrone">Unsplash profile</a>.
 	</p>
 </header>
-<div class="photo-grid">
-	{% assign halfway = site.categories["photo"] | size| divided_by: 2 | ceil %}
-	<div class="photo-grid-column">
-		{% for photo in site.categories["photo"] %}
-			{% if forloop.index > halfway %}
-				{% break %}
-			{% endif %}
-	    <a class="image" href="{{ photo.url }}" data="{{ idx }}">
-	    {% include image.html name=photo.img size="1280" %}
+<div class="album-grid">
+	{% for album in site.albums %}
+		<div class="album-item">
+	    <a class="album-stack image" href="{{ album.url }}">
+				<div class="album-stack-item-2" style="background: {{ album.color }};"></div>
+				<div class="album-stack-item-1" style="background: {{ album.color }};"></div>
+		    {% include image.html name=album.cover size="640" %}
 	    </a>
-		{% endfor %}
-	</div>
-	<div class="photo-grid-column">
-		{% for photo in site.categories["photo"] %}
-			{% if forloop.index <= halfway %}
-				{% continue %}
-			{% endif %}
-	    <a class="image" href="{{ photo.url }}" data="{{ idx }}">
-	    {% include image.html name=photo.img size="1280" %}
-	    </a>
-		{% endfor %}
-	</div>
+			<div class="album-text">
+				<h3>{{ album.title }}</h3>
+				<span class="album-description">{{ album.desc | truncate: 128 }}</span>
+				<span><a href="{{ album.url }}">view full album</a></span>
+			</div>
+		</div>
+	{% endfor %}
 </div>

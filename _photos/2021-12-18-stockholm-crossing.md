@@ -2,7 +2,7 @@
 layout: photo
 title: Stockholm crossing
 author: Max Crone
-category: photo
+category: street
 desc: A woman floating above a street crossing in Stockholm with the sun flaring through the city's buildings.
 img: 2021-12-18-stockholm-crossing
 aperture: 2
