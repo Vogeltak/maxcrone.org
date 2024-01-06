@@ -542,6 +542,17 @@ hr {
     }
 }
 
+
+@media only screen and (max-width: 1280px) {
+    .photo-grid img {
+        border-radius: 0;
+    }
+
+    .fullscreen-image img {
+        border-radius: 0;
+    }
+}
+
 .exif-data {
     background: #eeeee9;
     border-radius: 4px;
