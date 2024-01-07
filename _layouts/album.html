@@ -7,29 +7,11 @@ layout: default
 </header>
 <div class="photo-grid">
   {% assign photos = site.photos | where: "category", page.photo_category | reverse %}
-  {% assign n = photos | size %}
-  {% assign halfway = n | divided_by: 2 | ceil %}
-  <div class="photo-grid-column">
-    {% for photo in photos %}
-      {% if forloop.index > halfway %}
-        {% break %}
-      {% endif %}
-      <a class="image" href="{{ photo.url }}">
-        {% include image.html name=photo.img size="1280" %}
-      </a>
-    {% endfor %}
-  </div>
-  <div class="photo-grid-column">
-    {% for photo in photos %}
-      {% if forloop.index <= halfway %}
-        {% continue %}
-      {% endif %}
-      <a class="image" href="{{ photo.url }}">
-        {% include image.html name=photo.img size="1280" %}
-      </a>
-    {% else %}
-    {% endfor %}
-  </div>
+  {% for photo in photos %}
+    <a class="image" href="{{ photo.url }}">
+      {% include image.html name=photo.img size="1280" %}
+    </a>
+  {% endfor %}
 </div>
 <hr/>
 <section>
