@@ -1,0 +1,9 @@
+{% macro image(name, size="1280", caption="") %}
+    <picture>
+        <source srcset="https://f003.backblazeb2.com/file/maxcrone-org/img/{{ name }}_{{ size }}.webp" type="image/webp">
+        <img src="https://f003.backblazeb2.com/file/maxcrone-org/img/{{ name }}_{{ size}}.jpg" alt="{{ caption }}" loading="lazy">
+    </picture>
+    {% if caption %}
+    <p class="picture-subscript">{{ caption }}</p>
+    {% endif %}
+{% endmacro image %}

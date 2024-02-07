@@ -1,0 +1,39 @@
+{% import "macros.html" as macros %}
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Open Graph tags -->
+        <meta property="og:site_name" content="{{ config.title }}" />
+        {% if current_url %}
+        <meta property="og:url" content="{{ current_url}}" />
+        {% endif %}
+        <meta property="og:image" content="{{ config.base_url }}/assets/img/preview.png" /-->
+
+        {% block head %}{% endblock %}
+
+        <link rel="stylesheet" href="/assets/css/default.css">
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+        <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Max Crone">
+    </head>
+    <body>
+        {% include "navigation.html" %}
+
+        <main>
+        {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            <p class="post-copyright">Max Crone © 2016—2024 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></p>
+            <p>Powered by Zola, GoatCounter, GitHub Pages, and Backblaze B2</p>
+			<a href="mailto:hello@maxcrone.org">E-mail</a> •
+			<a href="/atom.xml">RSS</a> •
+            <a href="https://github.com/Vogeltak">GitHub</a> •
+            <a href="https://www.linkedin.com/in/maxcrone">LinkedIn</a>
+        </footer>
+	<script data-goatcounter="https://maxcrone.goatcounter.com/count"
+		async src="//gc.zgo.at/count.js"></script>
+    </body>
+</html>

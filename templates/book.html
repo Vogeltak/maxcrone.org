@@ -1,0 +1,22 @@
+{% extends "page.html" %}
+
+{% block content %}
+<section class="post-header">
+    <span class="category">Books</span>
+    <h1 class="title">{{ page.title }}</h1>
+    <p>By <strong>{{ page.extra.writer }}</strong></p>
+    <p class="post-author-date">Finished on {{ page.date | date(format="%B %e, %Y") }}</p>
+    {% set rating = page.extra.rating %}
+    <p>{% for i in range(end=rating) %}&starf;{% endfor %}</p>
+</section>
+
+<section class="post-content">
+    {{ page.content | safe }}
+</section>
+
+<hr/>
+
+<section>
+    <p class="post-copyright"><a href="/books">← View all book reviews</a></p>
+</section>
+{% endblock content %}

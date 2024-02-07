@@ -1,0 +1,30 @@
+# The URL the site will be built for
+base_url = "https://maxcrone.org"
+
+title = "Max Crone"
+description = "Max Crone is a computer engineer exploring life in The Netherlands."
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+generate_feed = true
+feed_filename = "atom.xml"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+navigation = [
+  {name = "About", path = "/about"},
+  {name = "Research", path = "/research"},
+  {name = "Reading", path = "/books"},
+  {name = "Writing", path = "/writing"},
+  {name = "Cooking", path = "/food"},
+  {name = "Photos", path = "/photos"},
+]

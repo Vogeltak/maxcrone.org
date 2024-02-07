@@ -1,0 +1,36 @@
+{% extends "page.html" %}
+
+{% block content %}
+<header>
+    <h1>{{ page.title }}</h1>
+    <p class="intro">
+         On this page I provide an overview of my writing. What I like to write varies from essays on technology, philosophy and media, to pieces of fiction in genres such as sci-fi and fantasy.
+    </p>
+</header>
+{% set essays = get_section(path="essay/_index.md") %}
+{% set fiction = get_section(path="fiction/_index.md") %}
+{% set flash = get_section(path="flash/_index.md") %}
+{% set micro = get_section(path="micro/_index.md") %}
+{% for category in [essays, fiction, flash] %}
+<section>
+    <h2>{{ category.title }}</h2>
+</section>
+<section class="post-grid">
+    {% for page in category.pages %}
+        <div class="post-item">
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+        </div>
+    {% endfor %}
+</section>
+{% endfor %}
+<section>
+    <h2>Micro-blog</h2>
+    <p>
+        For very short thoughts I wanted to publish somewhere.
+        Most recent snippet:
+    </p>
+    <blockquote>{{ micro.pages[0].content | safe }}</blockquote>
+    <p>Read <a href="/micro">all snippets</a></p>
+</section>
+{% endblock content %}

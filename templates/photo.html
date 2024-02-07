@@ -1,0 +1,30 @@
+{% extends "page.html" %}
+
+{% block content %}
+<div class="fullscreen-image">
+    {{ macros::image(name=page.extra.img, size="1280") }}
+</div>
+
+<section>
+    <p>
+        <strong>{{ page.title }}</strong><br/>
+        {{ page.date | date(format="%B %e, %Y") }}<br/>
+    </p>
+    <p>{{ page.description }}</p>
+    <ul class="exif-data">
+        <li>f/{{ page.extra.aperture }}</li>
+        <li>{{ page.extra.exposure }}</li>
+        <li>{{ page.extra.focal }}mm</li>
+        <li>ISO{{ page.extra.iso }}</li>
+    </ul>
+    <p>Large: <a href="https://f003.backblazeb2.com/file/maxcrone-org/img/{{ page.extra.img }}_2880.jpg">JPEG</a></p>
+</section>
+
+<hr/>
+
+<section>
+    {% set parent = page.ancestors | last %}
+    {% set section = get_section(path=parent) %}
+    <p class="post-copyright"><a href="{{ section.extra.see_all_link }}">← View everything in {{ section.title }}</a></p>
+</section>
+{% endblock content %}

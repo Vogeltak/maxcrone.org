@@ -1,0 +1,35 @@
+{% extends "page.html" %}
+
+{% block content %}
+<header>
+	<h1>Photos</h1>
+	<p class="intro">
+		A small sample from my photography work.
+		I'm collecting them in editorialized albums.
+		It at least goes from my earliest work in two-thousand-fourteen to relatively recent photos.
+		But this is by no means a comprehensive portfolio; I'm just having fun.
+		For a different perspective on my photography, see my <a href="https://instagram.com/18min30">Instagram page</a> and <a href="https://unsplash.com/@maxcrone">Unsplash profile</a>.
+	</p>
+</header>
+{% set portraits = get_section(path="a/portraits/_index.md") %}
+{% set street = get_section(path="a/street/_index.md") %}
+{% set events = get_section(path="a/events/_index.md") %}
+{% set nature = get_section(path="a/nature/_index.md") %}
+{% set food = get_section(path="a/food/_index.md") %}
+<div class="album-grid">
+  {% for album in [portraits, street, events, nature, food] %}
+		<div class="album-item">
+	    <a class="album-stack image" href="{{ album.path}}">
+				<div class="album-stack-item-2" style="background: {{ album.extra.color }};"></div>
+				<div class="album-stack-item-1" style="background: {{ album.extra.color }};"></div>
+		    {{ macros::image(name=album.extra.cover, size="640") }}
+	    </a>
+			<div class="album-text">
+				<h3>{{ album.title }}</h3>
+				<span class="album-description">{{ album.description | truncate(length=128) }}</span>
+				<span><a href="{{ album.path }}">view full album</a></span>
+			</div>
+		</div>
+	{% endfor %}
+</div>
+{% endblock content %}

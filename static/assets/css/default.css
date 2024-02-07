@@ -1,0 +1,724 @@
+/* ==========
+    Global styling
+========== */
+
+body {
+    align-items: center;
+    background: #ffffff;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: Helvetica, Arial, sans-serif;
+    /*font-family: "Vollkorn", Georgia, serif;*/
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin-top: 3em;
+}
+
+p, ol, ul {
+    line-height: 1.7;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+a {
+    background: rgba(76, 175, 80, 0.2);
+    color: black;
+    padding: 0 3px;
+	text-decoration: none;
+}
+
+    a:hover {
+        background: #e9d1c9;
+        text-decoration: underline;
+    }
+
+    a.image, a.image:hover {
+        background: none;
+    }
+
+blockquote {
+    background-color: #FBFFF5;
+    border: none;
+    border-left: 5px solid #4caf50;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+    padding: 0.1em 1em;
+}
+
+nav {
+    align-items: center;
+    box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 16px;
+	width: 1280px;
+}
+
+    nav .menu-button {
+        cursor: pointer;
+        display: none;
+        padding: 0;
+    }
+
+    nav .menu a, nav .menu-button {
+        background: none;
+        color: #6a6a6a;
+        margin: 0 12px 0 12px;
+    }
+
+    nav .menu .current {
+        color: black;
+    }
+
+    nav a:active, nav a:hover {
+        color: #000;
+    	text-decoration: none;
+    }
+
+    nav > span {
+        align-items: center;
+        display: flex;
+    }
+
+    nav .logo-name a {
+        align-items: center;
+        background: none;
+        color: black;
+        display: flex;
+        padding: 0;
+    }
+
+    nav .logo {
+        border-radius: 50%;
+        box-shadow: none;
+        margin: 0 24px 0 0;
+        max-width: 1.5rem;
+    }
+
+main {
+    /*margin-top: 32px;*/
+    max-width: 100%;
+    width: 1280px;
+}
+
+header {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    max-width: 640px;
+    padding: 32px 16px;
+    text-align: left;
+}
+
+    header .intro {
+        font-size: 18px;
+    }
+
+section {
+    margin: auto;
+    max-width: 640px;
+    padding: 0 16px;
+}
+
+footer {
+    font-size: 14px;
+    padding: 2rem 1rem;;
+    text-align: center;
+}
+
+    footer a {
+        background: none;
+    }
+
+    footer .post-copyright {
+        font-weight: bold;
+    }
+
+hr {
+    border: 0;
+    display: block;
+    margin: 25px auto;
+    text-align: center;
+    width: 100%;
+}
+
+    hr:after {
+        color: black;
+        content: "\2042";
+        font-size: 1em;
+    }
+
+.picture-subscript {
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+.brand-color {
+    color: #4caf50;
+}
+
+.footnote {
+    font-weight: bold;
+}
+
+.footnotes {
+    font-size: 14px;
+}
+
+sup + p {
+    display: inline;
+    font-size: 13.333px;
+    vertical-align: super;
+}
+
+.document {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjE5cHgiIGhlaWdodD0iMTlweCIgdmlld0JveD0iMCAwIDE5IDE5IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOSAxOTsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzMzMzMzMzt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMzMzMzMzM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05LDN2NHYxaDFoNHY4SDVWM0g5IE0xMCwySDR2MTVoMTFWN2gtNVYyTDEwLDJ6Ii8+DQo8bGluZSBjbGFzcz0ic3QxIiB4MT0iMTAiIHkxPSIzIiB4Mj0iMTQiIHkyPSI3Ii8+DQo8L3N2Zz4NCg==");
+    background-repeat: no-repeat;
+    background-position: 0 2px;
+    background-size: 19px 19px;
+    padding-left: 28px;
+}
+
+@media only screen and (max-width: 700px) {
+    blockquote {
+        margin-left: 0;
+    }
+
+    nav {
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+    nav .menu-button {
+        display: block;
+    }
+
+    nav .menu {
+        display: none;
+    }
+}
+
+/* ==========
+    Text styling
+========== */
+.light {
+    font-weight: normal;
+}
+
+/* ==========
+    Menu page
+========== */
+.menu-page {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+}
+
+    .menu-page a {
+        background: none;
+        color: black;
+        font-size: 1.25rem;
+        margin: 8px 0;
+        text-decoration: underline;
+    }
+
+    .menu-page .design {
+        margin-top: 32px;
+        width: 100px;
+    }
+
+/* ==========
+    Home page
+========== */
+
+.portrait {
+    /*border: 1px solid #222;*/
+    margin-bottom: 24px;
+    margin-top: 1rem;
+    /*max-width: 12rem;*/
+    align-self: center;
+}
+
+.portrait img {
+    /*border-radius: 50%;*/
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+}
+
+/* ==========
+    About
+========== */
+
+.timeline {
+    line-height: 1.5rem;
+}
+
+    .timeline li {
+        margin-bottom: 1rem;
+    }
+
+/* ==========
+    Writing
+========== */
+.post-grid {
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 0.5em;
+}
+
+    .post-grid a {
+        font-size: 1.1rem;
+        text-decoration: underline;
+    }
+
+    .post-grid .excerpt {
+        margin-top: 4px;
+        margin-bottom: 0;
+    }
+
+    .post-grid .writer, .post-grid .date {
+        font-size: 0.9rem;
+        margin: 0;
+        opacity: 0.5;
+    }
+
+@media only screen and (min-width: 560px) {
+    .post-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+        .post-grid a {
+            text-decoration: none;
+        }
+
+        .post-grid a:hover {
+            text-decoration: underline;
+        }
+}
+
+/* ==========
+    Post
+========== */
+
+.post-header {
+    margin-bottom: 32px;
+    margin-top: 32px;
+    max-width: 100%;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+    .post-header .category {
+        color: #39833c;
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 2rem;
+        text-transform: capitalize;
+    }
+
+    .post-header .title {
+        font-family: Times, serif;
+        font-size: 48px;
+        margin-bottom: 0;
+    }
+
+    .post-header .post-author-date {
+        font-size: 15px;
+        opacity: 0.7;
+    }
+
+.post-footer {
+    background: #f0f0f0;
+    border-radius: 4px;
+    color: #333;
+    padding: 1rem;
+}
+
+.post-copyright {
+    text-align: center;
+}
+
+@media only screen and (max-width: 700px) {
+    .post-header {
+        text-align: center;
+    }
+
+        .post-header .title {
+            font-size: 32px;
+        }
+}
+
+.recent-dishes {
+    background: var(--light-grad-pink-blue, radial-gradient(ellipse at 40% 0%, #bf398910 0, transparent 75%), radial-gradient(ellipse at 60% 0%, #096bde10 0, transparent 75%));
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 4px;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.2);
+    margin: 0 6px;
+}
+
+    .recent-dishes .title {
+        margin-bottom: 0;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+.food-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+    padding: 16px;
+}
+
+    .food-grid a {
+        padding: 3px;
+    }
+
+@media only screen and (min-width: 1232px) {
+    .food-grid {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
+
+        .food-grid a {
+            padding: 8px;
+        }
+}
+
+.book-grid {
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1.5em;
+}
+
+    .book-grid > div {
+        box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        border: 1px solid darkgray;
+        border-radius: 4px;
+    }
+
+    .book-grid .rating {
+        font-size: 0.8em;
+        font-weight: bold;
+        text-transform: lowercase;
+    }
+
+    .book-grid a {
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+
+    .book-grid .excerpt p {
+        margin-bottom: 0;
+        margin-top: 4px;
+    }
+
+    .book-grid .writer, .book-grid .finished {
+        font-size: 0.9rem;
+        margin: 0;
+        opacity: 0.5;
+    }
+
+@media only screen and (min-width: 560px) {
+    .book-grid { 
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+        .book-grid > div {
+            box-shadow: none;
+            padding: 0;
+            border: 0;
+            border-radius: 0;
+        }
+
+        .book-grid a:hover {
+            text-decoration: underline;
+        }
+}
+
+.album-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: auto;
+    max-width: 640px;
+    padding: 0 8px;
+}
+
+.album-item {
+    display: flex;
+}
+
+.album-stack {
+    flex: 1;
+    max-width: 480px;
+    position: relative;
+}
+
+    .album-stack:hover {
+        opacity: 0.9;
+    }
+
+    .album-stack img {
+        border-top: 1px solid white;
+        width: 100%;
+        /*
+         * Caps album cover aspect ratio to 1:1.
+         * 301px is the maximum width the album cover image will ever attain,
+         * because we place it in a container with max-size 640px.
+         * This means that vertical images will become relatively more vertical
+         * on smaller devices, which is fine, I guess. That is the preferred
+         * orientation on those anyway.
+         */
+        max-height: 301px;
+        object-fit: cover;
+    }
+
+    .album-stack-item-1 {
+        position: absolute;
+        top: -4px;
+        width: calc(100% - 24px);
+        height: calc(100% - 4px);
+        left: 12px;
+        right: 12px;
+        border-radius: 12px;
+        border-top: 1px solid white;
+        z-index: -1;
+    }
+
+    .album-stack-item-2 {
+        position: absolute;
+        top: -8px;
+        width: calc(100% - 48px);
+        height: calc(100% - 8px);
+        left: 24px;
+        right: 24px;
+        border-radius: 12px;
+        opacity: 0.5;
+        z-index: -1;
+    }
+
+.album-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    padding: 0 16px;
+}
+
+    .album-text h3 {
+        margin: 0;
+    }
+
+    .album-text a {
+        font-size: 14px;
+    }
+
+@media only screen and (max-width: 760px) {
+    .album-description {
+        display: none;
+    }
+}
+
+.photo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.photo-grid::after {
+    content: "";
+    flex-grow: 999;
+}
+
+.photo-grid > a {
+    flex: 1 1 auto;
+    height: 240px;
+    padding: 0;
+}
+
+.photo-grid img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 760px) {
+    .photo-grid > a {
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .photo-grid img {
+        border-radius: 0;
+    }
+
+    .fullscreen-image img {
+        border-radius: 0;
+    }
+}
+
+.exif-data {
+    background: #eeeee9;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    padding: 1rem;
+}
+
+@media only screen and (max-width: 700px) {
+    .exif-data {
+        columns: 2;
+    }
+}
+
+/* ==========
+    Cuisines
+========== */
+
+.fraction {
+    background-color: lightgray;
+    border-radius: 16px;
+    font-size: 14px;
+    padding: 4px 8px;
+}
+
+.fraction.accent {
+    font-weight: bold;
+}
+
+
+/* ==========
+    Micro-blog
+========== */
+
+.feed-item {
+    border-left: 2px solid darkgray;
+    border-right: 2px solid darkgray;
+    border-bottom: 2px dotted darkgray;
+    padding: 12px 16px;
+}
+
+.feed-item:last-child {
+    border-bottom: 0;
+}
+
+.feed-item-content p {
+    line-height: 20px;
+    margin-top: 0;
+}
+
+.feed-item .date {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    opacity: 0.6;
+}
+
+/* ==========
+    Quick dark-mode
+========== */
+/* 
+
+DISABLE because it doesn't work properly across Firefox and Chrome.
+Firefox doesn't properly invert background-color so I had to set it
+explicitly, but then Chrome _does_ properly invert it and we end up
+with white on white for dark mode. Not good.
+
+@media (prefers-color-scheme: dark) {
+    html {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+
+    body {
+	background-color: #000;
+    }
+
+    img {
+	filter: invert(100%) hue-rotate(180deg);
+    }
+}
+*/
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #111;
+        color: #f0f0f0;
+    }
+
+    a {
+        background: rgba(76, 175, 80, 0.7);
+        color: white;
+    }
+
+    a:hover {
+        background: #68ac6b;
+    }
+
+    nav .logo-name a {
+        color: white;
+    }
+
+    nav .menu a, nav .menu-button {
+        color: #a5a5a5;
+    }
+
+    nav .menu .current {
+        color: white;
+    }
+
+    nav a:active, nav a:hover {
+        color: white;
+    }
+
+    .menu-page a {
+        color: white;
+    }
+
+    footer {
+        color: #909090;
+    }
+
+    hr:after {
+        color: white;
+    }
+
+    blockquote {
+        background-color: #323331;
+    }
+
+    .post-header .category {
+        color: #4caf50;
+    }
+
+    .fraction {
+        background-color: dimgray;
+    }
+
+    .exif-data {
+        background: #2e2e2e;
+    }
+
+    .album-stack img {
+        border-color: black;
+    }
+
+    .album-stack-item-1 {
+        border-color: black;
+    }
+}

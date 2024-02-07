@@ -1,0 +1,77 @@
+{% extends "page.html" %}
+
+{% block content %}
+<header>
+	<h1>About</h1>
+</header>
+<section>
+    <p>
+        I did my Master's in Security and Cloud Computing at Aalto University and KTH.
+	Frankly, the people, life, and adventures there might have taught me even more than the professors.
+        Before my Nordic life, I finished the Computer Science Bachelor at the Eindhoven University of Technology in my home country, The Netherlands.
+    </p>
+    <p>
+        Let me increase the dimensionality of my personality.
+        I love to read books and short stories (mostly science fiction and fantasy, but I do enjoy good non-fiction work from time to time).
+        I like to think that I enjoy writing, but dedicating myself to the craft proves to be non-trivial.
+        The amount of good content being published makes it too easy to slip into a comfortably passive mindset sometimes, instead of making the effort to create something oneself.
+    </p>
+    <p>
+        I enjoy cooking meals from around the world, because it allows me to, quite literally, get a taste of humankind's cultures.
+	I'm actually <a href="/food">writing about this project</a>.
+        Photography gives me the visual satisfaction that I am left craving while studying computer science.
+        Lastly, I enjoy the game of Ultimate Frisbee and I like to practice calisthenics.
+        Oftentimes, I can also be found hiking through nature or cities.
+    </p>
+</section>
+<section>
+    {{ macros::image(name="2021-06-11-otaniemi", size="1280", caption="Me during summer in Finland. Actually, standing in front of the building on top of which I did my morning meditations, Otaniemi campus, 2021.") }}
+    <p>Now that we got the human stuff out of the way, let me present you a résumé-like overview of my professional and academic timeline.</p>
+    <ul class="timeline">
+        <li>
+            <strong>2024 january - now</strong><br/>
+            Security Developer<br/>
+            <em>1Password</em>
+        </li>
+        <li>
+            <strong>2023 may - 2024 january</strong><br/>
+            Rust software engineer<br/>
+            <em>NLnet</em>
+        </li>
+        <li>
+            <strong>2022 january - 2023 april</strong><br/>
+            Systems software engineer<br/>
+            <em>Nvidia</em>
+        </li>
+        <li>
+            <strong>2021 september - 2022 january</strong><br/>
+            Linux developer<br/>
+            <em>Bright Computing</em> (until we were <a href="https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/" target="_blank">acquired by Nvidia</a>)
+        </li>
+        <li>
+            <strong>2021 january - july</strong><br/>
+            Secure Systems Group research assistant<br/>
+            <em>Aalto University</em>
+        <li>
+            <strong>2020 april - july</strong><br/>
+            Network Security Research intern<br/>
+            <em>Ericsson</em>
+        </li>
+        <li>
+            <strong>2019 - 2021</strong><br/>
+            SECCLO Erasmus Mundus Master's degree programme in Security and Cloud Computing<br/>
+            <em>Aalto University & KTH</em>
+        </li>
+        <li>
+            <strong>2017 - 2018</strong><br/>
+            Honors Academy: Competitive Programming and Problem Solving<br/>
+            <em>Eindhoven University of Technology</em>
+        </li>
+        <li>
+            <strong>2016 - 2019</strong><br/>
+            B.Sc. in Computer Science & engineering (cum laude)<br/>
+            <em>Eindhoven University of Technology</em>
+        </li>
+    </ul>
+</section>
+{% endblock %}
