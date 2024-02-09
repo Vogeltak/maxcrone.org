@@ -72,12 +72,15 @@ nav {
 
     nav .menu a, nav .menu-button {
         background: none;
+	border-radius: 4px;
         color: #6a6a6a;
-        margin: 0 12px 0 12px;
+        margin: 0 4px;
+	padding: 4px 8px;
     }
 
     nav .menu .current {
-        color: black;
+        background: #eee;
+	color: black;
     }
 
     nav a:active, nav a:hover {
