@@ -575,13 +575,15 @@ sup + p {
 }
 
 .exif-data {
-    background: #eeeee9;
+    background: #eee;
     border-radius: 4px;
     display: flex;
     flex-direction: row;
+    font-size: 0.9em;
     justify-content: space-around;
     list-style: none;
-    padding: 1rem;
+    opacity: 0.9;
+    padding: 0 4px;
 }
 
 @media only screen and (max-width: 700px) {
