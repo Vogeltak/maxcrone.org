@@ -557,6 +557,14 @@ sup + p {
     vertical-align: middle;
 }
 
+.fullscreen-image {
+    text-align: center;
+}
+
+.fullscreen-image img {
+    max-height: calc(100vh - 100px);
+}
+
 @media only screen and (max-width: 760px) {
     .photo-grid > a {
         height: auto;
