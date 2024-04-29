@@ -21,19 +21,28 @@
 {% endblock %}
 
 {% block content %}
-<div id="map">
-</div>
+<div id="map"></div>
+<section>
+    <p>
+        I count myself lucky to have been able to travel a bit.
+        A beautiful way to remember these places is to record small soundscapes.
+        They give me one of the strongest cocktails of nostalgia and memories.
+        And who doesn't like a map with pins!
+        <i>(This collection is more of a sample of places I've traveled.)</i>
+    </p>
+    <h6>Inspired by Linus Lee's (a.k.a. thesephist) <a href="https://soundsfromplaces.surge.sh/" target="_blank">Sounds from Places</a>.</h6>
+</section>
 {% endblock %}
 
 {% block scripts %}
 <script>
-    var map = L.map('map').setView([51.505, -0.09], 2);
+    var map = L.map('map').setView([52.39322, 4.90984], 3);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    {% set data = load_data(path="@/placesounds.toml") %}
+    {% set data = load_data(path="@/places.toml") %}
 
     {% for place in data.places %}
         var marker = L.marker([{{ place.lat }}, {{ place.lon }}]).addTo(map);
