@@ -1,0 +1,89 @@
+[[places]]
+name = "Niagara Falls"
+date = 2024-04-20
+desc = """
+Visited this touristy place on my last day in Canada."""
+lat = 43.07919
+lon = -79.07816
+sound = "/assets/audio/2024-04-20-niagara-falls.m4a"
+
+[[places]]
+name = "Thousand Islands national park, Canada"
+date = 2024-04-18
+desc = """
+Didn't have a boat and the season wasn't opened yet, so I had to be content with hikes on the mainland."""
+lat = 44.45315
+lon = -75.86468
+sound = "/assets/audio/2024-04-18-thousand-islands.m4a"
+
+[[places]]
+name = "Owl's Nest, Prince Edward Island, Canada"
+date = 2024-04-18
+desc = """
+Stayed at a homestead of a young family for the night.
+They had a also built a beautiful open shed with a swing next to a pond where the frogs were in mating season.
+The rest of the night was filled by a full choir of birds."""
+lat = 44.04949
+lon = -77.52525
+sound = "/assets/audio/2024-04-18-owls-nest.m4a"
+
+[[places]]
+name = "Forillon national park, Canada"
+date = 2024-04-15
+desc = """
+Tried to go for a hike in-between seasons, but the trail still had a layer of snow that came up to my upper leg.
+I struggled for a while, but ended up just listening to the water."""
+lat = 48.86151
+lon = -64.38167
+sound = "/assets/audio/2024-04-15-forillon.m4a"
+
+[[places]]
+name = "Badhus, Amsterdam"
+date = 2023-11-10
+desc = """
+The floating sauna where I volunteer as a host."""
+lat = 52.39322
+lon = 4.90984
+sound = "/assets/audio/2023-11-10-badhus.aac"
+
+[[places]]
+name = "Train from Lugano to Basel, Switzerland"
+date = 2023-09-22
+desc = """
+Our train ride through Switzerland brought us past beautiful mountain ranges where
+all the meltwater rushed down waterfalls for kilometers on end.
+Meanwhile, the rain trickled over our railwagon."""
+lat = 46.7339
+lon = 8.7284
+sound = "/assets/audio/2023-09-22-train-to-basel.aac"
+
+[[places]]
+name = "Cademario, Lugano, Switzerland"
+date = 2023-09-21
+desc = """
+While we stayed in the Kurhaus, we tried to hike the hill in the window of opportunity between all the rain.
+Or so we thought.
+The rain started to fall around us again, but at least we were relatively well protected whilst among the trees."""
+lat = 46.02287
+lon = 8.89013
+sound = "/assets/audio/2023-09-21-cademario.aac"
+
+[[places]]
+name = "Castello Brown, Portofino, Italy"
+date = 2023-09-17
+desc = """
+We'd climbed the hill on top of which the castello stood, overlooking Portofino.
+Now we longed to cool off in the seductive waves of the sea below."""
+lat = 44.30242
+lon = 9.21404
+sound = "/assets/audio/2023-09-17-portofino-castle.aac"
+
+[[places]]
+name = "Bright Computing's datacenter, Sloterdijk"
+date = 2022-10-27
+desc = """
+My first job out of college had an office in Amsterdam, where they colocated a few racks in the tower's basement.
+I had to fiddle around in it from time to time when I needed to write integrations with new hardware."""
+lat =  52.3856719
+lon = 4.8432119
+sound = "/assets/audio/2022-10-27-bright-computing-datacenter.aac"
