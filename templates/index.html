@@ -13,9 +13,66 @@
     <p class="intro">Hi, my name is <span class="brand-color"><strong>Max</strong></span>! I am a twenty-five year old human from The Netherlands.</p>
     <p class="intro">
         I studied computer science and computer security in The Netherlands, Finland and Sweden.
-        You can read more about my story <a href="/about">here</a>.
+        You can read more about me <a href="/about">here</a>.
     </p>
 </header>
+<div class="update-grid">
+    <div>
+        <h3>Writing</h3>
+        {% set essays = get_section(path="essay/_index.md") %}
+        {% set fiction = get_section(path="fiction/_index.md") %}
+        {% set flash = get_section(path="flash/_index.md") %}
+        {% set post = essays.pages | concat(with=fiction.pages) | concat(with=flash.pages) | sort(attribute="date") | last %}
+        {% set parent = post.ancestors | last %}
+        {% set category = get_section(path=parent) %}
+        <a href="{{ post.path }}">{{ post.title }}</a>
+        <p>
+            {{ post.date | date(format="%B %e, %Y") }}
+            —
+            <span class="pill">{{ category.title }}</span>
+        </p>
+        <a href="/writing" class="see-all">See all</a>
+    </div>
+    <div>
+        <h3>Reading</h3>
+        {% set books = get_section(path="books/_index.md") %}
+        {% set book = books.pages[0] %}
+        <a href="{{ book.path }}">{{ book.title }}</a>
+        <p>
+            {{ book.date | date(format="%B %e, %Y") }}
+            —
+            {% set rating = book.extra.rating %}
+            {% for i in range(end=rating) %}&starf;{% endfor %}
+        </p>
+        <a href="{{ books.path }}" class="see-all">See all</a>
+    </div>
+    <div>
+        <h3>Cooking</h3>
+        {% set countries = get_section(path="food/_index.md") %}
+        {% set country = countries.pages | sort(attribute="updated") | last %}
+        <a href="{{ country.path }}">{{ country.title }}</a>
+        <p>{{ country.updated | date(format="%B %e, %Y") }}</p>
+        <a href="{{ countries.path }}" class="see-all">See all</a>
+    </div>
+    <div>
+        <h3>Photos</h3>
+        {% set portraits = get_section(path="a/portraits/_index.md") %}
+        {% set street = get_section(path="a/street/_index.md") %}
+        {% set events = get_section(path="a/events/_index.md") %}
+        {% set nature = get_section(path="a/nature/_index.md") %}
+        {% set food = get_section(path="a/food/_index.md") %}
+        {% set photo = portraits.pages | concat(with=street.pages) | concat(with=events.pages) | concat(with=nature.pages) | concat(with=food.pages) | sort(attribute="date") | last %}
+        {% set parent = photo.ancestors | last %}
+        {% set category = get_section(path=parent) %}
+        <a href="{{ photo.path }}">{{ photo.title }}</a>
+        <p>
+            {{ photo.date | date(format="%B %e, %Y") }}
+            —
+            <span class="pill">{{ category.title }}</span>
+        </p>
+        <a href="/photos" class="see-all">See all</a>
+    </div>
+</div>
 <section>
     <h2>Now</h2>
     <p>

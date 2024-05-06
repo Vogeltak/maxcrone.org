@@ -396,6 +396,34 @@ sup + p {
         }
 }
 
+.update-grid {
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 16px;
+}
+
+.update-grid > div {
+    text-align: center;
+}
+
+.update-grid > div > p:not(.see-all) {
+    font-size: 0.9em;
+    opacity: 0.8;
+    font-style: italic;
+}
+
+.update-grid .see-all {
+    background: none;
+    font-size: 0.9em;
+}
+
+@media only screen and (min-width: 560px) {
+    .update-grid { 
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
 .book-grid {
     column-gap: 5px;
     display: grid;
@@ -603,9 +631,10 @@ sup + p {
     Cuisines
 ========== */
 
-.fraction {
+.fraction, .pill {
     background-color: lightgray;
     border-radius: 16px;
+    font-style: normal;
     font-size: 14px;
     padding: 4px 8px;
 }

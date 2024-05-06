@@ -25,10 +25,12 @@ Most of my writing is done in Markdown files that I edit in [Helix](https://heli
 - [x] Refactor Photos to use three-column gallery (see [LogRocket blog](https://blog.logrocket.com/responsive-image-gallery-css-flexbox/) and [Sydney Hough's website](https://shough.me/photos/))
   - Instead split photos into different albums that have a linear gallery
 - [x] Refactor to use Zola instead of Jekyll
+- [x] Add a "recently updated" preview on the home page
 - [ ] Maybe look into the use of Adobe's open-source font family [Source](https://en.wikipedia.org/wiki/Source_Serif), including *Source Sans Pro* and *Source Serif Pro* (also used at [Gwern.net](https://gwern.net))
 - [ ] Find a way to incorporate link dumps (I like the idea of small screenshot thumbnails of websites, e.g., see [this](https://web.archive.org/web/20220519092446/https://www.endriarichardson.com/nonfic))
 - [ ] Add a section with TIL's (Today I Learned)
 - [ ] Start a solarpunk series (photography and cuisine!)
+- [ ] Increase the data-availability for all food pages
 
 ## License
 
