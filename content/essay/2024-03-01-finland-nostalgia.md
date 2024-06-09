@@ -19,7 +19,7 @@ It gave me mental clarity, or, brought me in a lucid state of mind, where I coul
 {{ image(name="2021-05-15-otaniemi", size="2880", caption="Otaniemi campus, 2021.") }}
 
 My life was focused.
-Every day I would be chiseling on my academic crown jewel, even though I never felt I truly understood the foundations on which I was building sufficiently to be worthy of laying the next brick.
+Every day I would be chiseling on my academic crown jewel, even though I never felt that I truly understood the foundations on which I was building sufficiently to be worthy of laying the next brick.
 In that way, I at least taught myself to be humbled.
 
 I would often go to saunas with friends.
@@ -32,7 +32,7 @@ I visualize the beautiful and grand streets of Helsinki that I roamed with my ca
 Taking in the world around me, looking for the beauty in people’s ordinary life.
 At some point, I apparently decided that I’d make it a new hobby to climb on top of high buildings.
 The catalyst seemed to be my realization that Finnish buildings, more often than not, have a ladder on the outside (for easy access for repairs and maintenance, I can only presume).
-But this is practically an invitation to climb to the roofs.
+This is basically an invitation to climb to the roofs.
 Towers on the Otaniemi campus, large apartment blocks in Helsinki, small churches, construction scaffolding.
 The thrill of adrenaline is highly addictive.
 And it carries a romantic, fatalistic sensation with it.
@@ -69,7 +69,7 @@ The environments were something impossible, coming from The Netherlands.
 
 {{ image(name="2021-07-22-finland-camping", size="2880", caption="Camping on an island along the King's road, 2021.") }}
 
-I think my emotional journey is maybe captured well by this Cowboy Bebop quote:
+My emotional journey is maybe captured best by this Cowboy Bebop quote:
  
 > “I’m not going there to die. I’m going to find out if I’m really alive.”
 >

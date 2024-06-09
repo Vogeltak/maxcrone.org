@@ -20,13 +20,13 @@ The blessings of hindsight uncover the Genovese unfortune as a systematic effort
 Several of Genoa's Doges in a row started shrinking the Republic's public debt, thereby severaly limiting the banker's liquidity.
 These state bonds had garnered so much trust that they served as collateral for lending themselves.
 This had allowed the Genovese bankers to practically create money from thin air.
-The Doges had stopped borrowing money and were repaying all of their maturing bonds.
+But the Doges stopped borrowing money and were repaying all of their maturing bonds.
 The lifeblood of the financial power of Genoa dried up.
 No one realized the importance of this sufficiently until it was too late.
 Not much later, Genoa was incapable of defending even itself, and was conquered to be part of Napoleon's empire.
 
 A few years after the first world war, the German Republic and Soviet Russia were weak.
-Germany was struggling under post-war reparations it was due, and Lenin had just established a communist state that desperately needed some peacetime to build itself up.
+Germany was struggling under post-war reparations it owed, and Lenin had just established a communist state that desperately needed some peacetime to build itself up.
 There was a large convention in Genoa with European powers.
 The British prime minister was worried that punishing Germany now would destabilize Europe only further in the future.
 The new French president just wished to torment their eternal enemy more.
@@ -35,9 +35,9 @@ Just east of Genoa, in Rapallo, they brought together the German and Russian dip
 These brokered negotiations led to an agreement of forfeiting any reparations the Germans and Soviets owed each other.
 And it formed the start of a favorable diplomatic relationship between the two.
 These conditions allowed both nations to focus more resources on covertly building up their military prowess.
-Though relatively pacifistic and innocent on its own, historians widely understand this to have contributed to the formation of the Molotov-Ribbentrop Pact during the second world war, thata allowed Nazi Germany much more breathing to conduct their horrific plans.
+Though relatively pacifistic and innocent on its own, historians widely understand this to have contributed to the formation of the Molotov-Ribbentrop Pact during the second world war, which allowed Nazi Germany more breathing room to conduct their horrific plans.
 
-Though both are separated by some few hundred years, the fingerprints on both events seem to point to the same force.
+Though both are separated by some few hundred years, the fingerprints on these events seem to point to the same force.
 Purely by the deduction of elimination.
 Age-old Ligurian folktales tell of a cult of creatures—half-men and half-women, but only the evil halves.
 They stem from the time that ancient Phoenicians still roamed these lands.
@@ -47,7 +47,7 @@ Their cruel existence, evil nature, and wisdom from thousands of years of observ
 People like to tell how their old age has made these creatures stand outside of time and attain a more god-like lens, pushing them to wager and bet on the human course of life amongst themselves for fun, requiring a small push-or-shove here and there to make fate roll their way.
 
 Historians only started turning to this tale after a peculiar find in nineteen-ninety-eight.
-Authorities in Genoa had found a broken body on a stone beach with hwaves crashing over it.
+Authorities in Genoa had found a broken body on a stone beach with waves crashing over it.
 Autopsy revealed that the corpse was years old, but its decomposition was nearly nonexistent.
 They also established the nails to be at least two thousand years old.
 The whole case was quickly sealed off, with individuals higher up the chains of secrecy starting a frantic investigation.
