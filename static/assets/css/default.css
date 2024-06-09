@@ -409,7 +409,7 @@ sup + p {
 
 .update-grid > div > p:not(.see-all) {
     font-size: 0.9em;
-    opacity: 0.8;
+    opacity: 0.9;
     font-style: italic;
 }
 
@@ -702,35 +702,36 @@ with white on white for dark mode. Not good.
 
     a {
         background: rgba(76, 175, 80, 0.7);
-        color: white;
+        color: #f0f0f0;
     }
 
     a:hover {
-        background: #68ac6b;
+        background: rgba(209, 188, 180, 0.7);
     }
 
     nav .logo-name a {
-        color: white;
+        color: #f0f0f0;
     }
 
     nav .menu a, nav .menu-button {
-        color: #a5a5a5;
+        color: #d0d0d0;
     }
 
     nav .menu .current {
-        color: white;
+        background: #444;
+        color: #f0f0f0;
     }
 
     nav a:active, nav a:hover {
-        color: white;
+        color: #f0f0f0;
     }
 
     .menu-page a {
-        color: white;
+        color: #f0f0f0;
     }
 
     footer {
-        color: #909090;
+        color: #d0d0d0;
     }
 
     hr:after {
@@ -745,7 +746,7 @@ with white on white for dark mode. Not good.
         color: #4caf50;
     }
 
-    .fraction {
+    .fraction, .pill {
         background-color: dimgray;
     }
 
