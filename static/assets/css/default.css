@@ -39,7 +39,7 @@ a {
 }
 
     a:hover {
-        background: #e9d1c9;
+        background: #e2cbea;
         text-decoration: underline;
     }
 
@@ -706,7 +706,7 @@ with white on white for dark mode. Not good.
     }
 
     a:hover {
-        background: rgba(209, 188, 180, 0.7);
+        background: rgba(168, 114, 185, 0.7);
     }
 
     nav .logo-name a {
