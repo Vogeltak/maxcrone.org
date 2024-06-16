@@ -1,4 +1,91 @@
 [[places]]
+name = "Kappabashi kitchen tools street"
+date = 2024-05-31
+desc = """
+Browsing through Utsuwazoshi, a store with only wooden kitchen tools, along this inspiring street.
+In one of the shops before it, I bought a beautiful nakiri knife made from carbon.
+In another, I was eyeing some incredible copper pans until I told myself that it would be a bit of a hassle to bring them back with me."""
+lat = 35.7146838
+lon = 139.7881882
+sound = "/assets/audio/2024-05-31-utsuwazoshi.m4a"
+
+[[places]]
+name = "Shibuya station"
+date = 2024-05-30
+desc = """
+The fourth busiest railway station in the world.
+Just outside lie some of these crazy squares where all pedestrians cross (in multiple diagonal degrees) at the same time.
+I just walked around this part of the city for a while, taking photos of streets and people, while an approaching thunderstorm loomed."""
+lat = 35.6580339
+lon = 139.6990609
+sound = "/assets/audio/2024-05-30-shibuya.m4a"
+
+[[places]]
+name = "Kinkaku-ji"
+date = 2024-05-29
+desc = """
+The Deer Garden Temple is apparently one of Kyoto's most popular attractions.
+People were throwing coins at small statues dotted along the path.
+And later on, a group of Japanese school children became giggly obsessed with me."""
+lat = 35.03952
+lon = 135.72958
+sound = "/assets/audio/2024-05-29-kinkaku-ji.m4a"
+
+[[places]]
+name = "Local sushi restaurant"
+date = 2024-05-28
+desc = """
+After bouldering at the nearby Galera climbing gym I had found my way to this local sushi conveyor belt restaurant,
+where everyone seemed to know each other.
+I nestled right across from the chef, between two groups of patrons.
+No one spoke any English, but everyone kindly tried to help me to order as much good food as possible."""
+lat = 34.6605404
+lon = 135.4750963
+sound = "/assets/audio/2024-05-28-sushi.m4a"
+
+[[places]]
+name = "Subtropical rainstorm in Umeda"
+date = 2024-05-28
+desc = """
+We had just come out of Camera Obayashi, mostly just intimidated by all the beautiful camera's and their astronomical valuations in yen, when we got caught in a heavy downpour.
+While waiting for the pedestrian light, our shoes had already been soaked."""
+lat = 34.6993987
+lon = 135.4956517
+sound = "/assets/audio/2024-05-28-osaka-subtropical-rain.m4a"
+
+[[places]]
+name = "Nankai line"
+date = 2024-05-28
+desc = """
+I stayed in a lovely old lady's bed and breakfast for a few days and to get into the city I would take the Nankai railway line.
+Warm raindrops were peckering on the train while we approached Imamiyaebisu station."""
+lat = 34.654984
+lon = 135.4989852
+sound = "/assets/audio/2024-05-28-nankai.m4a"
+
+[[places]]
+name = "Osaka Castle plum gardens"
+date = 2024-05-20
+desc = """
+It was past their flowering, but the plum trees still smelt sweet and dreamy.
+Went there on one of my first days and came back again the next week with a friend."""
+lat = 34.6867273
+lon = 135.5278187
+sound = "/assets/audio/2024-05-20-osaka-castle-plum-garden.m4a"
+
+[[places]]
+name = "Loonse en Drunense duinen"
+date = 2024-05-11
+desc = """
+I had missed the aurora the previous night, but hoped to catch a glimpse of it now, despite rapidly dwindling prospects.
+Multiple other people were similarly hopeful and had already settled on the warm sand as the darkness slowly got darker.
+Got some nice photos, but no aurora.
+Instead, we listened to this frog opera, which was also beautiful, in its own way."""
+lat = 51.63992
+lon = 5.10824
+sound = "/assets/audio/2024-05-11-loonse-drunense-duinen.m4a"
+
+[[places]]
 name = "Niagara Falls"
 date = 2024-04-20
 desc = """
