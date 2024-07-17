@@ -1,4 +1,28 @@
 [[places]]
+name = "Biking through the rain in Westerpark"
+date = 2024-07-09
+desc = """
+Rushing back to the ferry after a good bouldering session,
+I got caught in the rain while going through Westerpark.
+It was a mild summer evening, with people out all across the park for late evening picnics up until the rain came.
+I slowed down and listened to the birds that were joyous for the refreshing tide."""
+lat = 52.38827
+lon = 4.87183
+sound = "/assets/audio/2024-07-09-westerpark.m4a"
+
+[[places]]
+name = "Waterleidingduinen"
+date = 2024-06-23
+desc = """
+Went on a long walk through the dunes near Amsterdam where the municipality extracts drinking water.
+We brought sandwiches that we ate on top of a hill, sun blasting, wind lazily throwing us some warm sand.
+Talking about pastoral fantasies and nostalgic summer vacations.
+After we'd topped the dunes near the sea, we snoozed on the beach, skinny dipped in the sea, and ate melon while its juice dripped down our faces."""
+lat = 52.34442
+lon = 4.53606
+sound = "/assets/audio/2024-06-23-waterleidingduinen.m4a"
+
+[[places]]
 name = "Kappabashi kitchen tools street"
 date = 2024-05-31
 desc = """
