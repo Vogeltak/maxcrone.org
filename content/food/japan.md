@@ -1,6 +1,7 @@
 +++
 title = "Japan"
 authors = [ "Max Crone",]
+date = 2021-11-05
 updated = 2022-04-02
 +++
 

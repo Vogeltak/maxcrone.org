@@ -1,6 +1,7 @@
 +++
 title = "Palestine"
 authors = [ "Max Crone",]
+date = 2021-02-11
 updated = 2021-08-24
 +++
 
