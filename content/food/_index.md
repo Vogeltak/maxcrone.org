@@ -6,7 +6,7 @@ page_template = "post.html"
 
 [extra]
 see_all_link = "/food"
-done = 36
+done = 37
 +++
 
 I organize my notes on different cuisines by splitting them into rough geographical areas with the intention of grouping together similar cuisines.
@@ -20,7 +20,7 @@ Let's start from ten top-level regions.
 - [Central Asia](#central-asia) <span class="fraction">1/5</span>
 - [East Asia](#east-asia) <span class="fraction">3/6</span>
 - [Europe](#europe) <span class="fraction">8/44</span>
-- [Middle East](#middle-east) <span class="fraction">6/19</span>
+- [Middle East](#middle-east) <span class="fraction">7/19</span>
 - [North America](#north-america) <span class="fraction">7/23</span>
 - [Pacific](#pacific) <span class="fraction">0/14</span>
 - [South America](#south-america) <span class="fraction">3/12</span>
@@ -162,6 +162,8 @@ Some notes on historical cuisines in the Middle East, from *Cuisine and Culture*
 	- Kuku sabzi *herb frittata*
 	- Mast-o khiar *strained yogurt with cucumber*
     - Kashk-e bademjan *aubergine and dairy dip*
+- [Iraq](/food/iraq)
+	- Dolma *stuffed vegetables*
 - [Israel](/food/israel)
     - Sabich *pita stuffed with fried aubergine*
 - [Lebanon](/food/lebanon)
