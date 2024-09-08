@@ -1,4 +1,18 @@
 [[places]]
+name = "Sunday morning after a festival on Vlieland"
+date = 2024-09-01
+desc = """
+I went to volunteer at the Into the Great Wide Open festival on Vlieland.
+Worked in the crew kitchen, where we helped to produce breakfast, lunch, and dinner for the thousand people who helped make the festival a reality.
+Music is played at different stages in forests and among the dunes.
+Locations are beautiful, the people are beautiful, and the island is incredibly peaceful.
+The Sunday morning is the end of the festival, when everyone is still reeling from all their experiences but also very, very tired.
+We're sitting at a small square on the camping, while people are ordering coffee, talking amongst themselves, or quietly listening to some soft music."""
+lat = 53.304196
+lon = 5.079561
+sound = "/assets/audio/2024-09-01-stortemelk-itgwo.m4a"
+
+[[places]]
 name = "Biking through the rain in Westerpark"
 date = 2024-07-09
 desc = """
@@ -9,6 +23,29 @@ I slowed down and listened to the birds that were joyous for the refreshing tide
 lat = 52.38827
 lon = 4.87183
 sound = "/assets/audio/2024-07-09-westerpark.m4a"
+
+[[places]]
+name = "Harp on the streets in Trier"
+date = 2024-08-18
+desc = """
+After a week with friends in the Alsace, France, we were driving back to The Netherlands through Germany
+and stopped in Trier for a lunch break and some quick sightseeing.
+After visiting the old Roman amphitheater we strolled down into the city center and ran into
+a man playing beautifully quiet harp songs in the palace's gardens while whistling along to his own tunes."""
+lat = 49.752062
+lon = 6.642658
+sound = "/assets/audio/2024-08-18-trier.m4a"
+
+[[places]]
+name = "Soundcheck in Soultzmatt"
+date = 2024-08-15
+desc = """
+On a trip with friends, we were driving back from a day of adventures and stumbled on this small village.
+We saw people in traditional clothing getting out of their cars and carrying instruments down to a small fair.
+So naturally we stopped as well, and sat amongst the locals who were celebrating summer with food, wine, and music."""
+lat = 47.969127
+lon = 7.222702
+sound = "/assets/audio/2024-08-15-soultzmatt.m4a"
 
 [[places]]
 name = "Waterleidingduinen"
