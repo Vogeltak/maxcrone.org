@@ -1,5 +1,10 @@
 {% extends "page.html" %}
 
+{% block nav %}
+    {% set hide_nav = true %}
+    {% include "navigation.html" %}
+{% endblock %}
+
 {% block content %}
 <div class="fullscreen-image">
     {{ macros::image(name=page.extra.img, size="2880") }}

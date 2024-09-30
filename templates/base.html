@@ -21,7 +21,9 @@
         <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Max Crone">
     </head>
     <body>
-        {% include "navigation.html" %}
+        {% block nav %}
+            {% include "navigation.html" %}
+        {% endblock %}
 
         <main>
         {% block content %}{% endblock %}
