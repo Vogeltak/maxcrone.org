@@ -616,6 +616,7 @@ sup + p {
 
     .fullscreen-image img {
         border-radius: 0;
+        max-height: 100vh;
     }
 
     .hide-on-mobile {
