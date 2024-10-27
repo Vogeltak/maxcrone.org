@@ -1,4 +1,38 @@
 [[places]]
+name = "La Jolla Cove"
+date = 2024-10-20
+desc = """
+Sitting right besides the great Pacific ocean.
+This was a very touristy spot, not only for humans.
+Plenty of sea lions and seals chilling on the rocks.
+Flocks of seagulls swerving in and out.
+I spent the rest of the day reading on the beach, while the sun slowly set and the tide pools filled up
+with the water left behind by the retreating ocean.
+Richard Powers's *Playground* took two characters on a trip to the Scripps institution of oceanography,
+only a few kilometers from where I had my bare feet in the sand, and then even to La Jolla itself.
+I loved smelling the same air, wading through the same water, and seeing similar small ocean life.
+It felt like I was part of the book.
+"""
+lat = 32.850972
+lon = -117.273467
+sound = "/assets/audio/2024-10-20-la-jolla-cove.m4a"
+
+[[places]]
+name = "Cucina 35"
+date = 2024-10-20
+desc = """
+I was in San Diego the week before for a conference and decided to stay another weekend to explore more of the city.
+On the Sunday, I walked over from my hotel in downtown to this traditional Mexican breakfast restaurant.
+They serve chilaquiles; basically tortillas simmered in salsa.
+I had them with mushrooms, refried beans, and a small tamale on the side.
+The restaurant was filled with joyful families and from time to time the staff all came out
+making as much noise as they could, rattling and whooping, to celebrate a table.
+"""
+lat = 32.720431
+lon = -117.159175
+sound = "/assets/audio/2024-10-20-cocina-35.m4a"
+
+[[places]]
 name = "Sunday morning after a festival on Vlieland"
 date = 2024-09-01
 desc = """
