@@ -686,6 +686,14 @@ sup + p {
 }
 
 /* ==========
+    Place sounds
+========== */
+
+#map {
+    margin-top: 1em;
+}
+
+/* ==========
     Quick dark-mode
 ========== */
 /* 
