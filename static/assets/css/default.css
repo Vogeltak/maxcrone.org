@@ -462,7 +462,7 @@ sup + p {
     .book-grid .writer, .book-grid .finished {
         font-size: 0.9rem;
         margin: 0;
-        opacity: 0.5;
+        opacity: 0.7;
     }
 
 @media only screen and (min-width: 560px) {
@@ -725,12 +725,12 @@ with white on white for dark mode. Not good.
 
     a {
         background: none;
-        color: #dca8f9;
+        color: #b2f9a8;
     }
 
     a:hover {
         background: none;
-        color: #a377ba;
+        color: #8ec786;
         text-decoration-style: dotted;
     }
 
