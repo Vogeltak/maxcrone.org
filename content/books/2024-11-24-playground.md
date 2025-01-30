@@ -23,7 +23,7 @@ I think I remember reading that he used to work in Silicon Valley before he move
 But Richard is also very skilled in building up human connection.
 The story between Rafi Young and Todd Keane felt very real; it had the layers of complexity to justify the emotions the book wanted me to experience.
 
-When I read [The Overstory](/books/the-overstory), I wrote that its natural ending was around two-thirds of the book.
+When I read [The Overstory](/books/overstory), I wrote that its natural ending was around two-thirds of the book.
 But with *Playground*, the story is more confident about itself.
 It still weaves many, only slightly related, plots together.
 But it does it more eloquently.
