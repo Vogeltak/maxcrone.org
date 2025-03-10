@@ -5,7 +5,11 @@
             Max Crone
         </a>
     </span>
-    <a class="menu-button" href="/menu">Menu</a>
+    {% if current_path and current_path == "/menu/" %}
+        <a class="menu-button" href="/" onclick='return document.referrer?history.back():window.location.href="/",!1'>Close</a>
+    {% else %}
+        <a class="menu-button" href="/menu">Menu</a>
+    {% endif %}
     <span class="menu">
     {% for item in config.extra.navigation %}
         <a {% if current_path %}{% if current_path == item.path ~ "/" or current_path is starting_with(item.path) %}class="current"{% endif %}{% endif %} href="{{ item.path }}">

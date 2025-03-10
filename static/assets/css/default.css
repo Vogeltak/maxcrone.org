@@ -236,7 +236,6 @@ sup + p {
     Menu page
 ========== */
 .menu-page {
-    align-items: flex-end;
     display: flex;
     flex-direction: column;
     margin-top: 32px;
@@ -246,8 +245,12 @@ sup + p {
         background: none;
         color: black;
         font-size: 1.25rem;
-        margin: 8px 0;
-        text-decoration: underline;
+        padding: 8px 0;
+        text-decoration: none;
+    }
+
+    .menu-page a:not(:last-child) {
+        border-bottom: 1px solid rgba(0,0,0,0.2);
     }
 
     .menu-page .design {
@@ -757,6 +760,10 @@ with white on white for dark mode. Not good.
 
     .menu-page a {
         color: #f0f0f0;
+    }
+
+    .menu-page a:not(:last-child) {
+        border-bottom: 1px solid rgba(255,255,255,0.2);
     }
 
     footer {
