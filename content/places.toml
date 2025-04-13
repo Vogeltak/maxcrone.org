@@ -1,4 +1,117 @@
 [[places]]
+name = "The city garden"
+date = 2025-03-27
+desc = """
+I was attending Real World Crypto in the city (amazing conference with many smart people).
+And this park happened to become our anchor point around which several activities revolved.
+Just after arriving I sat down here for a while on my quick photo walk.
+At the end of the first day we gathered in this park with a small group of cryptographers to discuss
+ways in which we are able to help our communities in these times.
+And later in the week we walked through here a few more times.
+After the conference ended, I came here again to decompress a bit.
+Locals flocked to the many benches to catch up with friends or colleagues.
+Or to just relax in the comfortably warm spring air.
+"""
+lat = 42.694694
+lon = 23.325521
+sound = "/assets/audio/2025-03-27-sofia-city-garden.mp3"
+
+[[places]]
+name = "Ya Kun Kaya Toast"
+date = 2025-02-18
+desc = """
+I had to start my twenty-four hour layover in Singapore with kaya toast.
+So I walked to a branch of Ya Kun, already drenched in sweat by the time I got there.
+The black coffee, soft boiled eggs, and toast with sweet butter.
+Sweltering morning heat and the clatter of plates and retirees catching up with friends.
+It promised to be an adventurous day.
+"""
+lat = 1.3003193
+lon = 103.8520479
+sound = "/assets/audio/2025-02-18-ya-kun-kaya-toast.m4a"
+
+[[places]]
+name = "Amoy street food center"
+date = 2025-02-18
+desc = """
+Street food stalls in Singapore have been centralized into big hawker centers.
+The much more famous one that appears in most annals of tourism is the Maxwell food centre not too far from here.
+I went there first, but it was a weird mix of half tourists and half locals (as far as I am able to tell).
+So I continued walking and ran into this one.
+Two stories high, full of hawker stalls.
+And there it was almost exclusively local office workers on their lunch breaks with colleagues.
+Definitely something else than the sad state of office lunch options in the Netherlands.
+(Payment options are either cash or one of the 20+ QR codes for different payment apps that I saw plastered onto some stalls.)
+"""
+lat = 1.279400
+lon = 103.846790
+sound = "/assets/audio/2025-02-18-amoy-street-food-center.m4a"
+
+[[places]]
+name = "Milford Sound"
+date = 2025-02-12
+desc = """
+The obligatory cruise through Milford Sound.
+This place is purely tourism, but the natural landscape is still stunning.
+The drive there was also beautiful, in its early morning light.
+It apparently hadn't rained for more than six weeks, which is highly unusual for Milford Sound.
+But it meant that our boat ride was luxuriously sunny.
+"""
+lat = -44.63877
+lon = 167.88161
+sound = "/assets/audio/2025-02-12-milford-sound.m4a"
+
+[[places]]
+name = "Waipohatu waterfall track"
+date = 2025-02-11
+desc = """
+This is a track through some of the rare old-growth bush (this side of New Zealand is mostly one big pasture now).
+I'd camped at the start of the trail, and when I woke up in the morning I was the only one there.
+Quick wash in a stream, some sandwiches with peanut butter, camera in the bag and go.
+The two waterfalls are roughly halfway along the trail.
+Both immensely beautiful and powerful, in the middle of the dense bush.
+Have never felt more like an explorer than I felt that morning.
+"""
+lat = -46.602938
+lon = 169.019543
+sound = "/assets/audio/2025-02-11-waipohatu.m4a"
+
+[[places]]
+name = "Aramoana beach"
+date = 2025-02-09
+desc = """
+To get to this remote beach I had to drive along a winding road hugging the mountains on one side
+and the water from the bay glistering on the other side (the sun was already setting).
+It appeared to mostly be a surfers beach.
+The only non-surfer there, was a man with his family, who was carrying fishing cages into the ocean
+and reeling them back in a few minutes later, all the while being soaked through.
+I walked all the way along the beach until large boulders prevented me from continuing.
+There I heard small streams of water rushing down the mountainside, almost as if the stone was weeping.
+I spent the remainder of the evening listening to the sea lions and feeling the ocean breeze on my face.
+I camped in my van right besides the beach.
+"""
+lat = -45.766402
+lon = 170.696374
+sound = "/assets/audio/2025-02-09-aramoana-beach.m4a"
+
+[[places]]
+name = "Stephan McLaughlan"
+date = 2025-02-03
+desc = """
+I got lost in the huge but hidden Nicholas building in the middle of Melbourne (look it up on Atlas Obscura).
+Every floor was a square circle with old doors behind which should be a multitude of different small businesses and workshops and parlors and clubs.
+But I had come at the wrong time of the week.
+All the way at the top, I found one door was open.
+It led a small art exhibition with a handful of paintings from three different artists.
+Stephan McLaughlin has been running that exhibition space for longer than I'm alive.
+And he has stories to tell.
+So I just listened while he told, and we gazed through the windows overlooking the city.
+"""
+lat = -37.816877
+lon = 144.966849
+sound = "/assets/audio/2025-02-03-stephen-mclaughlan.m4a"
+
+[[places]]
 name = "La Jolla Cove"
 date = 2024-10-20
 desc = """
