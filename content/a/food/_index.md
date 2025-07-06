@@ -2,7 +2,7 @@
 title = "Food"
 description = """
 Selecting the most satisfying, mouthwatering, and Ghibli-esque food pictures. \
-Everything is made by ourselves. \
+Everything is self-made. \
 """
 template = "album.html"
 sort_by = "date"
