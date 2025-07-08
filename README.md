@@ -31,6 +31,7 @@ Most of my writing is done in Markdown files that I edit in [Helix](https://heli
 - [ ] Add a section with TIL's (Today I Learned)
 - [ ] Start a solarpunk series (photography and cuisine!)
 - [ ] Increase the data-availability for all food pages
+- [ ] Add a colophon
 
 ## License
 
