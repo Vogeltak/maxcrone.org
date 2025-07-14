@@ -24,4 +24,4 @@ Nostalgia remains a deeply human emotion and Gabrielle knows how to wield it.
 
 It's also interesting how immensely popular this book is (most popular book in NYC libraries in 2024) considering its "niche".
 Might be because the human story is, above all, very strong.
-And it's just fascinating to read about people that are incredibly passioned about something (making games).
+And it's just fascinating to read about people that are incredibly passionate about something (making games).

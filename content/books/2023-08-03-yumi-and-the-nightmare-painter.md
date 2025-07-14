@@ -23,4 +23,4 @@ But I have come to slightly detest the snarky narrative voice of Hoid that we al
 If this is a promise for the ultimate Dragonsteel story, I'd be disappointed.
 
 I laughed out loud in some sections, but nothing else sparked much inspiration with me.
-The junkfood of fantasy?
+The junk food of fantasy?

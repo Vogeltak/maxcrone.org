@@ -17,7 +17,7 @@ Though I haven't read it yet, I have read some of its critiques (e.g., from [The
 And I saw how some paragraphs from Yanis clearly came from GGS, including parts on the *why* of European countries conquering native societies around the world.
 Diamond writes as if European colonizers had some form of pre-determinism on their side; microbes and germs that natives were not resistant against.
 This underplays the infinitely more subtle—and human—reality of history.
-Europeans benefitted significantly more from alliances with native groups, for example.
+Europeans benefited significantly more from alliances with native groups, for example.
 Ultimately, European imperialism stems more from political decisions than from pre-determinism, and its crimes are not absolved by the mere fact that Europeans "had the means" for global imperialism.
 
 Yanis's writing also tied very nicely into my developing understanding of economies' complexities, as I've been reading *Democratizing Finance* by Fred Block and Robert Hockett. The latter is admittedly much more technical (though not on the level of actual scientific work in this field), but I found both to be revelatory with respect to the same subjects and ideas.

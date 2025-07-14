@@ -29,7 +29,7 @@ Aaron gives us two questions:
 1. Should banks be economized?
 2. Should money creation be democratized?
 
-For (1), Aaron mentions sovereign money reform as a way to break the association between purcharsing power and debt.
+For (1), Aaron mentions sovereign money reform as a way to break the association between purchasing power and debt.
 The economy relies on a constant supply of debt and thus will continue to be needed.
 With sovereign money reform, there would be no more credit only loans.
 Debts serve the function of distributing purchasing power.
@@ -37,7 +37,7 @@ Debts serve the function of distributing purchasing power.
 For (2), Aaron imagines a central bank committee would decide how much purchasing power needs to be added to the economy and then parliament can spend this money.
 This breaks the asset inflation loop, because governments can ensure the fresh money isn't used in first instance to purchase assets.
 And it allows the governments' budget to be funded with fresh money instead of taxes, thus lowering burdens on citizens.
-But this trust in a small committee as authority is precarious.o
+But this trust in a small committee as authority is precarious.
 Maybe governments should be able to fund its spending with credit it produces itself.
 But there are many historical precedents of this going awry.
 Then again, the risk of misuse is equally valid when private banks hold this privilege.

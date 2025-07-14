@@ -21,7 +21,7 @@ A good and engaging short story about food and cooking?! Don't see this type of 
 
 ### The Effluent Engine
 
-The story telling mechanics are laid out very cleary in this story, but that doesn't bother me because they certainly deliver. Nice and adventurous tale with many sides.
+The story telling mechanics are laid out very clearly in this story, but that doesn't bother me because they certainly deliver. Nice and adventurous tale with many sides.
 
 ### The Trojan Girl
 
@@ -53,7 +53,7 @@ Did not finish this one; failed to capture my attention in the beginning. I was 
 
 ### On the Banks of the River Lex
 
-I am not sure if I understood this story properly. It presents a nicely weird perspective on an apocalyps, but I did not find it very engaging.
+I am not sure if I understood this story properly. It presents a nicely weird perspective on an apocalypse, but I did not find it very engaging.
 
 ### The Narcomancer
 

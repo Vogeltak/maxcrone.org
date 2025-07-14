@@ -57,7 +57,7 @@ Chapter 80 is titled *Freedom*. It is a touching little gem of worldbuilding, wi
 > People who know aren't learned,\
 > learned people don't know.
 >
-> Wise soulds don't hoard;\
+> Wise souls don't hoard;\
 > the more they do for others the more they have,\
 > the more they give the richer they are.\
 > The Way of heaven profits without destroying.\

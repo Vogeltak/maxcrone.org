@@ -93,5 +93,5 @@ Only then can we as the masses hope to achieve radical reforms.
 > It's clear that in this village, there are no hungry capitalists yet, no price stickers and scales.
 > Finally, he says, "Is RMB 10 (US$1.40) a fair price? Can you pay me via WeChat?"
 
-> A movement coalesced around Peppa Pig, crystalizing a careless nihilism and rejection of mainstream values.
+> A movement coalesced around Peppa Pig, crystallizing a careless nihilism and rejection of mainstream values.
 > Like in so many other countries, consumption has become the sacred value of daily life in China.

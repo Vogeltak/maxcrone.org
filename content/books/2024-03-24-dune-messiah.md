@@ -7,7 +7,7 @@ authors = [ "Max Crone",]
 rating = 4
 writer = "Frank Herbert"
 +++
-It's frustrating but at the same time inspiring for its willfull dismantling of the hero's journey.
+It's frustrating but at the same time inspiring for its willful dismantling of the hero's journey.
 <!-- more -->
 Don't have that much more to add, frankly.
 I enjoyed the worldbuilding, the philosophizing, the dialogues that read more like something from a holy script than actual dialogues that could be had.

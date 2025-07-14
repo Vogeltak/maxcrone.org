@@ -29,7 +29,7 @@ Furthermore, the book spells out two frameworks that are very helpful in our thi
 
 First, there are the three principles of domination.
 
-1. Sovereignity
+1. Sovereignty
 2. Bureaucracy
 3. Charismatic politics
 
@@ -50,7 +50,7 @@ Let's see some examples.
 
 - In which we show how new discoveries concerning ancient hunter-gatherers in North America and Japan are turning social evolution on its head
 - In which we lay out a theory concerning the three elementary forms of domination, and begin to explore its implications for human history
-- In which we go in search of the real origins of bureaucracy, and find them on what apears to be a surprisingly small scale
+- In which we go in search of the real origins of bureaucracy, and find them on what appears to be a surprisingly small scale
 - How the Osage came to embody the principle of self-constitution, later to be celebrated in Montesquieu's *The spirit of the laws*
 
 ## A quick overview of the book's reception in other media
@@ -93,7 +93,7 @@ The Davids mention that "*Even the most autocratic rulers of later city-states w
 Such forms of organization can be set up in many different ways.
 For example, councils can consist of rotating members sampled from a larger populace.
 Or, there is a very large public assembly space for oratory direct democracy, where anyone who attends can participate.
-Abstrating over these, it was often the case that a particularly sized council/assembly represented a larger population.
+Abstracting over these, it was often the case that a particularly sized council/assembly represented a larger population.
 Note that the roles of council members were often in the spirit of self-deprecation; a type of shame for positioning oneself in power.
 This arguably makes for a more egalitarian relationship between people and their representatives.
 
@@ -139,7 +139,7 @@ The anonymous writer asks whether there exists a hypothesis such that
 2. that said condition naturally leads to the cultural experimentation of the Neolithic
 
 I'm not convinced that the second point is actually something the hypothesis needs to accommodate.
-It smells like a fallacy of determinism to say that the Neolithic *must* have happend when it happend.
+It smells like a fallacy of determinism to say that the Neolithic *must* have happened when it happened.
 Anyway, there sure must have been something going on during all those years.
 
 The writer of the review introduces us to the *Gossip Trap*.
@@ -204,7 +204,7 @@ I might come back later to write down more thoughts.
 
 > Putting aside the (by now irrelevant) notion that there ever was such a thing as ‘simple, ordinary foragers’,
 
-> Foragers are populations which don’t rely on biologically domesticated plants and animals as their primary sources of food. Therefore, if it becomes apparent that a good number of them have in fact possessed complex systems of land tenure, or worshipped kings, or practised slavery, this altered picture of their activities doesn’t somehow magically turn them into ‘proto-farmers’.
+> Foragers are populations which don’t rely on biologically domesticated plants and animals as their primary sources of food. Therefore, if it becomes apparent that a good number of them have in fact possessed complex systems of land tenure, or worshiped kings, or practised slavery, this altered picture of their activities doesn’t somehow magically turn them into ‘proto-farmers’.
 
 > Those who today describe people like the Calusa as ‘atypical’ because they had such a prosperous resource base want us to believe, instead, that ancient foragers chose to avoid locations of this kind, shunning the rivers and coasts (which also offered natural arteries for movement and communication), because they were so keen to oblige later researchers by resembling twentieth-century hunter-gatherers (the sort for which detailed scientific data is available today). 
 
@@ -329,7 +329,7 @@ I might come back later to write down more thoughts.
 
 > Burials of kings surrounded by dozens, hundreds, on some occasions even thousands of human victims killed specially for the occasion can be found in almost every part of the world where monarchies did eventually establish themselves, from the early dynastic city-state of Ur in Mesopotamia to the Kerma polity in Nubia to Shang China. There are also credible literary descriptions from Korea, Tibet, Japan and the Russian steppes. Something similar seems to have occurred as well in the Moche and Wari societies of South America, and the Mississippian city of Cahokia.
 
-> with the extension of Inca sovereignty in Peru. Here, too, we find a contrast between the traditional, varied and flexible regime of everyday foodstuffs – in this case centring on cuisine made from freeze-dried potatoes (chuño) – and the introduction of a completely different sort of food, in this case, maize beer (chicha), which was considered fit for the gods and also gradually became, as it were, the food of empire.
+> with the extension of Inca sovereignty in Peru. Here, too, we find a contrast between the traditional, varied and flexible regime of everyday foodstuffs – in this case centering on cuisine made from freeze-dried potatoes (chuño) – and the introduction of a completely different sort of food, in this case, maize beer (chicha), which was considered fit for the gods and also gradually became, as it were, the food of empire.
 
 > To be a Classic Maya ruler (ajaw) was to be a hunter and god-impersonator of the first rank, a warrior whose body, on entering battle or during dance rituals, became host to the spirit of an ancestral hero, deity or dreamlike monsters.
 

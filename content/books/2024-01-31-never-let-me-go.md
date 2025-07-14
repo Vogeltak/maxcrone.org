@@ -17,7 +17,7 @@ The life of growing up amongst peers, being guided, taught, and scolded by guard
 Losing yourself in expressing your budding feelings and sense of self.
 This is arguably no longer anything that our own schools in our own world strive for.
 Though I'd like to think that it still functions similarly for many.
-Probably more thanks to the intensely human instincts and motivations of our teachter, and despite our bureaucracy.
+Probably more thanks to the intensely human instincts and motivations of our teacher, and despite our bureaucracy.
 
 The ending moved me strongly, because Kazuo lets us feel the journey of everything that once was and that we held dearly, as it retreats to the brittle medium of our own memories. 
 It pained me to read about Kathy juggling memories of Tommy, Ruth, and Hailsham in order to keep them alive and to hold on to some semblance of continuity and meaning in her own life.

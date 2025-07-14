@@ -90,8 +90,8 @@ From *The family*
 
 > [...] nothing causes so much worry in a child's mind as lack of certainty and self-confidence on the part of an adult.
 
-> [...] the mother, if she is not unusally saintly, will expect from her child compensations exceeding those she has a right to expect.
-> The mother who is conventionally called self-sacrificing is, in a great majority of caess, exceptionally selfish towards her children, for important as parenthood is as an element of life, it is not satisfying if it is treated as the whole of life, and the unsatisfied parent is likely to be an emotionally grasping parent.
+> [...] the mother, if she is not unusually saintly, will expect from her child compensations exceeding those she has a right to expect.
+> The mother who is conventionally called self-sacrificing is, in a great majority of cases, exceptionally selfish towards her children, for important as parenthood is as an element of life, it is not satisfying if it is treated as the whole of life, and the unsatisfied parent is likely to be an emotionally grasping parent.
 
 From *Work*
 

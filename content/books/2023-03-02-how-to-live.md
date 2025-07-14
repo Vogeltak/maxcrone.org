@@ -22,7 +22,7 @@ Be the change that you'd want to see in this world.
 
 ---
 
-How I want to go about this review for its remainder, is to first list all twenty-sevenchapter headings and then write down some of the paragraphs I marked.
+How I want to go about this review for its remainder, is to first list all twenty-seven chapter headings and then write down some of the paragraphs I marked.
 
 ### 1. Be independent
 ### 2. Commit

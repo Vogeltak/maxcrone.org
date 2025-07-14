@@ -27,9 +27,9 @@ Throughout his account, Victor weaves a backbone of three psychological phases o
 
 Just some notes from the second part of the book, where Victor introduces his field of logotherapy and discusses the question of the meaning of life.
 
-You can take away everything, but a man will always be able to choose his attidue. This inner choice or achievement is a spiritual freedom that makes life meaningful and purposeful.
+You can take away everything, but a man will always be able to choose his attitude. This inner choice or achievement is a spiritual freedom that makes life meaningful and purposeful.
 
-Victor quotes the same phrase by Nietzsche on multiple occassions throughout the book:
+Victor quotes the same phrase by Nietzsche on multiple occasions throughout the book:
 
 > He who has a **why** to live for, can bear with almost any **how**.
 

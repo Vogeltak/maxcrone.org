@@ -12,7 +12,7 @@ An amazing exercise in developing wordly intuition based on realism.
 Vaclav Smil wields numbers to paint a very interesting picture to help us understand how the world as we know it is able to keep on running like it is doing.
 I found this exercise very insightful.
 Maybe the most ground-shaking idea that I gained from this book, was the sense of how dependent the world still is on fossil fuels.
-There are so many processes behind the functioning of our world, that are nearly impossible or at least very diffcult to transition to sustainable forms of energy.
+There are so many processes behind the functioning of our world, that are nearly impossible or at least very difficult to transition to sustainable forms of energy.
 Erecting wind turbines and keeping them running inherently uses fossil fuels, for example.
 Planes, container ships, plastics, steel; staples of our society, are all virtually infeasible without fossil fuels.
 At times it is depressing to realize how difficult of a task it is to guide humanity to a sustainable balance with the planet.

@@ -19,6 +19,6 @@ They write as if they are just recounting some elaborate table top roleplaying g
 Sure, it might be a more *realistic* course of action, where one never knows which turns life will take.
 And then you can end up in the most bizarre situations, even weirder than one could possibly conjure up from imagination.
 But I can't help but feel that the "realistic" narrative does not always work as well for emotional beats in a fictional plot.
-I think this book especially would have benefitted from a tighter plot.
+I think this book especially would have benefited from a tighter plot.
 
 As it is now, I do not feel compelled to continue reading this series, and I will be moving on to other books.

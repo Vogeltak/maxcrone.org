@@ -25,7 +25,7 @@ This is what prototypical science fiction should be.
 Stories that let you understand our scientific progress from a completely novel perspective.
 Recontextualizing our understanding of the world.
 
-In this case, it's a story-within-a-story about an alien civilization made up of electrically evolved lifefroms that lived in a "bubble world".
+In this case, it's a story-within-a-story about an alien civilization made up of electrically evolved lifeforms that lived in a "bubble world".
 Slowly, they start to discover that there's rock around them, measuring its density and piercing together the concept of gravity.
 They ultimately tunnel into the bottom of the ocean during their exploration, forcing them to learn about water (liquid) and vapor.
 Made me really appreciate what our own scientists must have worked through over the course of scientific history.
@@ -35,15 +35,15 @@ Thoughtful comparisons to redshift measuring and our own expanding universe/*bub
 Truly beautiful "from scratch" life path.
 Gives you a hint of what it must feel like if the world and opportunities around you are rapidly changing, and you manage to sail the prosperous winds.
 
-Shui Wah goes from shoe polisher to highrise window cleaner (i.e., spiderman) to *mirror farmer* on the artificial China Sun, kicking off the industrialization of space.
-And ultimately he bocomes the pilot of the first interstellar space ship.
+Shui Wah goes from shoe polisher to high rise window cleaner (i.e., spiderman) to *mirror farmer* on the artificial China Sun, kicking off the industrialization of space.
+And ultimately he becomes the pilot of the first interstellar space ship.
 He's grown to appreciate the empty but reflective life in space and feels this duty to humanity to kick off interstellar space exploration, inspired by his mirror walk with Stephen Hawking.
 
 ## For the benefit of mankind
 A long and personalized set up for what in the end mostly climaxes as a monologue illustrating the danger of late-stage capitalism.
 But truly late-stage capitalism.
 As in, a single individual owns ninety-nine percent of everything on a planet, including its atmosphere.
-Makes it into a cheap villan again, but alas.
+Makes it into a cheap villain again, but alas.
 There are interesting ideas written out explicitly here.
 Such as the way that barriers to education can create two substrates of the human species, that operate differently and enjoy different culture.
 What if automation makes eighty-plus percent of workers truly redundant?
@@ -82,7 +82,7 @@ An advanced civilization with a different perspective on time, who seeded six di
 Fascinating to think about the lifespan of civilizations.
 At what stage would we be?
 And how would our collapse even go?
-A small nugget of long term vision on life with sufficiently advanced and intelligent technology: over the course of millenia, humans will unlearn all the skills to repair or create this technology.
+A small nugget of long term vision on life with sufficiently advanced and intelligent technology: over the course of millennia, humans will unlearn all the skills to repair or create this technology.
 
 ## With her eyes
 Beautiful story about "space travel" through the earth's mantles.

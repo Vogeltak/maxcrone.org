@@ -27,7 +27,7 @@ It contains elements that I somehow expect to be there, with respect to glimpses
 - Dreary jobs and gray, soulless neighborhoods in mega-cities
 - Late night gaming addictions
 
-Why do I have these expections?
+Why do I have these expectations?
 Is it partly Western media propaganda?
 Truly, yes, I guess.
 Because Te-Ping works as a journalist/correspondent in China for the Western media.
@@ -66,7 +66,7 @@ Is this Te-Ping's interpretation?
 
 ## Flying machine
 A tender portrait of a simple man who has an innocent drive to prove himself and gain the respect of his neighbors in the village.
-There is misplaced adoration of authority; not really competenent inventions; but all of it is described as being seen as special by the villagers.
+There is misplaced adoration of authority; not really competent inventions; but all of it is described as being seen as special by the villagers.
 
 Being outstanding is a game of relativity.
 
@@ -102,7 +102,7 @@ Think back to what a friend said about his time in Shanghai: that he wouldn't re
 ## Beautiful country
 Tender resignation in a relationship.
 Is it enough to be together with a kind-hearted person?
-It feels like a very real and practical perspective on life; not encouring others or yourself to strive to some fairytale version of reality (because chances are that you won't ever attain such a life anyway).
+It feels like a very real and practical perspective on life; not encouraging others or yourself to strive to some fairytale version of reality (because chances are that you won't ever attain such a life anyway).
 But instead, having healthy acceptance towards the things you cannot change anyway.
 Very Tao-like.
 

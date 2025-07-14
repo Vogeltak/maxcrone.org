@@ -13,7 +13,7 @@ One of Ursula's most powerful themes remains the fight against slavery and patri
 Or to be more precise, how the abolishment of slavery often causes women to be forced into the work that might have previously been done by enslaved people.
 Or how a formal ban on slavery doesn't end the suffering.
 Ursula explores the myriad of ways that the injustices can continue.
-And by exposing them so plainly, though on fictional worlds, criticizes our supposedely equal society.
+And by exposing them so plainly, though on fictional worlds, criticizes our supposedly equal society.
 
 These are themes throughout Ursula's work, but in the four stories on Werel and Yeowe they are particularly immediate and pungent.
 The first page of my edition has a few endorsements, with this one from Newsweek arguably capturing Ursula well:
@@ -36,7 +36,7 @@ The story of forgiveness isn't possible without having made mistakes in the past
 The cold, the simple house, and life; all are told so beautifully!
 
 ## Forgiveness day
-Solly, the privileged, space-faring Ekumen emissiary, is posted with a society that is on its best behavior while trialing admittance to the intergalactic organization.
+Solly, the privileged, space-faring Ekumen emissary, is posted with a society that is on its best behavior while trialing admittance to the intergalactic organization.
 But this society remains strangely separated between men and women, and owners and assets.
 
 > So the officials and courtiers and businessmen she talked to on the business of the Ekumen did the best they could: they treated her as if she were a man.
@@ -87,7 +87,7 @@ And then to women-led revolutions; understudied and underappreciated.
 > But I came back to the first one.
 > I liked the people there.
 
-> Ignorance defends itself savegely, and illiteracy, as I well know, can be shrewd.
+> Ignorance defends itself savagely, and illiteracy, as I well know, can be shrewd.
 
 > "Literacy is irrelevant," one of our group said sorrowfully.
 > "The chiefs have jumped right over our heads into the postliterate information technology."

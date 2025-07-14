@@ -38,7 +38,7 @@ Mostly just one single conversation or dialogue, in a single setting.
 This is an exceptionally good short story.
 
 ## Speech sounds
-Some riff on post-apolacyptic dystopia and zombie stories.
+Some riff on post-apocalyptic dystopia and zombie stories.
 But instead, we are dealing with a disease that inhibits speech and writing.
 It has the effect of dumbing down humans back to a level where we've arguably lost precisely that which makes us human.
 Though the infliction comes at different levels of severity.
@@ -83,7 +83,7 @@ This makes for a brilliantly clever way to show the tension between everyone on 
 Lifeforms that surprisingly enjoy the implicatively orgasmic sensation of enfolding humans.
 
 ## The book of Martha
-A new book for the bible, but thoughtfullly modern and self-conscious.
+A new book for the bible, but thoughtfully modern and self-conscious.
 
 Martha (clearly Octavia herself) is summoned by God, who tasks her to change something about humanity in order to make them less self-destructive.
 God seems to take great pleasure in the uncertainty this creates, while Martha struggles with the responsibility of it.

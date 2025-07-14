@@ -37,7 +37,7 @@ A small story about the teach of the teacher of Ged.
 
 Wizards seem awfully inept at communication.
 Why are they making themselves into hermits?
-Or, why are Ursula's wizrds like this?
+Or, why are Ursula's wizards like this?
 There must be more lively wizards in operation as well.
 For now, this partly feels like a product of its time; the more formal air that authority was expected to present.
 
@@ -45,7 +45,7 @@ For now, this partly feels like a product of its time; the more formal air that 
 > [...] the lay of the land on Semel, and the mountain whose name is Andanden.
 
 Managed to touch me pretty hard in the end.
-We follow Irioth, a confused but cleary very powerful wizard, while he takes up the work of healing cattle.
+We follow Irioth, a confused but clearly very powerful wizard, while he takes up the work of healing cattle.
 The villagers exploit him all, except for Gift (Emer), who is truly kind-hearted woman and widow.
 At the end, Ged visits in his capacity as archmage of Roke, and tells the story that turns Irioth's character completely upside-down.
 But the way we've been seeing him throughout this story, gives us the character progression to make it into a fulfilling treat.
@@ -55,7 +55,7 @@ Painfully stubborn patriarchy on Roke, with its nine mages and the whole student
 
 All the better that Irian "Dragonfly", our silent, direct, and innocent daughter of a fallen lord of the island of Way, turns out to possess a power none of those mages knows.
 She is a dragon.
-And all of Roke is inadequately knowledgable to teach her, so she travels instead to the land of the dragons.
+And all of Roke is inadequately knowledgeable to teach her, so she travels instead to the land of the dragons.
 
 ## A description of Earthsea
 The end of the book contains Ursula's attempt at consistent worldbuilding.
