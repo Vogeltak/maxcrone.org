@@ -2,6 +2,11 @@
     Global styling
 ========== */
 
+:root {
+    --primary-color: black;
+    --secondary-color: #4e4e4e;
+}
+
 body {
     align-items: center;
     background: #ffffff;
@@ -239,19 +244,35 @@ sup + p {
 .menu-page {
     display: flex;
     flex-direction: column;
+    line-height: 1.2;
     margin-top: 32px;
 }
 
     .menu-page a {
-        background: none;
+        background: #f2f2f2;
         color: black;
-        font-size: 1.25rem;
-        padding: 8px 0;
+        padding: 8px 12px;
         text-decoration: none;
     }
 
+    .menu-page a:hover, .menu-page a:active {
+        background: #ebebeb;
+    }
+
     .menu-page a:not(:last-child) {
-        border-bottom: 1px solid rgba(0,0,0,0.2);
+        margin-bottom: 2px;
+    }
+
+    .menu-page a:first-child {
+        border-radius: 12px 12px 0 0;
+    }
+
+    .menu-page a:last-child {
+        border-radius: 0 0 12px 12px;
+    }
+
+    .menu-page a small {
+        color: var(--secondary-color);
     }
 
     .menu-page .design {

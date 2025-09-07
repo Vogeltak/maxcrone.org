@@ -4,7 +4,8 @@
 <section class="menu-page">
 {% for item in config.extra.navigation %}
     <a href="{{ item.path}}">
-        {{ item.name }}
+        <div>{{ item.name }}</div>
+        <div><small>{{ item.desc }}</small></div>
     </a>
 {% endfor %}
 </section>

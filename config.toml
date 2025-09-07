@@ -21,10 +21,10 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 navigation = [
-  {name = "About", path = "/about"},
-  {name = "Research", path = "/research"},
-  {name = "Reading", path = "/books"},
-  {name = "Writing", path = "/writing"},
-  {name = "Cooking", path = "/food"},
-  {name = "Photos", path = "/photos"},
+  {name = "About", desc = "Resume and interests", path = "/about"},
+  {name = "Research", desc = "Thesis, networking, security", path = "/research"},
+  {name = "Reading", desc = "Book reviews", path = "/books"},
+  {name = "Writing", desc = "Essays and fiction", path = "/writing"},
+  {name = "Cooking", desc = "Earth's cuisines", path = "/food"},
+  {name = "Photos", desc = "People, street, and more", path = "/photos"},
 ]
