@@ -213,6 +213,8 @@ sup + p {
     nav {
         justify-content: space-between;
         flex-direction: row;
+        /* make it narrower on mobile to maximize vertical space */
+        padding: 2px 16px;
     }
 
     nav .menu-button {

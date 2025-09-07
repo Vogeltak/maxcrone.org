@@ -27,8 +27,6 @@ Let's start from ten top-level regions.
 - [South Asia](#south-asia) <span class="fraction">1/8</span>
 - [Southeast Asia](#southeast-asia) <span class="fraction">1/11</span>
 
-A very interesting source of consistent investigations into cuisines around the world is the [Food in Every Country](http://www.foodbycountry.com/) website.
-
 ## Africa
 
 African cuisines are further categorized by cardinal directions.
