@@ -5,12 +5,14 @@
 :root {
     --primary-color: black;
     --secondary-color: #4e4e4e;
+    --bg-color: white;
+    --bg-color-secondary: #f2f2f2;
 }
 
 body {
     align-items: center;
-    background: #ffffff;
-    color: black;
+    background: var(--bg-color);
+    color: var(--primary-color);
     display: flex;
     flex-direction: column;
     font-family: Helvetica, Arial, sans-serif;
@@ -99,7 +101,7 @@ nav {
 
     nav a:active, nav a:hover {
         color: #000;
-    	text-decoration: none;
+        text-decoration: none;
     }
 
     nav > span {
@@ -372,10 +374,10 @@ sup + p {
     }
 
 .post-footer {
-    background: #f0f0f0;
-    border-radius: 4px;
-    color: #333;
-    padding: 1rem;
+    background: var(--bg-color-secondary);
+    border-radius: 12px;
+    color: var(--secondary-color);
+    padding: 1px 1em;
 }
 
 .post-copyright {
@@ -750,9 +752,12 @@ with white on white for dark mode. Not good.
 }
 */
 @media (prefers-color-scheme: dark) {
-    body {
-        background: #0a140b;
-        color: #f0f0f0;
+    :root {
+        --primary-color: #f0f0f0;
+        --secondary-color: #abaeac;
+        --bg-color: #0a140b;
+        --bg-color-secondary: #222b23;
+        --bg-color-secondary-hover: #3a423b;
     }
 
     a {
@@ -779,7 +784,7 @@ with white on white for dark mode. Not good.
     }
 
     nav .menu .current {
-        background: #ffffff30;
+        background: var(--bg-color-secondary);
         color: #f0f0f0;
     }
 
@@ -788,11 +793,12 @@ with white on white for dark mode. Not good.
     }
 
     .menu-page a {
+        background: var(--bg-color-secondary);
         color: #f0f0f0;
     }
 
-    .menu-page a:not(:last-child) {
-        border-bottom: 1px solid rgba(255,255,255,0.2);
+    .menu-page a:hover, .menu-page a:active {
+        background: var(--bg-color-secondary-hover);
     }
 
     footer {
@@ -812,11 +818,11 @@ with white on white for dark mode. Not good.
     }
 
     .fraction, .pill {
-        background-color: dimgray;
+        background-color: var(--bg-color-secondary);
     }
 
     .exif-data {
-        background: #ffffff20;
+        background: var(--bg-color-secondary);
     }
 
     .album-stack img {
