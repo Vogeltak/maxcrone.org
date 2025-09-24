@@ -146,6 +146,11 @@ header {
         font-size: 18px;
     }
 
+    #hero-image {
+        aspect-ratio: 3 / 2;
+        height: auto;
+    }
+
 section {
     margin: auto;
     max-width: 640px;

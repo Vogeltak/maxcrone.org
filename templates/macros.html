@@ -1,3 +1,4 @@
+<!-- TODO: optimize for screen DPI using srcset -->
 {% macro image(name, size="1280", caption="", loading="eager") %}
     <picture>
         <source srcset="https://f003.backblazeb2.com/file/maxcrone-org/img/{{ name }}_{% if size %}{{ size }}{% else %}1280{% endif %}.avif" type="image/avif">

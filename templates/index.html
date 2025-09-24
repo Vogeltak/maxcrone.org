@@ -11,7 +11,12 @@
 
 {% block content %}
 <header>
-    {{ macros::image(name="2024-05-04-portrait", size="1280") }}
+    <!-- including this manually so we can hardcode dimensions to help browser renderers -->
+    <picture>
+        <source srcset="https://f003.backblazeb2.com/file/maxcrone-org/img/2024-05-04-portrait_1280.avif" type="image/avif">
+        <source srcset="https://f003.backblazeb2.com/file/maxcrone-org/img/2024-05-04-portrait_1280.webp" type="image/webp">
+        <img id="hero-image" src="https://f003.backblazeb2.com/file/maxcrone-org/img/2024-05-04-portrait_1280.jpg" alt="" loading="eager" width="640" height="426.5">
+    </picture>
     <p class="intro">
         Hi, my name is <span class="brand-color"><strong>Max</strong></span>!
         I am a curious twenty-seven year old human from The Netherlands.
