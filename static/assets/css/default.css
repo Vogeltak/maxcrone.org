@@ -760,8 +760,8 @@ with white on white for dark mode. Not good.
     :root {
         --primary-color: #f0f0f0;
         --secondary-color: #abaeac;
-        --bg-color: #0a140b;
-        --bg-color-secondary: #222b23;
+        --bg-color: black;
+        --bg-color-secondary: #272a26;
         --bg-color-secondary-hover: #3a423b;
     }
 
@@ -815,7 +815,7 @@ with white on white for dark mode. Not good.
     }
 
     blockquote {
-        background-color: #ffffff10;
+        background-color: var(--bg-color-secondary);
     }
 
     .post-header .category {
@@ -823,7 +823,7 @@ with white on white for dark mode. Not good.
     }
 
     .fraction, .pill {
-        background-color: var(--bg-color-secondary);
+        background-color: var(--bg-color-secondary-hover);
     }
 
     .exif-data {
