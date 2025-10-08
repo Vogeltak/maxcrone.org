@@ -17,7 +17,7 @@
         {% set rating = book.extra.rating %}
         <p class="rating">{% for i in range(end=rating) %}&starf;{% endfor %}</p>
         <p class="writer">By <strong>{{ book.extra.writer }}</strong></p>
-        <p class="finished">Finished on {{ book.date | date(format="%Y-%m-%d") }}</p>
+        <p class="finished">Read on {{ book.date | date(format="%Y-%m-%d") }}</p>
     </div>
     {% else %}
     <p><em>Nothing here yet</em></p>
