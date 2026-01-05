@@ -1,0 +1,476 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Max Crone" />
+        
+        <meta property="og:url" content="https:&#x2F;&#x2F;maxcrone.org&#x2F;places&#x2F;" />
+        
+        <meta property="og:image" content="https:&#x2F;&#x2F;maxcrone.org/assets/img/preview.png" /-->
+
+        
+<meta property="og:title" content="Place sounds" />
+<meta property="og:description" content="Small soundscapes from places around the world that I&#x27;ve traveled." />
+
+<title>Place sounds | Max Crone</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+<style>
+    #map {
+        width: 100%;
+        height: 80vh;
+    }
+</style>
+
+
+        <link rel="stylesheet" href="/assets/css/default.css">
+        <link rel="icon" href="/assets/img/favicon.ico" sizes="32x32">
+        <link rel="icon" href="/assets/img/logo.svg" type="image/svg+xml">
+        <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+        <link rel="alternate" href="/atom.xml" type="application/atom+xml" title="Max Crone">
+    </head>
+    <body>
+        
+            <nav >
+    <span class="logo-name">
+        <a href="/">
+            <img class="logo" src="/assets/img/logo.svg">
+            Max Crone
+        </a>
+    </span>
+    
+        <a class="menu-button" href="/menu">Menu</a>
+    
+    <span class="menu">
+    
+        <a  href="&#x2F;about">
+            About
+        </a>
+    
+        <a  href="&#x2F;research">
+            Research
+        </a>
+    
+        <a  href="&#x2F;books">
+            Reading
+        </a>
+    
+        <a  href="&#x2F;writing">
+            Writing
+        </a>
+    
+        <a  href="&#x2F;food">
+            Cooking
+        </a>
+    
+        <a  href="&#x2F;photos">
+            Photos
+        </a>
+    
+    </span>
+</nav>
+
+        
+
+        <main>
+        
+<div id="map"></div>
+<section>
+    <p>
+        I've been lucky enough to travel a bit.
+        A beautiful way to remember these places is to record small soundscapes.
+        They give me one of the strongest cocktails of nostalgia and memories.
+        And who doesn't like a map with pins!
+    </p>
+    <small>Inspired by Linus Lee's (a.k.a. thesephist) <a href="https://soundsfromplaces.surge.sh/" target="_blank">Sounds from Places</a>.</small>
+</section>
+
+        </main>
+
+        <footer>
+            <p class="post-copyright">Max Crone © 2016—2026 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></p>
+            <p>Powered by Zola, GoatCounter, GitHub Pages, and Backblaze B2</p>
+            <a href="mailto:hello@maxcrone.org">E-mail</a> •
+            <a href="/atom.xml">RSS</a> •
+            <a href="https://github.com/Vogeltak">GitHub</a> •
+            <a href="https://www.linkedin.com/in/maxcrone">LinkedIn</a>
+        </footer>
+    	
+        <script data-goatcounter="https://maxcrone.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        
+<script>
+    var map = L.map('map').setView([52.39322, 4.90984], 3);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    
+
+    
+        var marker = L.marker([42.694694, 23.325521]).addTo(map);
+        marker.bindPopup(`
+            <h3>The city garden</h3>
+            <p><i>Recorded on March 27, 2025</i></p>
+            <p>I was attending Real World Crypto in the city (amazing conference with many smart people).
+And this park happened to become our anchor point around which several activities revolved.
+Just after arriving I sat down here for a while on my quick photo walk.
+At the end of the first day we gathered in this park with a small group of cryptographers to discuss
+ways in which we are able to help our communities in these times.
+And later in the week we walked through here a few more times.
+After the conference ended, I came here again to decompress a bit.
+Locals flocked to the many benches to catch up with friends or colleagues.
+Or to just relax in the comfortably warm spring air.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-03-27-sofia-city-garden.mp3" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([1.3003193, 103.8520479]).addTo(map);
+        marker.bindPopup(`
+            <h3>Ya Kun Kaya Toast</h3>
+            <p><i>Recorded on February 18, 2025</i></p>
+            <p>I had to start my twenty-four hour layover in Singapore with kaya toast.
+So I walked to a branch of Ya Kun, already drenched in sweat by the time I got there.
+The black coffee, soft boiled eggs, and toast with sweet butter.
+Sweltering morning heat and the clatter of plates and retirees catching up with friends.
+It promised to be an adventurous day.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-18-ya-kun-kaya-toast.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([1.2794, 103.84679]).addTo(map);
+        marker.bindPopup(`
+            <h3>Amoy street food center</h3>
+            <p><i>Recorded on February 18, 2025</i></p>
+            <p>Street food stalls in Singapore have been centralized into big hawker centers.
+The much more famous one that appears in most annals of tourism is the Maxwell food centre not too far from here.
+I went there first, but it was a weird mix of half tourists and half locals (as far as I am able to tell).
+So I continued walking and ran into this one.
+Two stories high, full of hawker stalls.
+And there it was almost exclusively local office workers on their lunch breaks with colleagues.
+Definitely something else than the sad state of office lunch options in the Netherlands.
+(Payment options are either cash or one of the 20+ QR codes for different payment apps that I saw plastered onto some stalls.)
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-18-amoy-street-food-center.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([-44.63877, 167.88161]).addTo(map);
+        marker.bindPopup(`
+            <h3>Milford Sound</h3>
+            <p><i>Recorded on February 12, 2025</i></p>
+            <p>The obligatory cruise through Milford Sound.
+This place is purely tourism, but the natural landscape is still stunning.
+The drive there was also beautiful, in its early morning light.
+It apparently hadn&#x27;t rained for more than six weeks, which is highly unusual for Milford Sound.
+But it meant that our boat ride was luxuriously sunny.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-12-milford-sound.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([-46.602938, 169.019543]).addTo(map);
+        marker.bindPopup(`
+            <h3>Waipohatu waterfall track</h3>
+            <p><i>Recorded on February 11, 2025</i></p>
+            <p>This is a track through some of the rare old-growth bush (this side of New Zealand is mostly one big pasture now).
+I&#x27;d camped at the start of the trail, and when I woke up in the morning I was the only one there.
+Quick wash in a stream, some sandwiches with peanut butter, camera in the bag and go.
+The two waterfalls are roughly halfway along the trail.
+Both immensely beautiful and powerful, in the middle of the dense bush.
+Have never felt more like an explorer than I felt that morning.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-11-waipohatu.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([-45.766402, 170.696374]).addTo(map);
+        marker.bindPopup(`
+            <h3>Aramoana beach</h3>
+            <p><i>Recorded on February  9, 2025</i></p>
+            <p>To get to this remote beach I had to drive along a winding road hugging the mountains on one side
+and the water from the bay glistering on the other side (the sun was already setting).
+It appeared to mostly be a surfers beach.
+The only non-surfer there, was a man with his family, who was carrying fishing cages into the ocean
+and reeling them back in a few minutes later, all the while being soaked through.
+I walked all the way along the beach until large boulders prevented me from continuing.
+There I heard small streams of water rushing down the mountainside, almost as if the stone was weeping.
+I spent the remainder of the evening listening to the sea lions and feeling the ocean breeze on my face.
+I camped in my van right besides the beach.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-09-aramoana-beach.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([-37.816877, 144.966849]).addTo(map);
+        marker.bindPopup(`
+            <h3>Stephan McLaughlan</h3>
+            <p><i>Recorded on February  3, 2025</i></p>
+            <p>I got lost in the huge but hidden Nicholas building in the middle of Melbourne (look it up on Atlas Obscura).
+Every floor was a square circle with old doors behind which should be a multitude of different small businesses and workshops and parlors and clubs.
+But I had come at the wrong time of the week.
+All the way at the top, I found one door was open.
+It led a small art exhibition with a handful of paintings from three different artists.
+Stephan McLaughlin has been running that exhibition space for longer than I&#x27;m alive.
+And he has stories to tell.
+So I just listened while he told, and we gazed through the windows overlooking the city.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2025-02-03-stephen-mclaughlan.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([32.850972, -117.273467]).addTo(map);
+        marker.bindPopup(`
+            <h3>La Jolla Cove</h3>
+            <p><i>Recorded on October 20, 2024</i></p>
+            <p>Sitting right besides the great Pacific ocean.
+This was a very touristy spot, not only for humans.
+Plenty of sea lions and seals chilling on the rocks.
+Flocks of seagulls swerving in and out.
+I spent the rest of the day reading on the beach, while the sun slowly set and the tide pools filled up
+with the water left behind by the retreating ocean.
+Richard Powers&#x27;s *Playground* took two characters on a trip to the Scripps institution of oceanography,
+only a few kilometers from where I had my bare feet in the sand, and then even to La Jolla itself.
+I loved smelling the same air, wading through the same water, and seeing similar small ocean life.
+It felt like I was part of the book.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-10-20-la-jolla-cove.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([32.720431, -117.159175]).addTo(map);
+        marker.bindPopup(`
+            <h3>Cucina 35</h3>
+            <p><i>Recorded on October 20, 2024</i></p>
+            <p>I was in San Diego the week before for a conference and decided to stay another weekend to explore more of the city.
+On the Sunday, I walked over from my hotel in downtown to this traditional Mexican breakfast restaurant.
+They serve chilaquiles; basically tortillas simmered in salsa.
+I had them with mushrooms, refried beans, and a small tamale on the side.
+The restaurant was filled with joyful families and from time to time the staff all came out
+making as much noise as they could, rattling and whooping, to celebrate a table.
+</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-10-20-cocina-35.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([53.304196, 5.079561]).addTo(map);
+        marker.bindPopup(`
+            <h3>Sunday morning after a festival on Vlieland</h3>
+            <p><i>Recorded on September  1, 2024</i></p>
+            <p>I went to volunteer at the Into the Great Wide Open festival on Vlieland.
+Worked in the crew kitchen, where we helped to produce breakfast, lunch, and dinner for the thousand people who helped make the festival a reality.
+Music is played at different stages in forests and among the dunes.
+Locations are beautiful, the people are beautiful, and the island is incredibly peaceful.
+The Sunday morning is the end of the festival, when everyone is still reeling from all their experiences but also very, very tired.
+We&#x27;re sitting at a small square on the camping, while people are ordering coffee, talking amongst themselves, or quietly listening to some soft music.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-09-01-stortemelk-itgwo.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([52.38827, 4.87183]).addTo(map);
+        marker.bindPopup(`
+            <h3>Biking through the rain in Westerpark</h3>
+            <p><i>Recorded on July  9, 2024</i></p>
+            <p>Rushing back to the ferry after a good bouldering session,
+I got caught in the rain while going through Westerpark.
+It was a mild summer evening, with people out all across the park for late evening picnics up until the rain came.
+I slowed down and listened to the birds that were joyous for the refreshing tide.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-07-09-westerpark.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([49.752062, 6.642658]).addTo(map);
+        marker.bindPopup(`
+            <h3>Harp on the streets in Trier</h3>
+            <p><i>Recorded on August 18, 2024</i></p>
+            <p>After a week with friends in the Alsace, France, we were driving back to The Netherlands through Germany
+and stopped in Trier for a lunch break and some quick sightseeing.
+After visiting the old Roman amphitheater we strolled down into the city center and ran into
+a man playing beautifully quiet harp songs in the palace&#x27;s gardens while whistling along to his own tunes.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-08-18-trier.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([47.969127, 7.222702]).addTo(map);
+        marker.bindPopup(`
+            <h3>Soundcheck in Soultzmatt</h3>
+            <p><i>Recorded on August 15, 2024</i></p>
+            <p>On a trip with friends, we were driving back from a day of adventures and stumbled on this small village.
+We saw people in traditional clothing getting out of their cars and carrying instruments down to a small fair.
+So naturally we stopped as well, and sat amongst the locals who were celebrating summer with food, wine, and music.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-08-15-soultzmatt.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([52.34442, 4.53606]).addTo(map);
+        marker.bindPopup(`
+            <h3>Waterleidingduinen</h3>
+            <p><i>Recorded on June 23, 2024</i></p>
+            <p>Went on a long walk through the dunes near Amsterdam where the municipality extracts drinking water.
+We brought sandwiches that we ate on top of a hill, sun blasting, wind lazily throwing us some warm sand.
+Talking about pastoral fantasies and nostalgic summer vacations.
+After we&#x27;d topped the dunes near the sea, we snoozed on the beach, skinny dipped in the sea, and ate melon while its juice dripped down our faces.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-06-23-waterleidingduinen.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([35.7146838, 139.7881882]).addTo(map);
+        marker.bindPopup(`
+            <h3>Kappabashi kitchen tools street</h3>
+            <p><i>Recorded on May 31, 2024</i></p>
+            <p>Browsing through Utsuwazoshi, a store with only wooden kitchen tools, along this inspiring street.
+In one of the shops before it, I bought a beautiful nakiri knife made from carbon.
+In another, I was eyeing some incredible copper pans until I told myself that it would be a bit of a hassle to bring them back with me.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-31-utsuwazoshi.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([35.6580339, 139.6990609]).addTo(map);
+        marker.bindPopup(`
+            <h3>Shibuya station</h3>
+            <p><i>Recorded on May 30, 2024</i></p>
+            <p>The fourth busiest railway station in the world.
+Just outside lie some of these crazy squares where all pedestrians cross (in multiple diagonal degrees) at the same time.
+I just walked around this part of the city for a while, taking photos of streets and people, while an approaching thunderstorm loomed.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-30-shibuya.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([35.03952, 135.72958]).addTo(map);
+        marker.bindPopup(`
+            <h3>Kinkaku-ji</h3>
+            <p><i>Recorded on May 29, 2024</i></p>
+            <p>The Deer Garden Temple is apparently one of Kyoto&#x27;s most popular attractions.
+People were throwing coins at small statues dotted along the path.
+And later on, a group of Japanese school children became giggly obsessed with me.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-29-kinkaku-ji.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([34.6605404, 135.4750963]).addTo(map);
+        marker.bindPopup(`
+            <h3>Local sushi restaurant</h3>
+            <p><i>Recorded on May 28, 2024</i></p>
+            <p>After bouldering at the nearby Galera climbing gym I had found my way to this local sushi conveyor belt restaurant,
+where everyone seemed to know each other.
+I nestled right across from the chef, between two groups of patrons.
+No one spoke any English, but everyone kindly tried to help me to order as much good food as possible.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-28-sushi.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([34.6993987, 135.4956517]).addTo(map);
+        marker.bindPopup(`
+            <h3>Subtropical rainstorm in Umeda</h3>
+            <p><i>Recorded on May 28, 2024</i></p>
+            <p>We had just come out of Camera Obayashi, mostly just intimidated by all the beautiful camera&#x27;s and their astronomical valuations in yen, when we got caught in a heavy downpour.
+While waiting for the pedestrian light, our shoes had already been soaked.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-28-osaka-subtropical-rain.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([34.654984, 135.4989852]).addTo(map);
+        marker.bindPopup(`
+            <h3>Nankai line</h3>
+            <p><i>Recorded on May 28, 2024</i></p>
+            <p>I stayed in a lovely old lady&#x27;s bed and breakfast for a few days and to get into the city I would take the Nankai railway line.
+Warm raindrops were peckering on the train while we approached Imamiyaebisu station.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-28-nankai.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([34.6867273, 135.5278187]).addTo(map);
+        marker.bindPopup(`
+            <h3>Osaka Castle plum gardens</h3>
+            <p><i>Recorded on May 20, 2024</i></p>
+            <p>It was past their flowering, but the plum trees still smelt sweet and dreamy.
+Went there on one of my first days and came back again the next week with a friend.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-20-osaka-castle-plum-garden.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([51.63992, 5.10824]).addTo(map);
+        marker.bindPopup(`
+            <h3>Loonse en Drunense duinen</h3>
+            <p><i>Recorded on May 11, 2024</i></p>
+            <p>I had missed the aurora the previous night, but hoped to catch a glimpse of it now, despite rapidly dwindling prospects.
+Multiple other people were similarly hopeful and had already settled on the warm sand as the darkness slowly got darker.
+Got some nice photos, but no aurora.
+Instead, we listened to this frog opera, which was also beautiful, in its own way.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-05-11-loonse-drunense-duinen.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([43.07919, -79.07816]).addTo(map);
+        marker.bindPopup(`
+            <h3>Niagara Falls</h3>
+            <p><i>Recorded on April 20, 2024</i></p>
+            <p>Visited this touristy place on my last day in Canada.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-04-20-niagara-falls.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([44.45315, -75.86468]).addTo(map);
+        marker.bindPopup(`
+            <h3>Thousand Islands national park, Canada</h3>
+            <p><i>Recorded on April 18, 2024</i></p>
+            <p>Didn&#x27;t have a boat and the season wasn&#x27;t opened yet, so I had to be content with hikes on the mainland.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-04-18-thousand-islands.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([44.04949, -77.52525]).addTo(map);
+        marker.bindPopup(`
+            <h3>Owl&#x27;s Nest, Prince Edward County, Canada</h3>
+            <p><i>Recorded on April 18, 2024</i></p>
+            <p>Stayed at a homestead of a young family for the night.
+They had a also built a beautiful open shed with a swing next to a pond where the frogs were in mating season.
+The rest of the night was filled by a full choir of birds.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-04-18-owls-nest.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([48.86151, -64.38167]).addTo(map);
+        marker.bindPopup(`
+            <h3>Forillon national park, Canada</h3>
+            <p><i>Recorded on April 15, 2024</i></p>
+            <p>Tried to go for a hike in-between seasons, but the trail still had a layer of snow that came up to my upper leg.
+I struggled for a while, but ended up just listening to the water.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2024-04-15-forillon.m4a" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([52.39322, 4.90984]).addTo(map);
+        marker.bindPopup(`
+            <h3>Badhus, Amsterdam</h3>
+            <p><i>Recorded on November 10, 2023</i></p>
+            <p>The floating sauna where I volunteer as a host.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2023-11-10-badhus.aac" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([46.7339, 8.7284]).addTo(map);
+        marker.bindPopup(`
+            <h3>Train from Lugano to Basel, Switzerland</h3>
+            <p><i>Recorded on September 22, 2023</i></p>
+            <p>Our train ride through Switzerland brought us past beautiful mountain ranges where
+all the meltwater rushed down waterfalls for kilometers on end.
+Meanwhile, the rain trickled over our railwagon.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2023-09-22-train-to-basel.aac" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([46.02287, 8.89013]).addTo(map);
+        marker.bindPopup(`
+            <h3>Cademario, Lugano, Switzerland</h3>
+            <p><i>Recorded on September 21, 2023</i></p>
+            <p>While we stayed in the Kurhaus, we tried to hike the hill in the window of opportunity between all the rain.
+Or so we thought.
+The rain started to fall around us again, but at least we were relatively well protected whilst among the trees.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2023-09-21-cademario.aac" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([44.30242, 9.21404]).addTo(map);
+        marker.bindPopup(`
+            <h3>Castello Brown, Portofino, Italy</h3>
+            <p><i>Recorded on September 17, 2023</i></p>
+            <p>We&#x27;d climbed the hill on top of which the castello stood, overlooking Portofino.
+Now we longed to cool off in the seductive waves of the sea below.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2023-09-17-portofino-castle.aac" autoplay controls></audio>
+        `);
+    
+        var marker = L.marker([52.3856719, 4.8432119]).addTo(map);
+        marker.bindPopup(`
+            <h3>Bright Computing&#x27;s datacenter, Sloterdijk</h3>
+            <p><i>Recorded on October 27, 2022</i></p>
+            <p>My first job out of college had an office in Amsterdam, where they colocated a few racks in the tower&#x27;s basement.
+I had to fiddle around in it from time to time when I needed to write integrations with new hardware.</p>
+            <audio src="&#x2F;assets&#x2F;audio&#x2F;2022-10-27-bright-computing-datacenter.aac" autoplay controls></audio>
+        `);
+    
+</script>
+
+    </body>
+</html>
