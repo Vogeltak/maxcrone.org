@@ -346,6 +346,26 @@ sup + p {
     }
 }
 
+@media only screen and (min-width: 680px) {
+    .post-item {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .post-item::before {
+        content: '';
+        border-bottom: dotted 2px var(--secondary-color);
+        order: 1;
+        flex: 1;
+        margin: 0.25em;
+    }
+
+    .post-item .date {
+        order: 2;
+        margin-top: 0.25em;
+    }
+}
+
 /* ==========
     Post
 ========== */
