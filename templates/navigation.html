@@ -8,7 +8,17 @@
     {% if current_path and current_path == "/menu/" %}
         <a class="menu-button" href="/" onclick='return document.referrer?history.back():window.location.href="/",!1'>Close</a>
     {% else %}
-        <a class="menu-button" href="/menu">Menu</a>
+        <button class="menu-button" popovertarget="menu-popover">Menu</button>
+        <div id="menu-popover" popover>
+            <div class="menu-page">
+            {% for item in config.extra.navigation %}
+                <a href="{{ item.path}}">
+                    <div>{{ item.name }}</div>
+                    <div><small>{{ item.desc }}</small></div>
+                </a>
+            {% endfor %}
+            </div>
+        </div>
     {% endif %}
     <span class="menu">
     {% for item in config.extra.navigation %}
