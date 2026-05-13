@@ -16,17 +16,17 @@ Let's find out!
 
 [The Tech High Ground](https://www.foreignaffairs.com/united-states/tech-high-ground-jake-sullivan) by Jake Sullivan in Foreign Affairs.
 
-(This is the Jake Sullivan that also made frequest appearances in [Corridors of Power](/essay/corridors-of-power), mostly talking about his role during the Obama administrations.)
+(This is the Jake Sullivan who also made frequent appearances in [Corridors of Power](/essay/corridors-of-power), mostly talking about his role during the Obama administrations.)
 
 It's an interesting piece that mostly distills current thinking into a framework of goals for a comprehensive American techno-industrial strategy.
-Also, very typical that Jake mentions some of the factors that allow China to coordinate their industrial policy effectively, like state banks, but then still falls into the Western neo-capitalist trap of advocating for the government to take on the risk of private investors as a way to steer investment in critical industries which then allows all profit to still trickle upwards into the pockets of private capitalists.
+Also, it's very typical that Jake mentions some of the factors that allow China to coordinate its industrial policy effectively, like state banks, but then still falls into the Western neo-capitalist trap of advocating for the government to take on the risk of private investors as a way to steer investment in critical industries, which then allows all profit to still trickle upwards into the pockets of private capitalists.
 
 > Wall Street firms privilege investments in software, excited by the high returns its scalability promises. They devote far less attention and money to capital-intensive, lower-margin industrial production. A strategy that relies on the invisible hand of the market to allocate capital to strategic hardware manufacturing will fail if that hand is only chasing the next software unicorn. The U.S. government must work with the private sector to overcome this misalignment, using public policy tools such as tax credits, loan guarantees, and risk insurance to make less attractive investments financially viable for private capital.
 
-This essay also mentions the trust lost among allies of the US, exacerbated over the last year.
+This essay also mentions the trust lost among U.S. allies, exacerbated over the last year.
 And it places high value on "the global digital economy [running] on a U.S. tech stack".
 
-Jake contrasts it to China's approach:
+Jake contrasts it with China's approach:
 
 > Beijing is already exporting a Chinese-made version of this digital infrastructure across much of the developing world, often bundling telecommunications hardware, cloud services, surveillance systems, payment platforms, and low-cost financing for those offerings. These exports are not neutral; they prioritize state control, censorship, and surveillance by default. In effect, Beijing is exporting an operating system for authoritarianism. The United States must offer a better alternative.
 
@@ -59,7 +59,7 @@ It's also fascinating how one of the V.P.s of Google for Education has basically
 
 [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) by Robert Glaser.
 
-The plurality of operating large organizaitons seems to be growing only more plural, when there's some that will find incredibly effective loops and there's others where imagination does not extend beyond shallow application to business processes from the past.
+The plurality of operating large organizations seems to be growing only more plural, when there's some that will find incredibly effective loops and there's others where imagination does not extend beyond shallow application to business processes from the past.
 
 > The awkward thing is that many organizations spent twenty years calling themselves agile while preserving the organizational reflexes agile was supposed to remove. Now AI makes real agility more plausible, and the system still asks for two-week sprint commitments, handoff documents, and all the stuff that assumes iteration is scarce.
 >
@@ -69,8 +69,8 @@ The plurality of operating large organizaitons seems to be growing only more plu
 
 [Nepnieuws en anti-westerse propaganda](https://www.groene.nl/artikel/nepnieuws-en-anti-westerse-propaganda) by Sophie Timmermann in De Groene Amsterdammer.
 
-I remember reading [the perspective of Freedom Internet](https://freedom.nl/nieuwsartikel/freedom-blokkeert-nlconnect-lijst-maar-schrapt-litouwse-bronlijst) (an ISP in The Netherlands) on the government ordered blocking of Russian propaganda domains.
-Their situation is precarious, because the government's market authority can fine them if they infringe on net neutrality, while the public prosecutor can fine them if they don't block the Russian propaganda domains.
+I remember reading [the perspective of Freedom Internet](https://freedom.nl/nieuwsartikel/freedom-blokkeert-nlconnect-lijst-maar-schrapt-litouwse-bronlijst) (an ISP in the Netherlands) on the government-ordered blocking of Russian propaganda domains.
+Their situation is precarious because the government's market authority can fine them if they infringe on net neutrality, while the public prosecutor can fine them if they don't block the Russian propaganda domains.
 Except, the government doesn't actually specify which domains are part of the block.
 I understand that every list they would come up with will immediately be outdated, with Russian actors moving nimbly to other domains.
 But now there's just a group of companies that drafted a blocklist.
@@ -85,7 +85,7 @@ A reading note on a reading note.
 It's saddening to realize how toxic and inhumane the "labor market" clearly is.
 Artificial scarcity of "desirable" positions is an instrument for companies to demand greater self-sacrificial devotion from the individual.
 
-> In one layoff announcement after another, we hear that AI can now do the work of a great many people, which is why far fewer people are needed to do the work. If, for the moment, we take that assertion at face value, this still leaves an obvious alternative path: instead of reducing the number of workers, companies could reduce the amount of working time. That is, rather than laying off twenty percent of the workforce, they could have everyone work twenty percent less. In fact, I’d venture that a great number of knowledge workers would be more than happy to take a twenty percent pay cut in exchange for a four-day work week.1 Time is very often more valuable than cash.
+> In one layoff announcement after another, we hear that AI can now do the work of a great many people, which is why far fewer people are needed to do the work. If, for the moment, we take that assertion at face value, this still leaves an obvious alternative path: instead of reducing the number of workers, companies could reduce the amount of working time. That is, rather than laying off twenty percent of the workforce, they could have everyone work twenty percent less. In fact, I’d venture that a great number of knowledge workers would be more than happy to take a twenty percent pay cut in exchange for a four-day work week. Time is very often more valuable than cash.
 >
 > But the steady drumbeat of layoffs suggests that no member of the C-suite has even considered this path. Why not?
 
