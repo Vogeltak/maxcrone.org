@@ -31,7 +31,8 @@
         {% set essays = get_section(path="essay/_index.md") %}
         {% set fiction = get_section(path="fiction/_index.md") %}
         {% set flash = get_section(path="flash/_index.md") %}
-        {% set post = essays.pages | concat(with=fiction.pages) | concat(with=flash.pages) | sort(attribute="date") | last %}
+        {% set internet_pieces = get_section(path="links/_index.md") %}
+        {% set post = essays.pages | concat(with=fiction.pages) | concat(with=flash.pages) | concat(with=internet_pieces.pages) | sort(attribute="date") | last %}
         {% set parent = post.ancestors | last %}
         {% set category = get_section(path=parent) %}
         <a href="{{ post.path }}">{{ post.title }}</a>

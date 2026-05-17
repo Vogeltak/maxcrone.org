@@ -25,6 +25,19 @@
     {% endfor %}
 </section>
 {% endfor %}
+{% set internet_pieces = get_section(path="links/_index.md") %}
+<section>
+    <h2>Pieces from the internet</h2>
+    <p>A mix between a link blog and a periodic review where I pick a few pieces I read on the internet and write down some thoughts.</p>
+</section>
+<section class="post-grid">
+    {% for page in internet_pieces.pages %}
+        <div class="post-item">
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+        </div>
+    {% endfor %}
+</section>
 <section>
     <h2>Micro-blog</h2>
     <p>
