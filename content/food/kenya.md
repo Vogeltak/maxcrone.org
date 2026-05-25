@@ -1,6 +1,7 @@
 +++
 title = "Kenya"
 authors = [ "Max Crone",]
+date = 2021-03-27
 updated = 2021-03-27
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "China"
 authors = [ "Max Crone",]
-date= 2020-11-25
+date = 2020-11-25
 updated = 2021-04-11
 +++
 

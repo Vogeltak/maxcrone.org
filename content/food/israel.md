@@ -1,6 +1,7 @@
 +++
 title = "Israel"
 authors = [ "Max Crone",]
+date = 2022-06-09
 updated = 2022-06-09
 +++
 
