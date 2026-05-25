@@ -9,8 +9,9 @@ Giving my thoughts or laying out personal connections or just quoting some of th
 This first iteration pulls together pieces I've read since the beginning of May.
 Maybe I'll discover along the way that I prefer a more traditional link blog.
 Or that I vibe better with a monthly schedule.
-Or even with an undeterministic sliding window, that I push out once it feels ready.
+Or even with an nondeterministic sliding window, that I push out once it feels ready.
 Let's find out!
+<!-- more -->
 
 ---
 

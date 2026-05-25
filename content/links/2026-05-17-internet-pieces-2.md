@@ -5,6 +5,7 @@ authors = [ "Max Crone",]
 
 After [last week's kick-off](/links/internet-pieces-1), this second edition now officially makes it a recurring project.
 Because of course I've read many little pieces across the internet again.
+<!-- more -->
 
 ---
 
@@ -44,7 +45,7 @@ A data point showing the increasing momentum of digital sovereignty in Europe.
 Some links to fresh institutions, a 180 million euro tender from the European Commission, and a European Sovereign Tech Fund.
 And the Joint Research Center, which looks like a fascinating organization that provides evidence-based knowledge to support EU policies (see, e.g., [Supporting science and policy for European digital sovereignty](https://joint-research-centre.ec.europa.eu/projects-and-activities/supporting-science-and-policy-european-digital-sovereignty_en)).
 But Bert emphasizes that there's still not much actually happening.
-Large-scale changes require the buy-in of people across many companies and organzations in the EU.
+Large-scale changes require the buy-in of people across many companies and organizations in the EU.
 
 ---
 
