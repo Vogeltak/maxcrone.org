@@ -1,13 +1,6 @@
 {% extends "page.html" %}
 
 {% block content %}
-<header>
-    <h1>Archive</h1>
-    <p class="intro">
-        This is everything.
-        In reverse chronological order.
-    </p>
-</header>
 {% set section = ["essay", "fiction", "flash", "micro", "links", "books", "food", "a/portraits", "a/street", "a/events", "a/nature", "a/food"] %}
 {% set_global all_posts = [] %}
 
@@ -17,12 +10,21 @@
 {% endfor %}
 
 {% set sorted_posts = all_posts | sort(attribute="date") | reverse %}
+<header>
+    <h1>Archive</h1>
+    <p class="intro">
+        This is everything.
+        In reverse chronological order.
+    </p>
+    <p>
+        <em>{{ sorted_posts | length }} posts</em>
+    </p>
+</header>
 <section class="post-grid">
 {% for post in sorted_posts %}
     {% set parent = post.ancestors | last %}
     {% set category = get_section(path=parent) %}
-    <div class="post-item">
-        <span class="category">{{ category.title }}</span>
+    <div>
         <a href="{{ post.permalink }}">
         {% if post.title %}
             {{ post.title }}
@@ -30,7 +32,10 @@
             {{ post.slug }}
         {% endif %}
         </a>
-        <span class="date">{{ post.date | date(format="%Y-%m-%d") }}</span>
+        <div>
+            <span class="date">{{ post.date | date(format="%Y-%m-%d") }}</span>
+            <span class="category">{{ category.title }}</span>
+        </div>
     </div>
 {% endfor %}
 </section>

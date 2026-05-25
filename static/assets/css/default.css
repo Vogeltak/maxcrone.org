@@ -367,7 +367,6 @@ sup + p {
     .post-grid .writer, .post-grid .date {
         font-size: 0.9rem;
         margin: 0;
-        opacity: 0.5;
     }
 
     .post-grid .category {
