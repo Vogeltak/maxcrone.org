@@ -5,7 +5,13 @@
     {% set parent = page.ancestors | last %}
     {% set section = get_section(path=parent) %}
     <span class="category">{{ section.title }}</span>
-    <h1 class="title">{{ page.title }}</h1>
+    <h1 class="title">
+    {% if page.title %}
+        {{ page.title }}
+    {% else %}
+        {{ page.slug }}
+    {% endif %}
+    </h1>
     <p class="post-author-date">
         {% if page.date and page.updated and page.date != page.updated %}
             {{ page.date | date(format="%B %e, %Y") }}<br><em>(last updated on {{ page.updated | date(format="%B %e, %Y") }})</em>

@@ -370,6 +370,11 @@ sup + p {
         opacity: 0.5;
     }
 
+    .post-grid .category {
+        font-size: 0.9rem;
+        font-style: italic;
+    }
+
 @media only screen and (min-width: 560px) {
     .post-grid {
         grid-template-columns: repeat(1, 1fr);
@@ -380,6 +385,7 @@ sup + p {
     .post-item {
         display: flex;
         justify-content: space-between;
+        gap: 0.25rem;
     }
 
     .post-item::before {
@@ -393,6 +399,7 @@ sup + p {
     .post-item .date {
         order: 2;
         margin-top: 0.25em;
+        opacity: 1;
     }
 }
 
