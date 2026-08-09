@@ -1,4 +1,37 @@
 [[places]]
+name = "Ferry to the Princes' islands"
+date = 2025-05-28
+desc = """
+On one the ferries that go to all the Princes' islands.
+A bit of a longer trip, but the islands are very peaceful and quiet in comparison to the busy Istanbul streets.
+"""
+lat = 40.94020
+lon = 29.04000
+sound = "/assets/audio/2025-05-28-island-ferry.mp3"
+
+[[places]]
+name = "Kabataş ferry ticket gates"
+date = 2025-05-26
+desc = """
+The ferries criss-crossing the Bosporus are an integral part of getting around Istanbul.
+This is in one of the waiting areas after you've past the ticket gates at a large ferry stop.
+It was a busy time of day.
+"""
+lat = 41.033191
+lon = 28.993616
+sound = "/assets/audio/2025-05-26-kabataş-ticket-gates.mp3"
+
+[[places]]
+name = "Tophane Mekan"
+date = 2025-05-24
+desc = """
+Roaming the European half of the city, I found myself in an inner garden where I sat for a while to listen to the people and watch a few cats.
+"""
+lat = 41.029448
+lon = 28.97554
+sound = "/assets/audio/2025-05-24-tophane-mekan.mp3"
+
+[[places]]
 name = "The city garden"
 date = 2025-03-27
 desc = """
