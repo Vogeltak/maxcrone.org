@@ -9,7 +9,7 @@
 <div class="photo-grid">
   {% for photo in section.pages %}
     <a class="image" href="{{ photo.path }}">
-      {{ macros::image(name=photo.extra.img, size="1280") }}
+      {{ <image name={photo.extra.img} size={1280}/> }}
     </a>
   {% endfor %}
 </div>

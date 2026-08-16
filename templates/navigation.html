@@ -22,7 +22,7 @@
     {% endif %}
     <span class="menu">
     {% for item in config.extra.navigation %}
-        <a {% if current_path %}{% if current_path == item.path ~ "/" or current_path is starting_with(item.path) %}class="current"{% endif %}{% endif %} href="{{ item.path }}">
+        <a {% if current_path %}{% if current_path == item.path ~ "/" or current_path is starting_with(pat=item.path) %}class="current"{% endif %}{% endif %} href="{{ item.path }}">
             {{ item.name }}
         </a>
     {% endfor %}
