@@ -570,17 +570,34 @@ sup + p {
 }
 
 .album-stack {
+    border-radius: 12px;
     flex: 1;
     max-width: 480px;
     position: relative;
 }
 
+    .album-stack, .album-stack-item {
+        transition: transform 100ms ease;
+    }
+
     .album-stack:hover {
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
         opacity: 0.9;
+        transform: translateY(-1px);
+    }
+
+    .album-stack:hover .album-stack-item-1 {
+        transform: translateY(-4px);
+    }
+
+    .album-stack:hover .album-stack-item-2 {
+        transform: translateY(-8px);
     }
 
     .album-stack img {
         border-top: 1px solid white;
+        /* forces the picture container to take the size of the block-level <img> */
+        display: block;
         width: 100%;
         /*
          * Caps album cover aspect ratio to 1:1.

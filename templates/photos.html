@@ -19,8 +19,8 @@
   {% for album in [portraits, street, events, nature, food] %}
 		<div class="album-item">
 	    <a class="album-stack image" href="{{ album.path}}">
-				<div class="album-stack-item-2" style="background: {{ album.extra.color }};"></div>
-				<div class="album-stack-item-1" style="background: {{ album.extra.color }};"></div>
+				<div class="album-stack-item album-stack-item-2" style="background: {{ album.extra.color }};"></div>
+				<div class="album-stack-item album-stack-item-1" style="background: {{ album.extra.color }};"></div>
 		    {{ macros::image(name=album.extra.cover, size="640") }}
 	    </a>
 			<div class="album-text">
